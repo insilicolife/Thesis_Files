@@ -1,0 +1,15 @@
+ID	Disease	Item Type	Item Barcode	Item UUID	Classification	Category	Annotator	Date Created	Annotation
+2700	GBM	Patient	TCGA-15-1444	4c42dc4e-66b7-40bf-9fbe-b92543248198	Notification	Pathology outside specification	pyena	05/15/2011	[intgen.org]: Pathology Results off Spec	
+1775	GBM	Analyte	TCGA-06-0211-01B-01T	07ded71f-9b9e-4992-a36c-03394f6ce9b7	Notification	Item in special subset	DCC	03/14/2011	Portioning Study	
+11917	GBM	Patient	TCGA-14-1823	a515cf2d-e918-4958-9bf6-e611b425a97e	Notification	Case submitted is found to be a recurrence after submission	snyderee	11/10/2012	Per enrollment form, patient had a prior diagnosis of a lower grade glioma.	
+11906	GBM	Patient	TCGA-27-2526	69d0a566-5fbf-45f6-a240-649b06868e27	Notification	Qualified in error	snyderee	11/08/2012	Subject qualified in error	
+3176	GBM	Patient	TCGA-02-0055	da5f6940-e8ee-4fd1-a8da-4cd68e02e59c	Notification	Neoadjuvant therapy	demchokja	07/27/2011	Subject positive for neoadjuvant therapy.	
+691	GBM	Patient	TCGA-06-0178	53abce1d-7e33-4ebd-832f-f3789f67377f	Observation	Normal class but appears diseased	DCC	07/30/2010	[schaefc]: Genomic data resembles tumor data	
+11919	GBM	Patient	TCGA-16-1045	cd73f38a-f6ff-4e7b-bd43-ec7b82dbe7df	Notification	Case submitted is found to be a recurrence after submission	snyderee	11/10/2012	Per enrollment form, patient had a prior diagnosis of a lower grade glioma.	
+5007	GBM	Patient	TCGA-26-5132	2c5fa2d4-8e35-42e4-8bca-9fb3371a19c8	Notification	Prior malignancy	pyena	03/09/2012	Prior Prostate malignancy as per pathology report.	
+11926	GBM	Patient	TCGA-19-2619	f2de4316-026c-4c2d-b091-47bc0ec8612a	Notification	Case submitted is found to be a recurrence after submission	snyderee	11/10/2012	Per enrollment form, patient had a prior diagnosis of a lower grade glioma.	
+11913	GBM	Patient	TCGA-06-0744	5613f5f6-086d-470b-8f77-6dcb7f8625b7	Notification	Case submitted is found to be a recurrence after submission	snyderee	11/10/2012	Per enrollment form, patient had a prior diagnosis of a lower grade glioma.	
+3384	GBM	Patient	TCGA-06-1804	9348e446-0e43-4210-b07e-c534980cbf62	Notification	Item in special subset	pyena	09/18/2011	Case came in as GBM.  BCR was notified that case was LGG.  Program Office determined this will be a Notification vs. a Redaction	
+1577	GBM	Analyte	TCGA-06-0138-01A-01T	87196b6b-2e00-4a7c-bf89-3aa7de98cda8	Notification	Item in special subset	DCC	03/14/2011	Portioning Study	
+11932	GBM	Patient	TCGA-26-1442	c29d73c0-c885-4105-bf74-38e9178e71c9	Notification	Case submitted is found to be a recurrence after submission	snyderee	11/10/2012	Per enrollment form, patient had a prior diagnosis of a lower grade glioma.	
+5009	GBM	Patient	TCGA-06-2557	6c28f086-6a25-40b6-93eb-bba0014acda6	Notification	Prior malignancy	pyena	03/09/2012	Prior Prostate malignancy as per pathology report.	

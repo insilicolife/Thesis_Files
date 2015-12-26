@@ -1,0 +1,3051 @@
+$ABCF2
+Motif 353 Motif 355 Motif 371 Motif 441
+
+$ABI2
+Motif 16  Motif 23  Motif 45  Motif 50  Motif 68  Motif 69  Motif 92  Motif 125 Motif 128 Motif 158 Motif 164 Motif 170 Motif 188 Motif 195 Motif 200 Motif 240 Motif 245 Motif 247 Motif 264 Motif 294 Motif 301 Motif 305 Motif 306 Motif 307 Motif 308 Motif 309 Motif 310 Motif 317 Motif 326 Motif 328 Motif 332 Motif 339 Motif 345 Motif 353 Motif 355 Motif 377 Motif 378 Motif 381 Motif 383 Motif 384 Motif 386 Motif 393 Motif 397 Motif 398 Motif 411 Motif 433 Motif 460
+
+$ACF
+Motif 3   Motif 31  Motif 342 Motif 397 Motif 434 Motif 456
+
+$ACO1
+Motif 28  Motif 67  Motif 345 Motif 369 Motif 372 Motif 373
+
+$ACO2
+Motif 301 Motif 308
+
+$ACTL6B
+Motif 112 Motif 113 Motif 114 Motif 115 Motif 116 Motif 118 Motif 121 Motif 123 Motif 124 Motif 126 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 136 Motif 137 Motif 138 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 146 Motif 147 Motif 148 Motif 149 Motif 156 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 165 Motif 166 Motif 167 Motif 169 Motif 171 Motif 172 Motif 174 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 182 Motif 183 Motif 185 Motif 187 Motif 188 Motif 189 Motif 190 Motif 191 Motif 193 Motif 194 Motif 195 Motif 196 Motif 199 Motif 288
+
+$ADARB1
+Motif 193 Motif 194 Motif 318 Motif 335 Motif 339 Motif 341 Motif 432 Motif 439 Motif 451
+
+$ADNP
+Motif 221
+
+$AFF4
+Motif 1   Motif 3   Motif 13  Motif 39  Motif 68  Motif 72  Motif 76  Motif 92  Motif 153 Motif 285 Motif 288
+
+$AGGF1
+Motif 15  Motif 87  Motif 285 Motif 356 Motif 407 Motif 411 Motif 425
+
+$AIM2
+Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 9   Motif 11  Motif 13  Motif 14  Motif 15  Motif 16  Motif 30  Motif 31  Motif 34  Motif 42  Motif 44  Motif 45  Motif 50  Motif 51  Motif 67  Motif 68  Motif 69  Motif 70  Motif 72  Motif 73  Motif 75  Motif 76  Motif 79  Motif 81  Motif 83  Motif 85  Motif 86  Motif 89  Motif 90  Motif 91  Motif 92  Motif 93  Motif 95  Motif 99  Motif 100 Motif 179 Motif 191 Motif 240 Motif 245 Motif 267 Motif 285 Motif 303 Motif 393 Motif 397 Motif 398 Motif 431 Motif 438 Motif 460
+
+$AKAP10
+Motif 47  Motif 51  Motif 68  Motif 98  Motif 116 Motif 118 Motif 120 Motif 121 Motif 122 Motif 128 Motif 129 Motif 131 Motif 134 Motif 140 Motif 155 Motif 158 Motif 160 Motif 161 Motif 169 Motif 172 Motif 173 Motif 174 Motif 178 Motif 194 Motif 195 Motif 206 Motif 240 Motif 264 Motif 268 Motif 291 Motif 301 Motif 315 Motif 317 Motif 318 Motif 322 Motif 324 Motif 329 Motif 330 Motif 333 Motif 336 Motif 353 Motif 357 Motif 438 Motif 439 Motif 445 Motif 446 Motif 449 Motif 454 Motif 458 Motif 460
+
+$AKR1A1
+Motif 1   Motif 2   Motif 3   Motif 13  Motif 23  Motif 68  Motif 72  Motif 76  Motif 85  Motif 89  Motif 90  Motif 92  Motif 158 Motif 240
+
+$ALDOC
+Motif 32  Motif 47  Motif 55  Motif 59  Motif 68  Motif 92  Motif 100 Motif 104 Motif 111 Motif 125 Motif 158 Motif 160 Motif 164 Motif 169 Motif 183 Motif 210 Motif 234 Motif 240 Motif 247 Motif 267 Motif 269 Motif 276 Motif 278 Motif 301 Motif 310 Motif 317 Motif 328 Motif 351 Motif 355 Motif 383 Motif 398 Motif 428 Motif 430 Motif 438
+
+$ANG
+Motif 137
+
+$ANKS1A
+Motif 1   Motif 3   Motif 13  Motif 23  Motif 32  Motif 43  Motif 44  Motif 59  Motif 69  Motif 85  Motif 90  Motif 112 Motif 133 Motif 150 Motif 195 Motif 196 Motif 200 Motif 205 Motif 214 Motif 240 Motif 245 Motif 247 Motif 249 Motif 250 Motif 267 Motif 276 Motif 280 Motif 281 Motif 284 Motif 285 Motif 307 Motif 309 Motif 310 Motif 317 Motif 322 Motif 332 Motif 342 Motif 355 Motif 397 Motif 398 Motif 411 Motif 426 Motif 429 Motif 430 Motif 434 Motif 435 Motif 441 Motif 445 Motif 448 Motif 460
+
+$ANXA1
+Motif 4   Motif 7   Motif 89  Motif 95  Motif 130 Motif 155 Motif 249 Motif 250 Motif 264 Motif 267 Motif 285 Motif 345 Motif 385
+
+$ANXA11
+Motif 3   Motif 4   Motif 85  Motif 89  Motif 90  Motif 92  Motif 315 Motif 318 Motif 325 Motif 326
+
+$APEX2
+Motif 92  Motif 117 Motif 121 Motif 123 Motif 124 Motif 127 Motif 142 Motif 153 Motif 158 Motif 160 Motif 162 Motif 174 Motif 178 Motif 248
+
+$APLP2
+Motif 29  Motif 185
+
+$APOBEC3C
+Motif 50  Motif 54  Motif 55  Motif 56  Motif 57  Motif 67  Motif 79  Motif 90  Motif 103 Motif 105 Motif 112 Motif 123 Motif 125 Motif 128 Motif 132 Motif 133 Motif 136 Motif 137 Motif 141 Motif 143 Motif 144 Motif 150 Motif 151 Motif 155 Motif 158 Motif 173 Motif 174 Motif 175 Motif 181 Motif 188 Motif 190 Motif 195 Motif 214 Motif 224 Motif 228 Motif 240 Motif 245 Motif 247 Motif 267 Motif 285 Motif 316 Motif 317 Motif 320 Motif 324 Motif 332 Motif 342 Motif 351 Motif 353 Motif 355 Motif 386 Motif 397 Motif 426 Motif 452
+
+$APOBEC3G
+Motif 381
+
+$ARFGAP1
+Motif 249 Motif 428 Motif 446
+
+$ARID3B
+Motif 43  Motif 47  Motif 59  Motif 75  Motif 109 Motif 110 Motif 116 Motif 120 Motif 121 Motif 123 Motif 124 Motif 126 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 138 Motif 140 Motif 142 Motif 147 Motif 154 Motif 155 Motif 156 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 165 Motif 169 Motif 172 Motif 173 Motif 174 Motif 175 Motif 176 Motif 178 Motif 187
+
+$ARL6IP4
+Motif 3
+
+$ARMC6
+Motif 269
+
+$ARNTL
+Motif 403 Motif 410 Motif 417 Motif 418
+
+$ASCC1
+Motif 85  Motif 92  Motif 153
+
+$ASPH
+Motif 42  Motif 299
+
+$ASPSCR1
+Motif 4   Motif 16  Motif 89  Motif 90  Motif 92  Motif 99  Motif 269 Motif 285
+
+$ATF7
+Motif 200
+
+$ATG4B
+Motif 44
+
+$ATOH7
+Motif 132 Motif 140
+
+$ATP5E
+Motif 95
+
+$AVEN
+Motif 140 Motif 195 Motif 347 Motif 351 Motif 355 Motif 357 Motif 378 Motif 384 Motif 446
+
+$BAD
+Motif 129 Motif 130 Motif 288 Motif 289
+
+$BANP
+Motif 288
+
+$BARX1
+Motif 34  Motif 108 Motif 110 Motif 127 Motif 163
+
+$BARX2
+Motif 344
+
+$BAT4
+Motif 255 Motif 357 Motif 366
+
+$BATF
+Motif 50
+
+$BAX
+Motif 200 Motif 269 Motif 430
+
+$BCL11A
+Motif 100 Motif 194 Motif 200 Motif 205 Motif 240 Motif 269 Motif 275 Motif 317 Motif 411
+
+$BCL3
+Motif 77  Motif 285
+
+$BLOC1S1
+Motif 28 Motif 34
+
+$BLZF1
+Motif 36 Motif 43
+
+$BMI1
+Motif 82
+
+$BOLL
+Motif 151 Motif 328 Motif 332 Motif 345 Motif 369 Motif 371 Motif 372 Motif 373 Motif 415
+
+$BRD3
+Motif 1   Motif 4   Motif 5   Motif 6   Motif 8   Motif 9   Motif 11  Motif 14  Motif 16  Motif 17  Motif 18  Motif 19  Motif 20  Motif 21  Motif 22  Motif 23  Motif 26  Motif 27  Motif 28  Motif 42  Motif 43  Motif 44  Motif 48  Motif 63  Motif 65  Motif 70  Motif 72  Motif 76  Motif 77  Motif 80  Motif 81  Motif 83  Motif 85  Motif 86  Motif 88  Motif 89  Motif 90  Motif 91  Motif 92  Motif 93  Motif 95  Motif 99  Motif 200 Motif 264 Motif 269 Motif 429
+
+$BRUNOL4
+Motif 151 Motif 398 Motif 448
+
+$BRUNOL5
+Motif 3   Motif 50  Motif 72  Motif 92  Motif 151 Motif 328 Motif 398 Motif 415 Motif 448
+
+$BRUNOL6
+Motif 3   Motif 13  Motif 29  Motif 32  Motif 39  Motif 43  Motif 50  Motif 81  Motif 86  Motif 129 Motif 347 Motif 371 Motif 393 Motif 398 Motif 411 Motif 415 Motif 433 Motif 448
+
+$C11orf61
+Motif 215
+
+$C13orf15
+Motif 377
+
+$C14orf106
+Motif 16  Motif 41  Motif 55  Motif 59  Motif 100 Motif 103 Motif 112 Motif 131 Motif 133 Motif 134 Motif 141 Motif 158 Motif 160 Motif 178 Motif 179 Motif 188 Motif 195 Motif 205 Motif 247 Motif 248 Motif 249 Motif 288 Motif 307 Motif 309 Motif 317 Motif 332 Motif 353 Motif 355 Motif 411 Motif 435
+
+$C14orf118
+Motif 155 Motif 156 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 166 Motif 167 Motif 169 Motif 171 Motif 172 Motif 173 Motif 174 Motif 176 Motif 177 Motif 178 Motif 180 Motif 181 Motif 182 Motif 183 Motif 184 Motif 185 Motif 187 Motif 188 Motif 189 Motif 190 Motif 191 Motif 193 Motif 194 Motif 195 Motif 196
+
+$C16orf80
+Motif 147
+
+$C17orf79
+Motif 77
+
+$C19orf25
+Motif 14  Motif 42  Motif 70  Motif 85  Motif 88  Motif 117
+
+$C19orf40
+Motif 56  Motif 140 Motif 194 Motif 195 Motif 247 Motif 250 Motif 301 Motif 307 Motif 324 Motif 332 Motif 333 Motif 341 Motif 345 Motif 355 Motif 357 Motif 371 Motif 378 Motif 411 Motif 433 Motif 445
+
+$C19orf43
+Motif 285
+
+$C1orf176
+Motif 284 Motif 286 Motif 335 Motif 336
+
+$C1orf177
+Motif 460
+
+$C1orf25
+Motif 112 Motif 113 Motif 114 Motif 115 Motif 116 Motif 118 Motif 120 Motif 121 Motif 123 Motif 124 Motif 126 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 136 Motif 137 Motif 138 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 146 Motif 147 Motif 148 Motif 149 Motif 152 Motif 153 Motif 156 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 165 Motif 166 Motif 167 Motif 168 Motif 169 Motif 172 Motif 174 Motif 175 Motif 176 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 182 Motif 183 Motif 184 Motif 185 Motif 186 Motif 187 Motif 188 Motif 189 Motif 190 Motif 191 Motif 193 Motif 194 Motif 195 Motif 196 Motif 199 Motif 288
+
+$C21orf33
+Motif 168
+
+$C2orf52
+Motif 32  Motif 43  Motif 44  Motif 55  Motif 117 Motif 147 Motif 210 Motif 249 Motif 250 Motif 264 Motif 285 Motif 301 Motif 310 Motif 343
+
+$C3orf26
+Motif 248
+
+$C8orf4
+Motif 221
+
+$C9orf156
+Motif 12  Motif 28  Motif 34  Motif 36  Motif 67  Motif 79  Motif 86  Motif 240 Motif 320
+
+$C9orf9
+Motif 1   Motif 3   Motif 4   Motif 5   Motif 8   Motif 9   Motif 16  Motif 32  Motif 33  Motif 39  Motif 43  Motif 44  Motif 68  Motif 81  Motif 85  Motif 90  Motif 92  Motif 95  Motif 112 Motif 117 Motif 127 Motif 128 Motif 129 Motif 140 Motif 147 Motif 155 Motif 163 Motif 188 Motif 192 Motif 194 Motif 195 Motif 200 Motif 201 Motif 240 Motif 264 Motif 267 Motif 269 Motif 285 Motif 343 Motif 344
+
+$CAMKK2
+Motif 269
+
+$CANX
+Motif 75  Motif 90  Motif 211 Motif 214 Motif 355
+
+$CAT
+Motif 1   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 13  Motif 14  Motif 23  Motif 67  Motif 68  Motif 69  Motif 72  Motif 90  Motif 92  Motif 95  Motif 196 Motif 249 Motif 301 Motif 305 Motif 310 Motif 393 Motif 397 Motif 398
+
+$CBFA2T2
+Motif 375 Motif 376 Motif 377
+
+$CBFA2T3
+Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 9   Motif 16  Motif 17  Motif 19  Motif 23  Motif 30  Motif 31  Motif 50  Motif 54  Motif 55  Motif 56  Motif 59  Motif 67  Motif 68  Motif 69  Motif 72  Motif 75  Motif 76  Motif 79  Motif 81  Motif 83  Motif 85  Motif 90  Motif 92  Motif 93  Motif 95  Motif 100 Motif 119 Motif 128 Motif 131 Motif 132 Motif 133 Motif 134 Motif 138 Motif 140 Motif 141 Motif 144 Motif 145 Motif 158 Motif 160 Motif 161 Motif 162 Motif 164 Motif 175 Motif 177 Motif 179 Motif 181 Motif 183 Motif 188 Motif 190 Motif 191 Motif 194 Motif 195 Motif 240 Motif 247 Motif 256 Motif 264 Motif 285 Motif 317 Motif 320 Motif 398 Motif 399 Motif 401 Motif 407 Motif 411
+
+$CBFB
+Motif 77  Motif 156 Motif 179 Motif 182 Motif 194
+
+$CBX5
+Motif 399
+
+$CBX7
+Motif 38  Motif 39  Motif 43  Motif 44  Motif 79  Motif 80  Motif 81  Motif 83  Motif 84  Motif 85  Motif 86  Motif 92  Motif 109 Motif 110 Motif 115 Motif 156 Motif 207 Motif 246 Motif 391 Motif 392 Motif 394 Motif 401 Motif 445
+
+$CC2D1A
+Motif 285
+
+$CCDC16
+Motif 349 Motif 354 Motif 361 Motif 362 Motif 363 Motif 367 Motif 368 Motif 375 Motif 376 Motif 377
+
+$CCDC25
+Motif 100 Motif 113 Motif 185 Motif 188 Motif 196 Motif 210 Motif 247 Motif 248 Motif 250 Motif 280 Motif 281 Motif 284 Motif 285 Motif 288 Motif 429
+
+$CCM2
+Motif 269
+
+$CCNC
+Motif 194
+
+$CD59
+Motif 16 Motif 17 Motif 72
+
+$CD80
+Motif 345
+
+$CD99
+Motif 121
+
+$CDCA3
+Motif 260 Motif 320
+
+$CDK2AP1
+Motif 50  Motif 100 Motif 128 Motif 129 Motif 131 Motif 132 Motif 133 Motif 134 Motif 140 Motif 151 Motif 188 Motif 195 Motif 196 Motif 225 Motif 233 Motif 240 Motif 250 Motif 264 Motif 267 Motif 276 Motif 278 Motif 285 Motif 301 Motif 305 Motif 307 Motif 315 Motif 429 Motif 438
+
+$CDNA
+Motif 156 Motif 179 Motif 182
+
+$CEBPE
+Motif 265
+
+$CEBPG
+Motif 50  Motif 84  Motif 129 Motif 159 Motif 284
+
+$CENTB1
+Motif 207
+
+$CENTG1
+Motif 1   Motif 55  Motif 119 Motif 155 Motif 174 Motif 264 Motif 285 Motif 317 Motif 342 Motif 458
+
+$CEP250
+Motif 56
+
+$CFL2
+Motif 301 Motif 305 Motif 317
+
+$CHD4
+Motif 55  Motif 333
+
+$CHES1
+Motif 131 Motif 141 Motif 285 Motif 317 Motif 336 Motif 343 Motif 357 Motif 428 Motif 433 Motif 448
+
+$CHGB
+Motif 269
+
+$CHIC2
+Motif 29
+
+$CHRAC1
+Motif 151
+
+$CIRBP
+ Motif 1   Motif 3   Motif 6   Motif 7   Motif 8   Motif 9   Motif 43  Motif 50  Motif 54  Motif 55  Motif 56  Motif 57  Motif 61  Motif 75  Motif 76  Motif 82  Motif 86  Motif 88  Motif 90  Motif 92  Motif 97  Motif 103 Motif 110 Motif 111 Motif 112 Motif 113 Motif 115 Motif 117 Motif 118 Motif 121 Motif 125 Motif 127 Motif 128 Motif 129 Motif 131 Motif 132 Motif 133 Motif 134 Motif 137 Motif 140 Motif 142 Motif 143 Motif 144 Motif 145 Motif 147 Motif 150 Motif 151 Motif 152 Motif 155 Motif 156 Motif 157 Motif 158 Motif 160 Motif 161 Motif 163 Motif 164 Motif 169 Motif 173 Motif 174 Motif 175 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 183 Motif 185 Motif 188 Motif 189 Motif 191 Motif 192 Motif 194 Motif 195 Motif 196 Motif 214 Motif 240 Motif 245 Motif 247 Motif 248 Motif 249 Motif 264 Motif 285 Motif 288 Motif 292 Motif 294 Motif 295 Motif 297 Motif 298 Motif 299 Motif 300 Motif 306 Motif 307 Motif 308 Motif 310 Motif 315 Motif 316 Motif 317 Motif 320 Motif 342 Motif 345 Motif 347 Motif 348 Motif 350 Motif 351 Motif 352 Motif 353 Motif 355 Motif 356 Motif 359 Motif 363 Motif 376 Motif 377 Motif 378 Motif 381 Motif 383 Motif 384 Motif 386 Motif 390 Motif 393 Motif 397 Motif 398 Motif 411 Motif 415 Motif 423 Motif 425 Motif 426 Motif 430 Motif 432 Motif 436 Motif 441 Motif 445 Motif 446 Motif 448 Motif 453 Motif 454 Motif 456 Motif 458 Motif 460
+
+$CKM
+Motif 1   Motif 15  Motif 16  Motif 23  Motif 45  Motif 50  Motif 54  Motif 72  Motif 100 Motif 151 Motif 155 Motif 164 Motif 178 Motif 179 Motif 200 Motif 205 Motif 206 Motif 214 Motif 240 Motif 269 Motif 284 Motif 285 Motif 288 Motif 292 Motif 301 Motif 306 Motif 308 Motif 309 Motif 310 Motif 317 Motif 343 Motif 345 Motif 351 Motif 353 Motif 427 Motif 429 Motif 430 Motif 454
+
+$CKMT1B
+Motif 1   Motif 3   Motif 5   Motif 68  Motif 119 Motif 309 Motif 317
+
+$CLIC1
+Motif 301
+
+$CLK1
+Motif 49  Motif 100 Motif 101 Motif 102 Motif 103 Motif 104 Motif 105 Motif 111
+
+$CNBP
+ Motif 1   Motif 2   Motif 3   Motif 4   Motif 6   Motif 7   Motif 8   Motif 9   Motif 10  Motif 14  Motif 31  Motif 39  Motif 41  Motif 43  Motif 44  Motif 71  Motif 74  Motif 98  Motif 116 Motif 124 Motif 142 Motif 143 Motif 144 Motif 151 Motif 161 Motif 169 Motif 180 Motif 202 Motif 205 Motif 209 Motif 244 Motif 264 Motif 282 Motif 285 Motif 290 Motif 291 Motif 296 Motif 301 Motif 302 Motif 305 Motif 306 Motif 307 Motif 308 Motif 309 Motif 314 Motif 315 Motif 316 Motif 317 Motif 318 Motif 319 Motif 320 Motif 321 Motif 322 Motif 323 Motif 324 Motif 325 Motif 326 Motif 327 Motif 329 Motif 330 Motif 331 Motif 332 Motif 333 Motif 334 Motif 335 Motif 336 Motif 338 Motif 339 Motif 340 Motif 341 Motif 343 Motif 344 Motif 345 Motif 346 Motif 347 Motif 348 Motif 349 Motif 351 Motif 352 Motif 353 Motif 354 Motif 355 Motif 356 Motif 357 Motif 358 Motif 359 Motif 360 Motif 361 Motif 362 Motif 363 Motif 364 Motif 365 Motif 366 Motif 367 Motif 368 Motif 370 Motif 371 Motif 372 Motif 373 Motif 375 Motif 376 Motif 377 Motif 378 Motif 379 Motif 380 Motif 382 Motif 384 Motif 385 Motif 386 Motif 387 Motif 388 Motif 389 Motif 390 Motif 391 Motif 394 Motif 397 Motif 398 Motif 399 Motif 400 Motif 401 Motif 403 Motif 404 Motif 411 Motif 412 Motif 420 Motif 426 Motif 427 Motif 428 Motif 429 Motif 430 Motif 431 Motif 432 Motif 434 Motif 439 Motif 440 Motif 442 Motif 444 Motif 445 Motif 446 Motif 448 Motif 449 Motif 450 Motif 451 Motif 452 Motif 453 Motif 454 Motif 455 Motif 458 Motif 460
+
+$CNOT6
+Motif 55  Motif 112 Motif 113 Motif 133 Motif 140 Motif 142 Motif 150 Motif 195 Motif 247 Motif 249 Motif 250 Motif 267 Motif 276 Motif 280 Motif 281 Motif 284 Motif 285 Motif 288 Motif 342 Motif 374 Motif 411
+
+$COBRA1
+Motif 29  Motif 288 Motif 428
+
+$COQ6
+Motif 70
+
+$CORO1A
+Motif 304
+
+$COX17
+Motif 269 Motif 435
+
+$CPEB4
+Motif 263
+
+$CPSF1
+Motif 70
+
+$CPSF4
+Motif 9   Motif 13  Motif 23  Motif 50  Motif 56  Motif 103 Motif 128 Motif 129 Motif 132 Motif 133 Motif 151 Motif 320 Motif 332 Motif 345 Motif 355 Motif 374 Motif 378 Motif 384 Motif 397
+
+$CREB1
+Motif 3   Motif 4   Motif 21  Motif 28  Motif 35  Motif 40  Motif 41  Motif 48  Motif 59  Motif 61  Motif 62  Motif 63  Motif 69  Motif 74  Motif 75  Motif 80  Motif 81  Motif 84  Motif 89  Motif 92  Motif 100 Motif 103 Motif 104 Motif 105 Motif 156 Motif 162 Motif 203 Motif 255 Motif 451
+
+$CREB3L1
+Motif 21  Motif 50  Motif 392
+
+$CREB5
+Motif 129 Motif 132 Motif 145 Motif 147 Motif 155 Motif 156 Motif 157 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 163 Motif 165 Motif 166 Motif 167 Motif 168 Motif 169 Motif 172 Motif 173 Motif 174 Motif 176 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 182 Motif 183 Motif 184 Motif 185 Motif 186 Motif 187 Motif 188 Motif 189 Motif 190 Motif 191 Motif 193 Motif 194 Motif 195 Motif 196 Motif 199
+
+$CREBL1
+Motif 367 Motif 369
+
+$CRSP8
+Motif 119 Motif 124
+
+$CRY1
+Motif 200 Motif 269
+
+$CSAG2
+Motif 34  Motif 38  Motif 44  Motif 50  Motif 54  Motif 55  Motif 56  Motif 59  Motif 103 Motif 112 Motif 119 Motif 124 Motif 127 Motif 128 Motif 132 Motif 133 Motif 134 Motif 137 Motif 140 Motif 142 Motif 143 Motif 144 Motif 145 Motif 147 Motif 150 Motif 151 Motif 152 Motif 153 Motif 155 Motif 158 Motif 160 Motif 162 Motif 172 Motif 173 Motif 174 Motif 175 Motif 177 Motif 179 Motif 188 Motif 189 Motif 194 Motif 195 Motif 240 Motif 247 Motif 249 Motif 264 Motif 267 Motif 281 Motif 284 Motif 285 Motif 288 Motif 307 Motif 309 Motif 310 Motif 316 Motif 318 Motif 332 Motif 333 Motif 335 Motif 342 Motif 377 Motif 398 Motif 411 Motif 426 Motif 435 Motif 445 Motif 448 Motif 453 Motif 458
+
+$CSNK2B
+Motif 210 Motif 328 Motif 374
+
+$CSRP2
+ Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 9   Motif 10  Motif 11  Motif 12  Motif 13  Motif 14  Motif 15  Motif 16  Motif 17  Motif 18  Motif 19  Motif 20  Motif 21  Motif 22  Motif 23  Motif 28  Motif 29  Motif 30  Motif 31  Motif 32  Motif 34  Motif 39  Motif 40  Motif 42  Motif 43  Motif 44  Motif 45  Motif 46  Motif 48  Motif 50  Motif 51  Motif 53  Motif 54  Motif 55  Motif 58  Motif 59  Motif 61  Motif 62  Motif 63  Motif 64  Motif 65  Motif 66  Motif 67  Motif 68  Motif 69  Motif 72  Motif 73  Motif 74  Motif 75  Motif 76  Motif 77  Motif 78  Motif 79  Motif 80  Motif 81  Motif 83  Motif 84  Motif 85  Motif 86  Motif 88  Motif 89  Motif 90  Motif 91  Motif 92  Motif 93  Motif 95  Motif 96  Motif 98  Motif 99  Motif 100 Motif 103 Motif 105 Motif 108 Motif 110 Motif 111 Motif 112 Motif 113 Motif 117 Motif 119 Motif 121 Motif 125 Motif 127 Motif 128 Motif 129 Motif 132 Motif 133 Motif 142 Motif 147 Motif 150 Motif 151 Motif 153 Motif 155 Motif 158 Motif 160 Motif 164 Motif 170 Motif 171 Motif 173 Motif 174 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 188 Motif 190 Motif 195 Motif 229 Motif 234 Motif 240 Motif 245 Motif 247 Motif 248 Motif 250 Motif 256 Motif 264 Motif 267 Motif 276 Motif 285 Motif 307 Motif 309 Motif 317 Motif 319 Motif 320 Motif 321 Motif 324 Motif 326 Motif 332 Motif 333 Motif 341 Motif 342 Motif 345 Motif 351 Motif 353 Motif 355 Motif 371 Motif 378 Motif 381 Motif 383 Motif 384 Motif 386 Motif 393 Motif 397 Motif 398 Motif 411 Motif 460
+
+$CSTF2
+Motif 2   Motif 3   Motif 4   Motif 13  Motif 23  Motif 49  Motif 50  Motif 53  Motif 58  Motif 60  Motif 174 Motif 178 Motif 234 Motif 245 Motif 324 Motif 328 Motif 335 Motif 336 Motif 342 Motif 371 Motif 374 Motif 390 Motif 393 Motif 398 Motif 415 Motif 421 Motif 432 Motif 448 Motif 452
+
+$CXXC1
+Motif 460
+
+$CYB5R1
+Motif 324 Motif 325 Motif 449
+
+$CYCS
+Motif 68 Motif 89 Motif 90 Motif 95 Motif 99
+
+$DAB2
+Motif 89  Motif 108 Motif 133 Motif 135 Motif 210 Motif 357
+
+$DAZAP1
+Motif 2   Motif 3   Motif 72  Motif 151 Motif 267 Motif 308 Motif 316 Motif 320 Motif 324 Motif 326 Motif 328 Motif 333 Motif 334 Motif 335 Motif 336 Motif 339 Motif 341 Motif 353 Motif 371 Motif 398 Motif 404 Motif 409 Motif 433 Motif 439 Motif 453 Motif 454 Motif 458
+
+$DDB2
+Motif 338
+
+$DDEF2
+Motif 16 Motif 68
+
+$DDEFL1
+Motif 68  Motif 100 Motif 112 Motif 200 Motif 205 Motif 269 Motif 276 Motif 280 Motif 305 Motif 317 Motif 411 Motif 429
+
+$DDX20
+Motif 1   Motif 90  Motif 109 Motif 375 Motif 376 Motif 377
+
+$DDX25
+Motif 200 Motif 269
+
+$DDX4
+Motif 8   Motif 108 Motif 123 Motif 126 Motif 161 Motif 433 Motif 454
+
+$DDX42
+Motif 1  Motif 23
+
+$DDX43
+Motif 50  Motif 121 Motif 128 Motif 129 Motif 155 Motif 160 Motif 174 Motif 175 Motif 179 Motif 188 Motif 195 Motif 240 Motif 264 Motif 278 Motif 285 Motif 317 Motif 345 Motif 347 Motif 348 Motif 352 Motif 353 Motif 357 Motif 398 Motif 456 Motif 458 Motif 460
+
+$DDX53
+Motif 1   Motif 3   Motif 398 Motif 448
+
+$DDX55
+Motif 29 Motif 32
+
+$DFFB
+Motif 16  Motif 43  Motif 44  Motif 54  Motif 55  Motif 81  Motif 85  Motif 112 Motif 117 Motif 124 Motif 127 Motif 128 Motif 129 Motif 132 Motif 137 Motif 140 Motif 144 Motif 147 Motif 151 Motif 155 Motif 158 Motif 174 Motif 177 Motif 178 Motif 188 Motif 195 Motif 225 Motif 234 Motif 240 Motif 249 Motif 267 Motif 280 Motif 285 Motif 289 Motif 307 Motif 310 Motif 315 Motif 317 Motif 320 Motif 324 Motif 330 Motif 333 Motif 342 Motif 344 Motif 345 Motif 346 Motif 347 Motif 351 Motif 353 Motif 355 Motif 357 Motif 397 Motif 398 Motif 411 Motif 426 Motif 428 Motif 429 Motif 435 Motif 439 Motif 441 Motif 445 Motif 446 Motif 448 Motif 458
+
+$DGCR8
+Motif 55  Motif 342 Motif 355 Motif 374 Motif 401 Motif 411
+
+$DHX29
+ Motif 13  Motif 17  Motif 45  Motif 50  Motif 51  Motif 54  Motif 55  Motif 56  Motif 59  Motif 63  Motif 68  Motif 85  Motif 103 Motif 104 Motif 105 Motif 111 Motif 112 Motif 113 Motif 114 Motif 116 Motif 117 Motif 118 Motif 121 Motif 123 Motif 124 Motif 126 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 136 Motif 137 Motif 138 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 147 Motif 152 Motif 153 Motif 154 Motif 155 Motif 156 Motif 158 Motif 160 Motif 161 Motif 162 Motif 166 Motif 167 Motif 168 Motif 169 Motif 170 Motif 172 Motif 173 Motif 174 Motif 175 Motif 176 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 185 Motif 186 Motif 188 Motif 189 Motif 190 Motif 191 Motif 193 Motif 194 Motif 195 Motif 196 Motif 205 Motif 206 Motif 214 Motif 225 Motif 233 Motif 234 Motif 239 Motif 240 Motif 247 Motif 249 Motif 250 Motif 256 Motif 264 Motif 267 Motif 268 Motif 275 Motif 276 Motif 278 Motif 280 Motif 281 Motif 284 Motif 285 Motif 287 Motif 288 Motif 289 Motif 291 Motif 292 Motif 294 Motif 295 Motif 301 Motif 303 Motif 306 Motif 307 Motif 308 Motif 315 Motif 316 Motif 317 Motif 318 Motif 319 Motif 320 Motif 321 Motif 322 Motif 323 Motif 324 Motif 326 Motif 327 Motif 331 Motif 332 Motif 333 Motif 334 Motif 335 Motif 336 Motif 339 Motif 340 Motif 341 Motif 342 Motif 343 Motif 344 Motif 346 Motif 347 Motif 351 Motif 352 Motif 353 Motif 355 Motif 357 Motif 366 Motif 377 Motif 381 Motif 384 Motif 397 Motif 398 Motif 411 Motif 412 Motif 426 Motif 427 Motif 428 Motif 429 Motif 430 Motif 431 Motif 432 Motif 433 Motif 434 Motif 435 Motif 437 Motif 439 Motif 440 Motif 441 Motif 442 Motif 443 Motif 444 Motif 445 Motif 446 Motif 448 Motif 449 Motif 450 Motif 451 Motif 452 Motif 454 Motif 455 Motif 458
+
+$DHX30
+Motif 448
+
+$DHX36
+Motif 59  Motif 91  Motif 240 Motif 315 Motif 333 Motif 357
+
+$DHX40
+Motif 13
+
+$DIABLO
+Motif 17  Motif 76  Motif 77  Motif 119 Motif 164 Motif 168 Motif 200 Motif 210 Motif 214 Motif 225 Motif 233 Motif 249 Motif 250 Motif 269 Motif 301 Motif 306 Motif 308 Motif 317 Motif 429
+
+$DIS3
+Motif 245 Motif 247 Motif 248 Motif 276 Motif 307 Motif 315 Motif 317 Motif 319 Motif 328 Motif 332 Motif 333 Motif 342 Motif 374 Motif 393 Motif 397 Motif 398 Motif 411 Motif 412 Motif 453
+
+$DIS3L
+Motif 320
+
+$DKC1
+Motif 104 Motif 111
+
+$DLX6
+Motif 8   Motif 72  Motif 73  Motif 76  Motif 86  Motif 116 Motif 156 Motif 178 Motif 194
+
+$DMRT3
+Motif 198
+
+$DMRTC2
+Motif 221 Motif 225
+
+$DMTF1
+Motif 322
+
+$DNAJB2
+Motif 269
+
+$DNMT2
+Motif 55
+
+$DNMT3A
+Motif 18  Motif 47  Motif 48  Motif 417
+
+$DOK1
+Motif 3   Motif 4   Motif 6   Motif 14  Motif 15  Motif 16  Motif 19  Motif 31  Motif 32  Motif 43  Motif 44  Motif 50  Motif 51  Motif 54  Motif 60  Motif 67  Motif 68  Motif 69  Motif 72  Motif 76  Motif 79  Motif 81  Motif 90  Motif 92  Motif 133 Motif 151 Motif 158 Motif 191 Motif 200 Motif 201 Motif 202 Motif 214 Motif 215 Motif 229 Motif 240 Motif 245 Motif 246 Motif 247 Motif 249 Motif 250 Motif 264 Motif 267 Motif 269 Motif 285 Motif 288 Motif 290 Motif 291 Motif 292 Motif 296 Motif 301 Motif 303 Motif 305 Motif 307 Motif 308 Motif 309 Motif 310 Motif 317 Motif 320 Motif 355 Motif 371 Motif 390 Motif 393 Motif 397 Motif 398 Motif 409 Motif 411 Motif 415 Motif 421 Motif 430 Motif 435
+
+$DPPA2
+ Motif 3   Motif 7   Motif 13  Motif 31  Motif 34  Motif 39  Motif 41  Motif 42  Motif 44  Motif 55  Motif 56  Motif 88  Motif 89  Motif 90  Motif 94  Motif 96  Motif 100 Motif 103 Motif 105 Motif 119 Motif 121 Motif 124 Motif 126 Motif 127 Motif 133 Motif 134 Motif 136 Motif 137 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 147 Motif 150 Motif 151 Motif 153 Motif 161 Motif 162 Motif 175 Motif 177 Motif 178 Motif 179 Motif 183 Motif 189 Motif 194 Motif 195 Motif 207 Motif 247 Motif 249 Motif 250 Motif 267 Motif 281 Motif 285 Motif 288 Motif 295 Motif 306 Motif 307 Motif 308 Motif 309 Motif 310 Motif 314 Motif 315 Motif 316 Motif 317 Motif 318 Motif 320 Motif 322 Motif 324 Motif 326 Motif 327 Motif 330 Motif 332 Motif 333 Motif 334 Motif 335 Motif 336 Motif 339 Motif 340 Motif 342 Motif 344 Motif 345 Motif 346 Motif 347 Motif 348 Motif 349 Motif 351 Motif 352 Motif 353 Motif 354 Motif 355 Motif 357 Motif 363 Motif 371 Motif 377 Motif 378 Motif 380 Motif 384 Motif 388 Motif 398 Motif 426 Motif 430 Motif 435 Motif 439 Motif 445 Motif 448 Motif 451 Motif 453 Motif 454 Motif 455 Motif 458
+
+$DR-1
+Motif 14 Motif 29 Motif 39
+
+$DSCR1
+Motif 20 Motif 56
+
+$DSE
+Motif 210
+
+$DTL
+Motif 18  Motif 19  Motif 20  Motif 21  Motif 22  Motif 24  Motif 25  Motif 26  Motif 27  Motif 45  Motif 48  Motif 50  Motif 51  Motif 53  Motif 54  Motif 58  Motif 60  Motif 79  Motif 86  Motif 90  Motif 409
+
+$DUS3L
+Motif 156 Motif 183 Motif 344
+
+$DUSP22
+Motif 163 Motif 349 Motif 352 Motif 362 Motif 363 Motif 364 Motif 365
+
+$DUSP26
+Motif 43  Motif 44  Motif 81  Motif 89  Motif 288 Motif 433
+
+$DUT
+Motif 1   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 9   Motif 12  Motif 15  Motif 30  Motif 31  Motif 32  Motif 38  Motif 44  Motif 67  Motif 68  Motif 69  Motif 72  Motif 76  Motif 83  Motif 85  Motif 86  Motif 89  Motif 90  Motif 92  Motif 93  Motif 95  Motif 110 Motif 112 Motif 115 Motif 125 Motif 147 Motif 151 Motif 155 Motif 168 Motif 189 Motif 194 Motif 200 Motif 205 Motif 206 Motif 210 Motif 215 Motif 221 Motif 229 Motif 240 Motif 245 Motif 247 Motif 249 Motif 269 Motif 276 Motif 278 Motif 279 Motif 280 Motif 281 Motif 284 Motif 288 Motif 290 Motif 291 Motif 303 Motif 305 Motif 307 Motif 309 Motif 310 Motif 312 Motif 317 Motif 345 Motif 351 Motif 383 Motif 393 Motif 398 Motif 411 Motif 426 Motif 428 Motif 429 Motif 433 Motif 434 Motif 435 Motif 437 Motif 444 Motif 445 Motif 454 Motif 460
+
+$E2F5
+Motif 278
+
+$E2F8
+Motif 150
+
+$EBF1
+Motif 64  Motif 70  Motif 110
+
+$EBF4
+Motif 340
+
+$ECSIT
+Motif 214 Motif 240 Motif 395 Motif 409
+
+$EDF1
+Motif 179
+
+$EDN1
+Motif 137 Motif 141 Motif 144 Motif 145 Motif 156 Motif 158 Motif 180 Motif 181 Motif 182 Motif 183 Motif 190 Motif 191 Motif 193 Motif 195 Motif 196
+
+$EEF1A1
+Motif 328
+
+$EEF1D
+Motif 328 Motif 335 Motif 345
+
+$EFTUD2
+Motif 315
+
+$EGLN2
+Motif 204
+
+$EGR2
+Motif 264
+
+$EHD4
+Motif 417
+
+$EIF1AX
+Motif 183
+
+$EIF2C2
+Motif 221
+
+$EIF2S2
+Motif 210 Motif 416
+
+$EIF2S3
+Motif 43  Motif 110
+
+$EIF4B
+ Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 9   Motif 13  Motif 14  Motif 16  Motif 23  Motif 31  Motif 32  Motif 44  Motif 50  Motif 54  Motif 55  Motif 56  Motif 57  Motif 59  Motif 67  Motif 68  Motif 70  Motif 72  Motif 76  Motif 79  Motif 81  Motif 82  Motif 85  Motif 86  Motif 89  Motif 90  Motif 92  Motif 95  Motif 100 Motif 103 Motif 108 Motif 110 Motif 111 Motif 112 Motif 115 Motif 116 Motif 117 Motif 118 Motif 119 Motif 120 Motif 121 Motif 122 Motif 123 Motif 124 Motif 125 Motif 126 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 137 Motif 139 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 147 Motif 148 Motif 150 Motif 151 Motif 152 Motif 153 Motif 155 Motif 157 Motif 158 Motif 160 Motif 161 Motif 162 Motif 163 Motif 164 Motif 165 Motif 166 Motif 167 Motif 168 Motif 169 Motif 170 Motif 171 Motif 172 Motif 173 Motif 174 Motif 175 Motif 176 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 183 Motif 184 Motif 185 Motif 186 Motif 187 Motif 188 Motif 189 Motif 190 Motif 191 Motif 192 Motif 193 Motif 194 Motif 195 Motif 196 Motif 213 Motif 214 Motif 217 Motif 224 Motif 228 Motif 232 Motif 234 Motif 235 Motif 236 Motif 240 Motif 244 Motif 245 Motif 247 Motif 248 Motif 254 Motif 255 Motif 256 Motif 260 Motif 262 Motif 263 Motif 264 Motif 265 Motif 266 Motif 267 Motif 268 Motif 274 Motif 276 Motif 277 Motif 278 Motif 280 Motif 281 Motif 285 Motif 292 Motif 293 Motif 294 Motif 297 Motif 298 Motif 299 Motif 300 Motif 301 Motif 302 Motif 305 Motif 306 Motif 307 Motif 308 Motif 309 Motif 310 Motif 314 Motif 315 Motif 316 Motif 317 Motif 320 Motif 323 Motif 324 Motif 326 Motif 328 Motif 329 Motif 332 Motif 333 Motif 335 Motif 341 Motif 342 Motif 343 Motif 344 Motif 345 Motif 346 Motif 347 Motif 348 Motif 351 Motif 352 Motif 353 Motif 355 Motif 359 Motif 363 Motif 364 Motif 365 Motif 374 Motif 376 Motif 378 Motif 381 Motif 383 Motif 386 Motif 388 Motif 390 Motif 392 Motif 393 Motif 394 Motif 397 Motif 398 Motif 399 Motif 400 Motif 403 Motif 404 Motif 405 Motif 408 Motif 409 Motif 411 Motif 412 Motif 414 Motif 415 Motif 420 Motif 421 Motif 423 Motif 424 Motif 425 Motif 426 Motif 428 Motif 430 Motif 432 Motif 438 Motif 439 Motif 441 Motif 443 Motif 445 Motif 446 Motif 448 Motif 449 Motif 452 Motif 453 Motif 454 Motif 455 Motif 456 Motif 458 Motif 459 Motif 460
+
+$EIF4E
+Motif 147
+
+$EIF4E2
+Motif 371
+
+$EIF5
+Motif 183
+
+$EIF5A2
+Motif 14 Motif 29 Motif 32 Motif 39 Motif 43
+
+$ELF1
+Motif 196
+
+$ELF2
+Motif 2   Motif 60  Motif 70  Motif 196 Motif 318
+
+$ELK1
+Motif 60  Motif 196
+
+$ENDOGL1
+ Motif 1   Motif 3   Motif 5   Motif 6   Motif 7   Motif 8   Motif 12  Motif 13  Motif 14  Motif 28  Motif 29  Motif 31  Motif 32  Motif 35  Motif 36  Motif 40  Motif 63  Motif 67  Motif 70  Motif 73  Motif 75  Motif 77  Motif 81  Motif 82  Motif 83  Motif 86  Motif 87  Motif 88  Motif 89  Motif 90  Motif 91  Motif 92  Motif 93  Motif 95  Motif 97  Motif 107 Motif 109 Motif 110 Motif 116 Motif 119 Motif 121 Motif 123 Motif 124 Motif 137 Motif 138 Motif 144 Motif 145 Motif 158 Motif 159 Motif 177 Motif 196 Motif 207 Motif 211 Motif 219 Motif 223 Motif 224 Motif 225 Motif 228 Motif 230 Motif 231 Motif 232 Motif 233 Motif 234 Motif 235 Motif 240 Motif 242 Motif 243 Motif 246 Motif 247 Motif 250 Motif 252 Motif 254 Motif 255 Motif 256 Motif 261 Motif 263 Motif 264 Motif 265 Motif 266 Motif 267 Motif 268 Motif 270 Motif 271 Motif 273 Motif 275 Motif 276 Motif 278 Motif 279 Motif 280 Motif 281 Motif 282 Motif 284 Motif 285 Motif 286 Motif 290 Motif 291 Motif 292 Motif 293 Motif 294 Motif 295 Motif 296 Motif 300 Motif 301 Motif 302 Motif 303 Motif 305 Motif 306 Motif 307 Motif 308 Motif 310 Motif 314 Motif 315 Motif 317 Motif 318 Motif 319 Motif 320 Motif 322 Motif 323 Motif 324 Motif 325 Motif 326 Motif 331 Motif 335 Motif 337 Motif 341 Motif 343 Motif 344 Motif 347 Motif 348 Motif 349 Motif 350 Motif 351 Motif 352 Motif 353 Motif 354 Motif 355 Motif 357 Motif 361 Motif 362 Motif 364 Motif 365 Motif 366 Motif 367 Motif 369 Motif 370 Motif 371 Motif 372 Motif 373 Motif 375 Motif 376 Motif 377 Motif 378 Motif 426 Motif 427 Motif 428 Motif 429 Motif 430 Motif 433 Motif 434 Motif 435 Motif 436 Motif 437 Motif 439 Motif 440 Motif 441 Motif 442 Motif 443 Motif 444 Motif 445 Motif 446 Motif 451 Motif 454 Motif 455 Motif 457 Motif 458 Motif 460
+
+$ENO1
+Motif 15  Motif 32  Motif 110 Motif 113 Motif 133 Motif 150 Motif 245 Motif 247 Motif 249 Motif 403 Motif 429 Motif 445 Motif 446 Motif 448 Motif 452
+
+$ENOX1
+Motif 9
+
+$EP400
+Motif 240 Motif 269
+
+$ERF
+Motif 196
+
+$ESRRA
+Motif 12  Motif 54  Motif 369 Motif 372 Motif 381
+
+$ESX1
+Motif 124 Motif 320 Motif 397 Motif 423 Motif 456
+
+$ETFB
+Motif 1   Motif 32  Motif 92  Motif 200 Motif 240 Motif 269 Motif 285
+
+$ETS1
+Motif 2  Motif 60 Motif 69 Motif 70
+
+$ETV4
+Motif 2   Motif 27  Motif 60  Motif 65  Motif 69  Motif 70  Motif 196 Motif 245 Motif 260
+
+$ETV7
+Motif 17  Motif 46  Motif 50  Motif 56  Motif 59  Motif 60  Motif 69  Motif 117 Motif 119 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 133 Motif 134 Motif 140 Motif 142 Motif 143 Motif 144 Motif 150 Motif 151 Motif 155 Motif 159 Motif 160 Motif 161 Motif 162 Motif 164 Motif 167 Motif 185 Motif 186 Motif 187 Motif 188 Motif 195 Motif 196 Motif 199 Motif 200 Motif 201 Motif 205 Motif 206 Motif 221 Motif 233 Motif 234 Motif 240 Motif 245 Motif 247 Motif 248 Motif 249 Motif 250 Motif 264 Motif 266 Motif 267 Motif 269 Motif 276 Motif 279 Motif 280 Motif 282 Motif 284 Motif 286 Motif 287 Motif 288 Motif 295 Motif 301 Motif 307 Motif 310 Motif 315 Motif 317 Motif 319 Motif 341 Motif 357 Motif 411 Motif 438 Motif 445 Motif 446 Motif 448 Motif 455 Motif 458 Motif 460
+
+$EVX1
+Motif 55  Motif 316 Motif 320 Motif 333 Motif 342 Motif 347 Motif 355 Motif 374 Motif 445 Motif 460
+
+$EWSR1
+Motif 12  Motif 70  Motif 156 Motif 191 Motif 453
+
+$EXOSC1
+ Motif 1   Motif 2   Motif 3   Motif 4   Motif 6   Motif 7   Motif 8   Motif 9   Motif 11  Motif 13  Motif 14  Motif 15  Motif 16  Motif 17  Motif 19  Motif 23  Motif 27  Motif 30  Motif 31  Motif 32  Motif 42  Motif 43  Motif 44  Motif 45  Motif 46  Motif 50  Motif 51  Motif 53  Motif 54  Motif 55  Motif 58  Motif 59  Motif 60  Motif 62  Motif 63  Motif 67  Motif 68  Motif 69  Motif 70  Motif 72  Motif 73  Motif 74  Motif 75  Motif 76  Motif 79  Motif 81  Motif 85  Motif 86  Motif 89  Motif 90  Motif 91  Motif 92  Motif 93  Motif 95  Motif 96  Motif 99  Motif 100 Motif 108 Motif 110 Motif 112 Motif 117 Motif 119 Motif 121 Motif 127 Motif 128 Motif 131 Motif 132 Motif 133 Motif 142 Motif 143 Motif 147 Motif 150 Motif 151 Motif 155 Motif 158 Motif 171 Motif 174 Motif 175 Motif 178 Motif 179 Motif 181 Motif 188 Motif 190 Motif 191 Motif 194 Motif 195 Motif 240 Motif 245 Motif 256 Motif 285 Motif 292 Motif 301 Motif 303 Motif 305 Motif 307 Motif 309 Motif 317 Motif 321 Motif 322 Motif 324 Motif 332 Motif 335 Motif 341 Motif 345 Motif 346 Motif 351 Motif 353 Motif 355 Motif 378 Motif 383 Motif 384 Motif 393 Motif 397 Motif 398 Motif 411 Motif 446 Motif 458 Motif 460
+
+$EXOSC3
+Motif 16  Motif 54  Motif 119 Motif 155
+
+$EYA2
+Motif 375
+
+$EZH2
+Motif 194
+
+$FABP3
+Motif 301
+
+$FAM119B
+Motif 49 Motif 51 Motif 59
+
+$FAM127B
+Motif 169 Motif 209 Motif 211 Motif 214 Motif 215 Motif 217 Motif 219 Motif 222 Motif 225 Motif 230 Motif 256 Motif 257 Motif 258 Motif 264 Motif 267 Motif 272 Motif 280 Motif 282 Motif 284 Motif 285 Motif 432
+
+$FAM18B2
+Motif 56  Motif 111
+
+$FAM44A
+Motif 151
+
+$FAM58A
+Motif 23  Motif 24  Motif 25  Motif 28  Motif 30  Motif 31  Motif 32  Motif 34  Motif 35  Motif 55  Motif 61  Motif 62  Motif 63  Motif 67  Motif 68  Motif 70  Motif 79  Motif 81  Motif 84  Motif 85  Motif 89  Motif 90  Motif 92  Motif 93  Motif 95  Motif 97  Motif 103 Motif 294 Motif 300 Motif 309 Motif 315 Motif 316 Motif 317 Motif 320 Motif 324 Motif 326 Motif 398 Motif 436 Motif 458
+
+$FAM82C
+Motif 193 Motif 194
+
+$FARS2
+Motif 299
+
+$FAS
+Motif 107
+
+$FEZ1
+Motif 55  Motif 342 Motif 374
+
+$FEZF2
+Motif 3  Motif 70 Motif 86
+
+$FGF18
+Motif 227
+
+$FGF19
+Motif 1   Motif 81  Motif 93  Motif 95  Motif 143
+
+$FHL2
+Motif 130 Motif 138 Motif 153 Motif 196 Motif 223 Motif 224 Motif 225 Motif 233 Motif 250 Motif 256 Motif 264 Motif 266 Motif 267 Motif 269 Motif 270 Motif 272 Motif 282 Motif 315
+
+$FHL5
+Motif 82 Motif 92
+
+$FIP1L1
+Motif 362 Motif 366 Motif 367 Motif 368 Motif 369 Motif 375 Motif 377 Motif 382 Motif 389
+
+$FKBP1A
+Motif 44
+
+$FKBP1B
+Motif 315
+
+$FLI1
+Motif 60  Motif 70  Motif 151 Motif 260
+
+$FLJ10404
+Motif 278 Motif 411
+
+$FLJ37078
+Motif 135 Motif 136 Motif 137 Motif 138 Motif 144 Motif 191 Motif 193 Motif 194
+
+$FMR1
+Motif 278
+
+$FOSL1
+Motif 50  Motif 119 Motif 355
+
+$FOXB1
+Motif 299
+
+$FOXC1
+Motif 299
+
+$FOXM1
+Motif 180 Motif 182 Motif 183 Motif 261 Motif 400 Motif 401
+
+$FOXN2
+Motif 320 Motif 411
+
+$FOXP1
+Motif 147
+
+$FOXP4
+Motif 44  Motif 155 Motif 230 Motif 285 Motif 301
+
+$FUBP3
+Motif 72  Motif 151
+
+$FUS
+Motif 1   Motif 2   Motif 3   Motif 4   Motif 6   Motif 7   Motif 9   Motif 10  Motif 14  Motif 41  Motif 44  Motif 59  Motif 71  Motif 104 Motif 116 Motif 124 Motif 142 Motif 151 Motif 205 Motif 244 Motif 290 Motif 296 Motif 315 Motif 318 Motif 322 Motif 323 Motif 324 Motif 325 Motif 330 Motif 333 Motif 336 Motif 343 Motif 344 Motif 345 Motif 347 Motif 352 Motif 353 Motif 354 Motif 357 Motif 358 Motif 361 Motif 362 Motif 363 Motif 364 Motif 365 Motif 366 Motif 367 Motif 371 Motif 372 Motif 373 Motif 375 Motif 376 Motif 390 Motif 391 Motif 399 Motif 400 Motif 404 Motif 411 Motif 426 Motif 448 Motif 449 Motif 454
+
+$G3BP1
+ Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 9   Motif 10  Motif 11  Motif 12  Motif 13  Motif 14  Motif 16  Motif 17  Motif 19  Motif 20  Motif 21  Motif 22  Motif 23  Motif 25  Motif 26  Motif 27  Motif 28  Motif 30  Motif 31  Motif 32  Motif 34  Motif 42  Motif 43  Motif 45  Motif 46  Motif 47  Motif 48  Motif 49  Motif 50  Motif 51  Motif 54  Motif 55  Motif 58  Motif 59  Motif 61  Motif 64  Motif 65  Motif 67  Motif 68  Motif 69  Motif 70  Motif 71  Motif 72  Motif 73  Motif 74  Motif 75  Motif 76  Motif 77  Motif 78  Motif 79  Motif 80  Motif 81  Motif 82  Motif 83  Motif 84  Motif 85  Motif 86  Motif 88  Motif 89  Motif 90  Motif 91  Motif 92  Motif 93  Motif 95  Motif 96  Motif 98  Motif 99  Motif 103 Motif 116 Motif 117 Motif 118 Motif 120 Motif 121 Motif 122 Motif 123 Motif 124 Motif 125 Motif 126 Motif 127 Motif 128 Motif 129 Motif 131 Motif 132 Motif 133 Motif 134 Motif 137 Motif 139 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 150 Motif 151 Motif 152 Motif 153 Motif 155 Motif 156 Motif 157 Motif 158 Motif 160 Motif 161 Motif 162 Motif 163 Motif 164 Motif 165 Motif 166 Motif 167 Motif 169 Motif 170 Motif 172 Motif 173 Motif 174 Motif 175 Motif 176 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 185 Motif 186 Motif 188 Motif 189 Motif 191 Motif 192 Motif 194 Motif 195 Motif 229 Motif 240 Motif 242 Motif 245 Motif 247 Motif 248 Motif 254 Motif 264 Motif 267 Motif 268 Motif 276 Motif 299 Motif 305 Motif 307 Motif 309 Motif 315 Motif 316 Motif 317 Motif 319 Motif 320 Motif 321 Motif 324 Motif 342 Motif 344 Motif 345 Motif 347 Motif 351 Motif 352 Motif 353 Motif 355 Motif 357 Motif 364 Motif 365 Motif 397 Motif 398 Motif 411 Motif 423 Motif 425 Motif 426 Motif 439 Motif 441 Motif 446 Motif 453 Motif 454 Motif 458 Motif 460
+
+$G3BP2
+Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 9   Motif 16  Motif 50  Motif 72  Motif 76  Motif 83  Motif 85  Motif 86  Motif 89  Motif 91  Motif 92  Motif 93  Motif 95  Motif 103 Motif 117 Motif 118 Motif 122 Motif 124 Motif 126 Motif 129 Motif 132 Motif 140 Motif 142 Motif 151 Motif 153 Motif 157 Motif 158 Motif 160 Motif 161 Motif 162 Motif 174 Motif 178 Motif 179 Motif 180 Motif 195 Motif 319 Motif 357 Motif 397 Motif 398
+
+$GABPA
+Motif 196
+
+$GADD45A
+Motif 6  Motif 7  Motif 9  Motif 34 Motif 43 Motif 75
+
+$GATA1
+Motif 183 Motif 190
+
+$GDI2
+Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 9   Motif 10  Motif 11  Motif 12  Motif 13  Motif 14  Motif 20  Motif 28  Motif 29  Motif 30  Motif 31  Motif 32  Motif 42  Motif 44  Motif 64  Motif 67  Motif 68  Motif 69  Motif 70  Motif 72  Motif 73  Motif 74  Motif 75  Motif 76  Motif 77  Motif 78  Motif 86  Motif 89  Motif 95  Motif 99  Motif 179 Motif 191 Motif 290 Motif 291 Motif 292 Motif 294 Motif 301 Motif 303 Motif 305 Motif 343 Motif 371
+
+$GINS2
+Motif 301
+
+$GIT2
+Motif 333 Motif 334 Motif 397
+
+$GLE1L
+Motif 200 Motif 269
+
+$GLIS2
+Motif 55
+
+$GLRX2
+Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 9   Motif 11  Motif 13  Motif 14  Motif 15  Motif 16  Motif 17  Motif 19  Motif 22  Motif 23  Motif 27  Motif 30  Motif 31  Motif 32  Motif 39  Motif 42  Motif 43  Motif 44  Motif 45  Motif 46  Motif 50  Motif 51  Motif 53  Motif 54  Motif 56  Motif 63  Motif 67  Motif 68  Motif 69  Motif 70  Motif 72  Motif 75  Motif 76  Motif 79  Motif 80  Motif 81  Motif 83  Motif 84  Motif 85  Motif 86  Motif 89  Motif 90  Motif 91  Motif 92  Motif 93  Motif 95  Motif 99  Motif 100 Motif 104 Motif 229 Motif 249 Motif 256 Motif 285 Motif 305 Motif 315 Motif 374 Motif 398
+
+$GLYCTK
+Motif 343 Motif 354 Motif 361 Motif 366
+
+$GMEB1
+Motif 63
+
+$GOT1
+Motif 249 Motif 305 Motif 435
+
+$GPAM
+Motif 370 Motif 371 Motif 372 Motif 373 Motif 375 Motif 376 Motif 378 Motif 379
+
+$GPATCH3
+Motif 433
+
+$GPBP1L1
+Motif 1   Motif 3   Motif 4   Motif 5   Motif 6   Motif 8   Motif 9   Motif 13  Motif 14  Motif 16  Motif 23  Motif 30  Motif 31  Motif 43  Motif 44  Motif 67  Motif 68  Motif 69  Motif 70  Motif 72  Motif 76  Motif 85  Motif 86  Motif 92  Motif 95  Motif 100 Motif 108 Motif 110 Motif 128 Motif 158 Motif 164 Motif 179 Motif 240 Motif 247 Motif 249 Motif 250 Motif 276 Motif 281 Motif 284 Motif 285 Motif 305 Motif 307 Motif 309 Motif 310 Motif 317 Motif 332 Motif 345 Motif 351 Motif 383 Motif 384 Motif 411 Motif 438
+
+$GPC5
+Motif 192
+
+$GPD1
+Motif 13  Motif 31  Motif 33  Motif 68  Motif 70  Motif 72  Motif 76  Motif 90  Motif 92  Motif 200 Motif 269
+
+$GRHL1
+Motif 14  Motif 182 Motif 183
+
+$GRHPR
+Motif 69 Motif 72 Motif 85 Motif 89 Motif 90 Motif 92 Motif 93 Motif 95
+
+$GRRP1
+ Motif 1   Motif 3   Motif 13  Motif 16  Motif 30  Motif 39  Motif 50  Motif 54  Motif 55  Motif 68  Motif 85  Motif 92  Motif 103 Motif 112 Motif 118 Motif 121 Motif 124 Motif 125 Motif 127 Motif 128 Motif 129 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 137 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 150 Motif 151 Motif 152 Motif 153 Motif 155 Motif 158 Motif 160 Motif 161 Motif 162 Motif 163 Motif 164 Motif 166 Motif 170 Motif 171 Motif 173 Motif 174 Motif 175 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 188 Motif 190 Motif 192 Motif 194 Motif 195 Motif 200 Motif 240 Motif 245 Motif 247 Motif 248 Motif 264 Motif 267 Motif 276 Motif 285 Motif 287 Motif 292 Motif 294 Motif 295 Motif 299 Motif 305 Motif 306 Motif 307 Motif 309 Motif 310 Motif 315 Motif 316 Motif 317 Motif 318 Motif 319 Motif 320 Motif 321 Motif 322 Motif 324 Motif 326 Motif 332 Motif 333 Motif 335 Motif 336 Motif 339 Motif 342 Motif 343 Motif 345 Motif 355 Motif 371 Motif 374 Motif 377 Motif 383 Motif 393 Motif 397 Motif 398 Motif 411 Motif 412 Motif 426 Motif 433 Motif 434 Motif 435 Motif 438 Motif 439 Motif 441 Motif 445 Motif 446 Motif 449 Motif 455 Motif 456 Motif 458 Motif 459 Motif 460
+
+$GSCL
+Motif 55
+
+$GTF2B
+Motif 249 Motif 264 Motif 267 Motif 284 Motif 285 Motif 301 Motif 309 Motif 310 Motif 332 Motif 440 Motif 445
+
+$GTF2F2
+Motif 13
+
+$GTF2H3
+Motif 43  Motif 85  Motif 157 Motif 194
+
+$GTF2IRD1
+Motif 84
+
+$GTF3C2
+Motif 16  Motif 43  Motif 44  Motif 249 Motif 267 Motif 289 Motif 307 Motif 310 Motif 315 Motif 357 Motif 428 Motif 429 Motif 433 Motif 435 Motif 439 Motif 445
+
+$GTF3C3
+Motif 30
+
+$GTF3C5
+Motif 29 Motif 32 Motif 86
+
+$GTPBP1
+Motif 1   Motif 363 Motif 364 Motif 365 Motif 366 Motif 367 Motif 368 Motif 369 Motif 375 Motif 376 Motif 377 Motif 379 Motif 382
+
+$GTPBP6
+Motif 156 Motif 183 Motif 191
+
+$H1F0
+Motif 29
+
+$H1FX
+Motif 1   Motif 357 Motif 429
+
+$H2AFY
+Motif 202 Motif 204 Motif 209 Motif 211 Motif 214 Motif 228 Motif 231 Motif 232 Motif 282 Motif 284 Motif 285 Motif 286 Motif 287
+
+$H2AFZ
+Motif 255 Motif 372 Motif 373 Motif 378 Motif 379 Motif 380
+
+$HAPLN1
+Motif 157
+
+$HAVCR2
+Motif 288
+
+$HBP1
+Motif 140 Motif 194
+
+$HCFC2
+Motif 16  Motif 59  Motif 133
+
+$HCLS1
+Motif 1   Motif 15  Motif 16  Motif 56  Motif 249 Motif 281 Motif 285 Motif 288 Motif 301 Motif 411 Motif 429
+
+$HDAC1
+Motif 59  Motif 147
+
+$HDAC10
+Motif 47  Motif 105
+
+$HDAC8
+Motif 182 Motif 183 Motif 190
+
+$HEMK1
+Motif 32
+
+$HES1
+Motif 374
+
+$HES5
+Motif 35 Motif 63 Motif 89
+
+$HEXIM1
+Motif 315
+
+$HHAT
+Motif 68  Motif 278 Motif 285
+
+$HHEX
+Motif 1   Motif 4   Motif 29  Motif 83  Motif 84  Motif 116 Motif 117 Motif 121 Motif 129 Motif 140 Motif 144 Motif 156 Motif 157 Motif 158 Motif 160 Motif 179 Motif 183 Motif 194 Motif 226 Motif 231 Motif 240 Motif 266 Motif 315 Motif 349 Motif 357 Motif 430
+
+$HINT2
+Motif 16
+
+$HIP2
+Motif 3   Motif 9   Motif 11  Motif 12  Motif 28  Motif 29  Motif 70  Motif 75  Motif 82  Motif 110 Motif 288
+
+$HIRIP3
+Motif 39  Motif 100 Motif 249 Motif 284 Motif 310
+
+$HIST1H1A
+Motif 357 Motif 428
+
+$HIST1H2BB
+Motif 55
+
+$HIST1H2BN
+Motif 3  Motif 6  Motif 7  Motif 8  Motif 9  Motif 11 Motif 12 Motif 34 Motif 42 Motif 43 Motif 44 Motif 61 Motif 62 Motif 63 Motif 75 Motif 76 Motif 88 Motif 90 Motif 96
+
+$HIST1H2BO
+Motif 88 Motif 93
+
+$HIST2H2AB
+Motif 13  Motif 16  Motif 45  Motif 47  Motif 50  Motif 51  Motif 54  Motif 56  Motif 67  Motif 72  Motif 79  Motif 81  Motif 83  Motif 85  Motif 86  Motif 90  Motif 103 Motif 105 Motif 240 Motif 353 Motif 395 Motif 397 Motif 398 Motif 409
+
+$HIST2H2BE
+Motif 352 Motif 357 Motif 371
+
+$HLCS
+Motif 299 Motif 301 Motif 305
+
+$HMG20A
+Motif 140 Motif 344 Motif 357 Motif 378
+
+$HMGN1
+Motif 112
+
+$HMGN2
+Motif 200 Motif 269
+
+$HNRPA0
+Motif 269 Motif 324 Motif 335 Motif 341 Motif 355 Motif 357 Motif 364 Motif 365 Motif 371 Motif 409
+
+$HNRPA1
+Motif 1   Motif 2   Motif 3   Motif 44  Motif 158 Motif 344 Motif 347 Motif 351 Motif 353 Motif 355 Motif 364 Motif 365 Motif 366 Motif 371 Motif 378 Motif 385 Motif 404 Motif 411
+
+$HNRPC
+Motif 13  Motif 15  Motif 56  Motif 117 Motif 129 Motif 160 Motif 277 Motif 315 Motif 321 Motif 328 Motif 332 Motif 333 Motif 341 Motif 345 Motif 347 Motif 355 Motif 363 Motif 380 Motif 381 Motif 390 Motif 412
+
+$HNRPH3
+Motif 3   Motif 4   Motif 23  Motif 50  Motif 59  Motif 84  Motif 244 Motif 315 Motif 332 Motif 333 Motif 334 Motif 347 Motif 352 Motif 357 Motif 393 Motif 411 Motif 412 Motif 448
+
+$HNRPL
+Motif 1   Motif 5   Motif 13  Motif 16  Motif 23  Motif 31  Motif 47  Motif 59  Motif 61  Motif 62  Motif 63  Motif 67  Motif 68  Motif 72  Motif 79  Motif 85  Motif 89  Motif 90  Motif 92  Motif 103 Motif 105 Motif 127 Motif 128 Motif 129 Motif 131 Motif 132 Motif 137 Motif 140 Motif 147 Motif 150 Motif 153 Motif 155 Motif 158 Motif 164 Motif 174 Motif 175 Motif 177 Motif 194 Motif 196 Motif 214 Motif 228 Motif 240 Motif 247 Motif 248 Motif 264 Motif 378
+
+$HNRPLL
+Motif 67  Motif 68  Motif 72  Motif 79  Motif 81  Motif 90  Motif 92  Motif 119 Motif 137 Motif 163
+
+$HOXB1
+Motif 261
+
+$HOXB13
+Motif 3   Motif 12  Motif 28  Motif 29  Motif 43  Motif 70  Motif 110
+
+$HOXB9
+Motif 45  Motif 49  Motif 50  Motif 51  Motif 53  Motif 59  Motif 60  Motif 92  Motif 121 Motif 132 Motif 158 Motif 199 Motif 201 Motif 204 Motif 207 Motif 213 Motif 218 Motif 224 Motif 227 Motif 228 Motif 232 Motif 235 Motif 240 Motif 264 Motif 267 Motif 317 Motif 395 Motif 397 Motif 398
+
+$HOXC8
+Motif 156
+
+$HOXD3
+Motif 1   Motif 3   Motif 16  Motif 50  Motif 68  Motif 72  Motif 92  Motif 145 Motif 156
+
+$HOXD8
+Motif 156
+
+$HP1BP3
+Motif 151 Motif 157 Motif 318 Motif 321 Motif 330 Motif 333 Motif 345 Motif 355 Motif 357 Motif 428 Motif 429 Motif 445
+
+$HPCAL1
+Motif 43 Motif 44
+
+$HSBP1
+Motif 399
+
+$HSF1
+Motif 59  Motif 117 Motif 118 Motif 128 Motif 155 Motif 318 Motif 357
+
+$HSF4
+Motif 55
+
+$HSPA1L
+Motif 210 Motif 301 Motif 317 Motif 339
+
+$HSPA5
+Motif 17  Motif 200 Motif 205 Motif 210 Motif 291 Motif 305
+
+$HSPB1
+Motif 74  Motif 81  Motif 200 Motif 290 Motif 291 Motif 301 Motif 305 Motif 310 Motif 317 Motif 427 Motif 429
+
+$HSPE1
+Motif 1   Motif 3   Motif 5   Motif 9   Motif 13  Motif 15  Motif 16  Motif 17  Motif 30  Motif 31  Motif 50  Motif 54  Motif 55  Motif 56  Motif 59  Motif 60  Motif 67  Motif 68  Motif 72  Motif 76  Motif 90  Motif 92  Motif 100 Motif 103 Motif 119 Motif 125 Motif 150 Motif 151 Motif 152 Motif 155 Motif 158 Motif 171 Motif 173 Motif 174 Motif 175 Motif 188 Motif 210 Motif 221 Motif 234 Motif 240 Motif 245 Motif 247 Motif 249 Motif 264 Motif 267 Motif 269 Motif 281 Motif 285 Motif 305 Motif 307 Motif 309 Motif 310 Motif 316 Motif 317 Motif 319 Motif 332 Motif 342 Motif 345 Motif 351 Motif 355 Motif 371 Motif 374 Motif 377 Motif 381 Motif 383 Motif 384 Motif 393 Motif 397 Motif 398 Motif 411 Motif 412
+
+$HTATIP
+Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 9   Motif 13  Motif 14  Motif 15  Motif 16  Motif 17  Motif 22  Motif 23  Motif 26  Motif 27  Motif 30  Motif 31  Motif 32  Motif 44  Motif 45  Motif 50  Motif 51  Motif 53  Motif 54  Motif 58  Motif 59  Motif 67  Motif 68  Motif 69  Motif 70  Motif 72  Motif 76  Motif 79  Motif 81  Motif 83  Motif 85  Motif 86  Motif 89  Motif 90  Motif 91  Motif 92  Motif 93  Motif 95  Motif 99  Motif 100 Motif 104 Motif 119 Motif 131 Motif 157 Motif 163 Motif 172 Motif 179 Motif 285 Motif 305 Motif 328 Motif 343 Motif 398 Motif 411
+
+$HTATIP2
+Motif 3  Motif 9  Motif 31 Motif 70 Motif 75
+
+$HTF9C
+Motif 119 Motif 155
+
+$HUS1
+Motif 357
+
+$ICK
+Motif 70
+
+$ID2
+Motif 33  Motif 200 Motif 269
+
+$ID4
+Motif 301
+
+$IFI27
+Motif 108
+
+$IKZF1
+Motif 155
+
+$IL24
+Motif 1   Motif 3   Motif 4   Motif 6   Motif 8   Motif 9   Motif 13  Motif 55  Motif 72  Motif 90  Motif 95  Motif 107 Motif 108 Motif 192 Motif 247 Motif 316 Motif 320 Motif 342
+
+$IMP4
+Motif 278 Motif 317
+
+$ING1
+Motif 112 Motif 113 Motif 114 Motif 115 Motif 116 Motif 124 Motif 126 Motif 130 Motif 131 Motif 134 Motif 135 Motif 136 Motif 137 Motif 138 Motif 141 Motif 143 Motif 144 Motif 145 Motif 147 Motif 148 Motif 156 Motif 158 Motif 159 Motif 162 Motif 167 Motif 177 Motif 179 Motif 180 Motif 181 Motif 182 Motif 183 Motif 185 Motif 188 Motif 190 Motif 191 Motif 193 Motif 194 Motif 196
+
+$ING3
+Motif 135 Motif 200 Motif 269
+
+$ING4
+Motif 77
+
+$INSM1
+Motif 3  Motif 9  Motif 14 Motif 31 Motif 32 Motif 70 Motif 75
+
+$INTS4
+Motif 288
+
+$INTS7
+Motif 32
+
+$IRF1
+Motif 75  Motif 110 Motif 366 Motif 373
+
+$IRF2
+Motif 307
+
+$IRF3
+ Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 9   Motif 11  Motif 14  Motif 16  Motif 17  Motif 18  Motif 19  Motif 20  Motif 21  Motif 22  Motif 23  Motif 24  Motif 25  Motif 27  Motif 28  Motif 29  Motif 30  Motif 31  Motif 32  Motif 34  Motif 35  Motif 36  Motif 37  Motif 38  Motif 39  Motif 40  Motif 41  Motif 42  Motif 43  Motif 44  Motif 45  Motif 46  Motif 47  Motif 48  Motif 49  Motif 50  Motif 51  Motif 53  Motif 54  Motif 56  Motif 58  Motif 59  Motif 60  Motif 61  Motif 62  Motif 63  Motif 64  Motif 65  Motif 66  Motif 67  Motif 68  Motif 69  Motif 70  Motif 71  Motif 72  Motif 73  Motif 74  Motif 75  Motif 76  Motif 77  Motif 78  Motif 79  Motif 80  Motif 81  Motif 82  Motif 83  Motif 84  Motif 85  Motif 86  Motif 88  Motif 89  Motif 90  Motif 91  Motif 92  Motif 93  Motif 95  Motif 96  Motif 98  Motif 99  Motif 100 Motif 103 Motif 104 Motif 105 Motif 108 Motif 109 Motif 110 Motif 111 Motif 112 Motif 113 Motif 114 Motif 115 Motif 116 Motif 117 Motif 118 Motif 119 Motif 120 Motif 121 Motif 122 Motif 123 Motif 124 Motif 125 Motif 126 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 136 Motif 137 Motif 138 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 146 Motif 147 Motif 148 Motif 149 Motif 150 Motif 151 Motif 152 Motif 153 Motif 154 Motif 155 Motif 156 Motif 157 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 163 Motif 164 Motif 165 Motif 166 Motif 167 Motif 168 Motif 169 Motif 171 Motif 172 Motif 173 Motif 174 Motif 175 Motif 176 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 182 Motif 183 Motif 184 Motif 185 Motif 186 Motif 187 Motif 188 Motif 189 Motif 190 Motif 191 Motif 193 Motif 194 Motif 195 Motif 196 Motif 199 Motif 200 Motif 201 Motif 202 Motif 203 Motif 204 Motif 205 Motif 207 Motif 208 Motif 209 Motif 210 Motif 211 Motif 212 Motif 213 Motif 214 Motif 215 Motif 216 Motif 217 Motif 218 Motif 219 Motif 220 Motif 221 Motif 222 Motif 223 Motif 224 Motif 225 Motif 226 Motif 227 Motif 228 Motif 229 Motif 230 Motif 231 Motif 232 Motif 233 Motif 234 Motif 235 Motif 236 Motif 239 Motif 240 Motif 245 Motif 247 Motif 248 Motif 249 Motif 250 Motif 251 Motif 252 Motif 253 Motif 256 Motif 257 Motif 258 Motif 259 Motif 260 Motif 261 Motif 262 Motif 263 Motif 264 Motif 265 Motif 266 Motif 267 Motif 268 Motif 269 Motif 270 Motif 271 Motif 272 Motif 273 Motif 274 Motif 275 Motif 276 Motif 277 Motif 278 Motif 279 Motif 280 Motif 281 Motif 282 Motif 283 Motif 284 Motif 285 Motif 289 Motif 290 Motif 291 Motif 292 Motif 293 Motif 294 Motif 295 Motif 296 Motif 297 Motif 301 Motif 302 Motif 305 Motif 306 Motif 307 Motif 308 Motif 309 Motif 310 Motif 312 Motif 313 Motif 314 Motif 315 Motif 317 Motif 318 Motif 319 Motif 322 Motif 324 Motif 325 Motif 326 Motif 328 Motif 329 Motif 330 Motif 332 Motif 333 Motif 334 Motif 335 Motif 336 Motif 337 Motif 338 Motif 339 Motif 340 Motif 341 Motif 342 Motif 343 Motif 344 Motif 346 Motif 347 Motif 351 Motif 352 Motif 353 Motif 354 Motif 355 Motif 357 Motif 377 Motif 379 Motif 398 Motif 426 Motif 427 Motif 428 Motif 429 Motif 430 Motif 431 Motif 434 Motif 435 Motif 437 Motif 438 Motif 439 Motif 440 Motif 441 Motif 442 Motif 443 Motif 444 Motif 445 Motif 446 Motif 448 Motif 449 Motif 450 Motif 451 Motif 452 Motif 453 Motif 454 Motif 455 Motif 458 Motif 459 Motif 460
+
+$IRF5
+Motif 80
+
+$IRF6
+Motif 28  Motif 29  Motif 31  Motif 72  Motif 73  Motif 80  Motif 85  Motif 128 Motif 147 Motif 155 Motif 341 Motif 408
+
+$IRF8
+Motif 38  Motif 72  Motif 116 Motif 117 Motif 118 Motif 121 Motif 122 Motif 123 Motif 124 Motif 126 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 133 Motif 134 Motif 136 Motif 138 Motif 140 Motif 142 Motif 144 Motif 153 Motif 154 Motif 155 Motif 156 Motif 157 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 166 Motif 178 Motif 196 Motif 205 Motif 211 Motif 221 Motif 225 Motif 248 Motif 250 Motif 262 Motif 263 Motif 266 Motif 267 Motif 273 Motif 315 Motif 357 Motif 408 Motif 445
+
+$IRX2
+Motif 121
+
+$IRX5
+Motif 145
+
+$ISGF3G
+Motif 29
+
+$ISL1
+Motif 4   Motif 6   Motif 8   Motif 63  Motif 70  Motif 71  Motif 72  Motif 79  Motif 80  Motif 81  Motif 82  Motif 83  Motif 84  Motif 86  Motif 88  Motif 89  Motif 91  Motif 92  Motif 103 Motif 109 Motif 110 Motif 116 Motif 118 Motif 120 Motif 121 Motif 122 Motif 123 Motif 124 Motif 126 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 134 Motif 137 Motif 138 Motif 147 Motif 153 Motif 155 Motif 156 Motif 157 Motif 158 Motif 160 Motif 161 Motif 162 Motif 169 Motif 172 Motif 173 Motif 174 Motif 178 Motif 255 Motif 264 Motif 314 Motif 315 Motif 324 Motif 344 Motif 353 Motif 357 Motif 426 Motif 429 Motif 445 Motif 454 Motif 455 Motif 458
+
+$IVD
+Motif 3   Motif 92  Motif 351 Motif 377 Motif 383
+
+$IVNS1ABP
+Motif 315
+
+$JARID1A
+Motif 55  Motif 320 Motif 333
+
+$JARID1D
+Motif 55  Motif 158 Motif 307 Motif 309 Motif 317 Motif 320 Motif 324 Motif 332 Motif 333 Motif 342 Motif 347 Motif 351 Motif 352 Motif 353 Motif 411 Motif 426 Motif 433 Motif 439 Motif 456 Motif 458
+
+$JDP2
+Motif 116 Motif 121 Motif 128 Motif 129 Motif 131 Motif 156 Motif 160 Motif 169 Motif 178 Motif 315 Motif 317 Motif 318 Motif 330 Motif 333 Motif 357 Motif 446 Motif 460
+
+$JMJD1B
+Motif 288
+
+$JMJD2C
+Motif 55  Motif 411
+
+$JMJD2D
+Motif 119 Motif 353
+
+$JTV1
+Motif 204
+
+$KCNIP1
+Motif 32  Motif 140 Motif 267 Motif 281 Motif 285 Motif 448
+
+$KHDRBS1
+ Motif 1   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 9   Motif 11  Motif 12  Motif 16  Motif 19  Motif 23  Motif 28  Motif 31  Motif 41  Motif 45  Motif 49  Motif 67  Motif 68  Motif 69  Motif 72  Motif 75  Motif 76  Motif 77  Motif 79  Motif 80  Motif 81  Motif 82  Motif 83  Motif 84  Motif 85  Motif 86  Motif 88  Motif 89  Motif 90  Motif 92  Motif 93  Motif 95  Motif 99  Motif 103 Motif 105 Motif 108 Motif 112 Motif 113 Motif 114 Motif 115 Motif 116 Motif 117 Motif 118 Motif 123 Motif 124 Motif 125 Motif 127 Motif 128 Motif 129 Motif 131 Motif 132 Motif 133 Motif 134 Motif 137 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 147 Motif 148 Motif 150 Motif 151 Motif 152 Motif 153 Motif 156 Motif 157 Motif 158 Motif 160 Motif 161 Motif 162 Motif 164 Motif 165 Motif 166 Motif 167 Motif 168 Motif 169 Motif 170 Motif 172 Motif 173 Motif 174 Motif 175 Motif 177 Motif 178 Motif 180 Motif 181 Motif 188 Motif 189 Motif 190 Motif 192 Motif 195 Motif 228 Motif 234 Motif 240 Motif 245 Motif 247 Motif 248 Motif 266 Motif 267 Motif 276 Motif 278 Motif 281 Motif 285 Motif 316 Motif 320 Motif 342 Motif 353 Motif 374 Motif 397 Motif 398 Motif 411 Motif 441 Motif 442 Motif 444 Motif 445 Motif 446 Motif 448 Motif 454 Motif 456 Motif 458 Motif 460
+
+$KHDRBS3
+ Motif 1   Motif 3   Motif 4   Motif 5   Motif 6   Motif 9   Motif 13  Motif 15  Motif 16  Motif 19  Motif 23  Motif 31  Motif 32  Motif 45  Motif 49  Motif 50  Motif 51  Motif 54  Motif 55  Motif 57  Motif 58  Motif 59  Motif 67  Motif 68  Motif 69  Motif 72  Motif 76  Motif 85  Motif 90  Motif 92  Motif 95  Motif 100 Motif 101 Motif 102 Motif 103 Motif 104 Motif 105 Motif 106 Motif 107 Motif 108 Motif 109 Motif 110 Motif 111 Motif 112 Motif 113 Motif 114 Motif 115 Motif 116 Motif 117 Motif 118 Motif 119 Motif 120 Motif 121 Motif 123 Motif 124 Motif 125 Motif 126 Motif 127 Motif 128 Motif 129 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 137 Motif 138 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 147 Motif 148 Motif 149 Motif 150 Motif 151 Motif 152 Motif 153 Motif 154 Motif 155 Motif 156 Motif 157 Motif 158 Motif 160 Motif 161 Motif 162 Motif 163 Motif 164 Motif 165 Motif 166 Motif 167 Motif 169 Motif 170 Motif 171 Motif 172 Motif 173 Motif 174 Motif 175 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 183 Motif 185 Motif 187 Motif 188 Motif 189 Motif 190 Motif 191 Motif 192 Motif 194 Motif 195 Motif 197 Motif 200 Motif 214 Motif 217 Motif 227 Motif 240 Motif 243 Motif 245 Motif 246 Motif 247 Motif 248 Motif 256 Motif 266 Motif 267 Motif 276 Motif 278 Motif 281 Motif 292 Motif 294 Motif 299 Motif 303 Motif 305 Motif 306 Motif 307 Motif 309 Motif 310 Motif 313 Motif 315 Motif 316 Motif 317 Motif 320 Motif 332 Motif 342 Motif 345 Motif 347 Motif 350 Motif 351 Motif 353 Motif 355 Motif 356 Motif 366 Motif 374 Motif 384 Motif 393 Motif 397 Motif 398 Motif 423 Motif 426 Motif 428 Motif 430 Motif 433 Motif 434 Motif 435 Motif 438 Motif 439 Motif 441 Motif 442 Motif 443 Motif 444 Motif 445 Motif 446 Motif 448 Motif 453 Motif 454 Motif 455 Motif 456 Motif 458 Motif 459 Motif 460
+
+$KIAA0907
+Motif 1   Motif 3   Motif 16  Motif 23  Motif 72  Motif 85  Motif 90  Motif 92  Motif 95  Motif 191 Motif 196 Motif 248 Motif 249 Motif 256 Motif 264 Motif 285
+
+$KIAA1429
+Motif 305
+
+$KIAA1509
+Motif 16
+
+$KIF22
+Motif 12  Motif 28  Motif 29  Motif 67  Motif 70  Motif 109 Motif 110
+
+$KLF11
+Motif 59
+
+$KLF12
+Motif 230 Motif 261
+
+$KLF15
+Motif 70 Motif 89
+
+$KLF3
+Motif 89  Motif 118 Motif 128 Motif 129 Motif 130 Motif 132 Motif 137 Motif 145 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 168 Motif 169 Motif 172 Motif 173 Motif 174 Motif 183 Motif 189 Motif 194 Motif 205
+
+$KLF4
+Motif 3   Motif 33  Motif 42  Motif 174 Motif 194 Motif 264 Motif 412
+
+$KLF8
+Motif 89
+
+$KLHL21
+Motif 55
+
+$KLHL29
+Motif 105
+
+$KLHL3
+Motif 301
+
+$LARP1
+Motif 1   Motif 3   Motif 16  Motif 92  Motif 151 Motif 192 Motif 240 Motif 245 Motif 276 Motif 320 Motif 342 Motif 356
+
+$LARP4
+Motif 1   Motif 5   Motif 349 Motif 352 Motif 355 Motif 359 Motif 362 Motif 363 Motif 364 Motif 365 Motif 366 Motif 367 Motif 368 Motif 369 Motif 372 Motif 375 Motif 376 Motif 377 Motif 378 Motif 379 Motif 380 Motif 382 Motif 384 Motif 385 Motif 417
+
+$LARP7
+ Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 9   Motif 10  Motif 11  Motif 14  Motif 28  Motif 32  Motif 33  Motif 41  Motif 44  Motif 55  Motif 61  Motif 63  Motif 71  Motif 72  Motif 76  Motif 77  Motif 78  Motif 81  Motif 85  Motif 88  Motif 90  Motif 91  Motif 92  Motif 93  Motif 95  Motif 96  Motif 98  Motif 112 Motif 113 Motif 117 Motif 118 Motif 121 Motif 122 Motif 123 Motif 124 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 133 Motif 135 Motif 136 Motif 138 Motif 139 Motif 140 Motif 142 Motif 143 Motif 144 Motif 147 Motif 151 Motif 152 Motif 153 Motif 155 Motif 157 Motif 158 Motif 160 Motif 161 Motif 162 Motif 163 Motif 166 Motif 169 Motif 174 Motif 176 Motif 177 Motif 178 Motif 179 Motif 180 Motif 185 Motif 187 Motif 188 Motif 189 Motif 196 Motif 200 Motif 205 Motif 206 Motif 210 Motif 221 Motif 225 Motif 226 Motif 233 Motif 234 Motif 239 Motif 245 Motif 246 Motif 247 Motif 248 Motif 249 Motif 256 Motif 260 Motif 264 Motif 266 Motif 267 Motif 269 Motif 271 Motif 276 Motif 278 Motif 279 Motif 280 Motif 282 Motif 283 Motif 284 Motif 285 Motif 286 Motif 288 Motif 290 Motif 291 Motif 295 Motif 299 Motif 301 Motif 302 Motif 305 Motif 306 Motif 307 Motif 308 Motif 309 Motif 310 Motif 314 Motif 315 Motif 316 Motif 317 Motif 318 Motif 319 Motif 320 Motif 321 Motif 322 Motif 324 Motif 326 Motif 328 Motif 330 Motif 333 Motif 334 Motif 335 Motif 336 Motif 337 Motif 338 Motif 340 Motif 341 Motif 342 Motif 343 Motif 344 Motif 345 Motif 347 Motif 352 Motif 353 Motif 357 Motif 371 Motif 392 Motif 394 Motif 397 Motif 398 Motif 411 Motif 415 Motif 421 Motif 426 Motif 427 Motif 428 Motif 429 Motif 430 Motif 432 Motif 433 Motif 434 Motif 435 Motif 438 Motif 439 Motif 440 Motif 441 Motif 442 Motif 443 Motif 444 Motif 445 Motif 446 Motif 448 Motif 449 Motif 450 Motif 451 Motif 452 Motif 453 Motif 454 Motif 455 Motif 458 Motif 460
+
+$LAS1L
+Motif 124 Motif 135 Motif 138 Motif 144 Motif 155 Motif 156 Motif 158 Motif 159 Motif 162 Motif 174 Motif 177 Motif 180 Motif 181 Motif 182 Motif 183 Motif 190 Motif 191 Motif 193 Motif 194 Motif 196
+
+$LASS4
+Motif 147 Motif 354 Motif 366 Motif 382
+
+$LDB2
+Motif 371
+
+$LDOC1
+Motif 29
+
+$LHFP
+Motif 147
+
+$LHX2
+Motif 121 Motif 156 Motif 158 Motif 178 Motif 179
+
+$LHX4
+Motif 109 Motif 121 Motif 156 Motif 357
+
+$LIG1
+Motif 1   Motif 11  Motif 16  Motif 23  Motif 45  Motif 50  Motif 51  Motif 53  Motif 54  Motif 59  Motif 100 Motif 111 Motif 179 Motif 191 Motif 199 Motif 200 Motif 235 Motif 247 Motif 249 Motif 250 Motif 256 Motif 267 Motif 269 Motif 281 Motif 284 Motif 285 Motif 288 Motif 308 Motif 309 Motif 310 Motif 317 Motif 335 Motif 343 Motif 435
+
+$LIG3
+ Motif 1   Motif 2   Motif 3   Motif 4   Motif 6   Motif 7   Motif 8   Motif 9   Motif 11  Motif 14  Motif 21  Motif 28  Motif 29  Motif 32  Motif 36  Motif 41  Motif 46  Motif 47  Motif 51  Motif 53  Motif 59  Motif 61  Motif 71  Motif 74  Motif 75  Motif 79  Motif 83  Motif 86  Motif 87  Motif 90  Motif 100 Motif 103 Motif 104 Motif 105 Motif 109 Motif 110 Motif 112 Motif 113 Motif 114 Motif 116 Motif 120 Motif 121 Motif 122 Motif 123 Motif 124 Motif 126 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 136 Motif 137 Motif 138 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 147 Motif 149 Motif 153 Motif 155 Motif 156 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 165 Motif 166 Motif 168 Motif 169 Motif 172 Motif 173 Motif 185 Motif 189 Motif 194 Motif 195 Motif 196 Motif 199 Motif 207 Motif 212 Motif 219 Motif 225 Motif 226 Motif 230 Motif 231 Motif 232 Motif 233 Motif 235 Motif 239 Motif 247 Motif 248 Motif 249 Motif 250 Motif 252 Motif 253 Motif 256 Motif 257 Motif 261 Motif 264 Motif 266 Motif 267 Motif 268 Motif 270 Motif 272 Motif 273 Motif 274 Motif 275 Motif 276 Motif 280 Motif 281 Motif 282 Motif 284 Motif 285 Motif 301 Motif 307 Motif 314 Motif 315 Motif 317 Motif 318 Motif 330 Motif 334 Motif 335 Motif 336 Motif 340 Motif 341 Motif 343 Motif 344 Motif 426 Motif 427 Motif 428 Motif 429 Motif 434 Motif 435 Motif 437 Motif 439 Motif 440 Motif 441 Motif 442 Motif 443 Motif 444 Motif 445 Motif 446 Motif 448 Motif 449 Motif 451 Motif 454 Motif 455 Motif 458 Motif 459 Motif 460
+
+$LIMD1
+Motif 44
+
+$LIN28
+ Motif 1   Motif 2   Motif 3   Motif 4   Motif 6   Motif 9   Motif 10  Motif 13  Motif 16  Motif 23  Motif 39  Motif 41  Motif 45  Motif 46  Motif 50  Motif 53  Motif 55  Motif 56  Motif 59  Motif 100 Motif 103 Motif 104 Motif 105 Motif 106 Motif 107 Motif 108 Motif 111 Motif 116 Motif 118 Motif 121 Motif 124 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 133 Motif 134 Motif 142 Motif 143 Motif 144 Motif 150 Motif 151 Motif 152 Motif 153 Motif 155 Motif 157 Motif 160 Motif 161 Motif 167 Motif 169 Motif 174 Motif 176 Motif 178 Motif 179 Motif 181 Motif 187 Motif 192 Motif 193 Motif 194 Motif 195 Motif 197 Motif 217 Motif 240 Motif 242 Motif 244 Motif 245 Motif 247 Motif 256 Motif 264 Motif 267 Motif 272 Motif 276 Motif 280 Motif 285 Motif 290 Motif 291 Motif 292 Motif 293 Motif 294 Motif 295 Motif 296 Motif 297 Motif 299 Motif 301 Motif 302 Motif 305 Motif 306 Motif 307 Motif 308 Motif 309 Motif 310 Motif 312 Motif 313 Motif 314 Motif 315 Motif 316 Motif 317 Motif 318 Motif 320 Motif 321 Motif 322 Motif 323 Motif 324 Motif 325 Motif 326 Motif 327 Motif 329 Motif 330 Motif 331 Motif 332 Motif 333 Motif 334 Motif 335 Motif 336 Motif 337 Motif 338 Motif 339 Motif 340 Motif 341 Motif 342 Motif 343 Motif 344 Motif 345 Motif 346 Motif 347 Motif 348 Motif 349 Motif 350 Motif 351 Motif 352 Motif 353 Motif 354 Motif 355 Motif 356 Motif 357 Motif 358 Motif 359 Motif 360 Motif 361 Motif 362 Motif 363 Motif 364 Motif 365 Motif 366 Motif 367 Motif 370 Motif 371 Motif 372 Motif 373 Motif 374 Motif 376 Motif 378 Motif 380 Motif 384 Motif 385 Motif 386 Motif 387 Motif 389 Motif 390 Motif 391 Motif 392 Motif 393 Motif 394 Motif 397 Motif 398 Motif 399 Motif 400 Motif 404 Motif 405 Motif 411 Motif 412 Motif 415 Motif 426 Motif 427 Motif 428 Motif 429 Motif 430 Motif 432 Motif 433 Motif 434 Motif 435 Motif 438 Motif 439 Motif 440 Motif 441 Motif 442 Motif 443 Motif 444 Motif 445 Motif 446 Motif 448 Motif 449 Motif 450 Motif 451 Motif 452 Motif 453 Motif 454 Motif 455 Motif 458 Motif 460
+
+$LOC391749
+Motif 18
+
+$LOC51035
+Motif 1   Motif 68  Motif 69  Motif 85  Motif 90  Motif 92  Motif 95  Motif 100 Motif 285 Motif 411
+
+$LOC51255
+Motif 4  Motif 44
+
+$LOC55565
+Motif 47
+
+$LOC653972
+Motif 33  Motif 43  Motif 56  Motif 100 Motif 131 Motif 200 Motif 207 Motif 248 Motif 249 Motif 255 Motif 269 Motif 285 Motif 305 Motif 426 Motif 428 Motif 429 Motif 446 Motif 448
+
+$LOC93349
+Motif 1   Motif 29  Motif 32  Motif 33  Motif 39  Motif 41  Motif 59  Motif 112 Motif 119 Motif 124 Motif 133 Motif 134 Motif 135 Motif 136 Motif 140 Motif 141 Motif 142 Motif 144 Motif 157 Motif 162 Motif 163 Motif 168 Motif 169 Motif 172 Motif 179 Motif 189 Motif 194 Motif 195 Motif 200 Motif 205 Motif 206 Motif 207 Motif 210 Motif 233 Motif 240 Motif 245 Motif 247 Motif 248 Motif 249 Motif 250 Motif 267 Motif 279 Motif 280 Motif 281 Motif 284 Motif 285 Motif 287 Motif 318 Motif 320 Motif 321 Motif 334 Motif 345 Motif 353 Motif 357 Motif 426 Motif 435 Motif 446
+
+$LOXL1
+Motif 192
+
+$LRCH3
+Motif 12
+
+$LRRFIP1
+Motif 1   Motif 3   Motif 5   Motif 32  Motif 68  Motif 100 Motif 112 Motif 132 Motif 153 Motif 155 Motif 160 Motif 200 Motif 234 Motif 240 Motif 245 Motif 247 Motif 249 Motif 269 Motif 281 Motif 285 Motif 288 Motif 307 Motif 411 Motif 445
+
+$LSM4
+Motif 371
+
+$LSM6
+Motif 108 Motif 309 Motif 332
+
+$LUZP1
+Motif 3   Motif 16  Motif 69  Motif 72  Motif 85  Motif 411
+
+$LUZP2
+Motif 174 Motif 175 Motif 188 Motif 195 Motif 309 Motif 332 Motif 342
+
+$LYPLAL1
+Motif 1   Motif 4   Motif 6   Motif 15  Motif 16  Motif 45  Motif 51  Motif 55  Motif 67  Motif 68  Motif 72  Motif 76  Motif 90  Motif 92  Motif 95  Motif 108 Motif 119 Motif 121 Motif 132 Motif 150 Motif 151 Motif 155 Motif 160 Motif 174 Motif 175 Motif 191 Motif 234 Motif 240 Motif 264 Motif 285 Motif 291 Motif 301 Motif 316 Motif 320 Motif 345 Motif 346 Motif 351 Motif 353 Motif 377 Motif 378
+
+$LZTFL1
+Motif 1  Motif 2  Motif 3  Motif 4  Motif 5  Motif 6  Motif 7  Motif 8  Motif 9  Motif 10 Motif 11 Motif 14 Motif 16 Motif 17 Motif 18 Motif 19 Motif 20 Motif 21 Motif 22 Motif 23 Motif 24 Motif 25 Motif 26 Motif 27 Motif 28 Motif 29 Motif 30 Motif 31 Motif 32 Motif 34 Motif 36 Motif 42 Motif 43 Motif 44 Motif 48 Motif 51 Motif 58 Motif 61 Motif 62 Motif 63 Motif 64 Motif 66 Motif 67 Motif 69 Motif 71 Motif 72 Motif 73 Motif 74 Motif 75 Motif 76 Motif 77 Motif 78 Motif 80 Motif 81 Motif 83 Motif 84 Motif 85 Motif 86 Motif 88 Motif 89 Motif 90 Motif 91 Motif 92 Motif 93 Motif 95 Motif 96 Motif 98 Motif 99
+
+$MAFB
+Motif 112 Motif 113 Motif 114 Motif 115 Motif 116 Motif 117 Motif 118 Motif 120 Motif 121 Motif 122 Motif 123 Motif 124 Motif 126 Motif 127 Motif 128 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 136 Motif 137 Motif 138 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 146 Motif 153 Motif 155 Motif 156 Motif 157 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 163 Motif 165 Motif 167 Motif 168 Motif 169 Motif 171 Motif 172 Motif 173 Motif 174 Motif 175 Motif 176 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 182 Motif 183 Motif 188 Motif 190 Motif 191 Motif 193 Motif 194 Motif 195 Motif 196 Motif 199 Motif 288
+
+$MAGEA4
+Motif 44  Motif 433
+
+$MAGEA8
+Motif 3   Motif 4   Motif 10  Motif 41  Motif 151 Motif 315 Motif 325 Motif 344 Motif 347 Motif 352 Motif 357 Motif 361 Motif 362 Motif 363 Motif 364 Motif 365 Motif 371 Motif 404
+
+$MAGEA9
+Motif 172
+
+$MAGEB1
+ Motif 1   Motif 5   Motif 16  Motif 32  Motif 39  Motif 41  Motif 50  Motif 55  Motif 59  Motif 100 Motif 103 Motif 112 Motif 115 Motif 117 Motif 121 Motif 124 Motif 125 Motif 126 Motif 127 Motif 128 Motif 129 Motif 131 Motif 133 Motif 134 Motif 135 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 150 Motif 152 Motif 153 Motif 154 Motif 155 Motif 156 Motif 157 Motif 158 Motif 160 Motif 161 Motif 162 Motif 163 Motif 166 Motif 169 Motif 176 Motif 177 Motif 179 Motif 185 Motif 187 Motif 188 Motif 189 Motif 193 Motif 195 Motif 196 Motif 200 Motif 245 Motif 247 Motif 248 Motif 249 Motif 250 Motif 267 Motif 269 Motif 276 Motif 280 Motif 284 Motif 289 Motif 291 Motif 292 Motif 293 Motif 294 Motif 295 Motif 299 Motif 301 Motif 302 Motif 303 Motif 305 Motif 307 Motif 310 Motif 315 Motif 316 Motif 317 Motif 318 Motif 320 Motif 321 Motif 322 Motif 326 Motif 333 Motif 335 Motif 342 Motif 343 Motif 345 Motif 346 Motif 347 Motif 351 Motif 353 Motif 355 Motif 357 Motif 363 Motif 378 Motif 381 Motif 391 Motif 397 Motif 398 Motif 411 Motif 426 Motif 429 Motif 430 Motif 435 Motif 439 Motif 441 Motif 443 Motif 445 Motif 453 Motif 454 Motif 456 Motif 458
+
+$MAGEB2
+Motif 357
+
+$MAGEB3
+Motif 210
+
+$MAGEB6
+Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 8   Motif 9   Motif 16  Motif 23  Motif 30  Motif 32  Motif 59  Motif 68  Motif 72  Motif 76  Motif 77  Motif 79  Motif 81  Motif 83  Motif 85  Motif 88  Motif 89  Motif 90  Motif 92  Motif 95  Motif 100 Motif 138 Motif 155 Motif 157 Motif 230 Motif 245 Motif 246 Motif 248 Motif 249 Motif 250 Motif 256 Motif 264 Motif 267 Motif 280 Motif 285 Motif 320 Motif 343
+
+$MAGEC2
+Motif 371
+
+$MAGED4
+Motif 321 Motif 355 Motif 357 Motif 366 Motif 378
+
+$MAGEF1
+Motif 156 Motif 158 Motif 180 Motif 182 Motif 183
+
+$MAGOH
+Motif 12  Motif 14  Motif 28  Motif 29  Motif 32  Motif 34  Motif 64  Motif 67  Motif 70  Motif 73  Motif 75  Motif 76  Motif 109 Motif 110
+
+$MAP3K7
+Motif 70
+
+$MAP4K2
+Motif 18  Motif 47  Motif 100 Motif 101 Motif 102 Motif 103 Motif 104 Motif 105 Motif 111
+
+$MAPK1
+Motif 23  Motif 68  Motif 69  Motif 72  Motif 151 Motif 191 Motif 288 Motif 301 Motif 303 Motif 305 Motif 307 Motif 309 Motif 310 Motif 317 Motif 429 Motif 433 Motif 435
+
+$MARK2
+Motif 70
+
+$MAX
+ Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 12  Motif 14  Motif 16  Motif 17  Motif 21  Motif 22  Motif 23  Motif 24  Motif 26  Motif 28  Motif 29  Motif 30  Motif 32  Motif 33  Motif 34  Motif 35  Motif 36  Motif 37  Motif 38  Motif 39  Motif 40  Motif 41  Motif 45  Motif 46  Motif 47  Motif 48  Motif 49  Motif 50  Motif 51  Motif 52  Motif 53  Motif 54  Motif 55  Motif 56  Motif 58  Motif 59  Motif 60  Motif 61  Motif 62  Motif 63  Motif 64  Motif 65  Motif 67  Motif 70  Motif 71  Motif 72  Motif 73  Motif 74  Motif 75  Motif 76  Motif 78  Motif 79  Motif 80  Motif 81  Motif 82  Motif 83  Motif 84  Motif 85  Motif 86  Motif 88  Motif 89  Motif 90  Motif 91  Motif 93  Motif 95  Motif 98  Motif 99  Motif 100 Motif 101 Motif 102 Motif 103 Motif 104 Motif 105 Motif 108 Motif 109 Motif 110 Motif 111 Motif 112 Motif 113 Motif 114 Motif 115 Motif 116 Motif 117 Motif 118 Motif 119 Motif 120 Motif 121 Motif 122 Motif 123 Motif 124 Motif 125 Motif 126 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 136 Motif 137 Motif 138 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 146 Motif 147 Motif 153 Motif 154 Motif 155 Motif 156 Motif 157 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 163 Motif 165 Motif 166 Motif 167 Motif 168 Motif 169 Motif 171 Motif 172 Motif 173 Motif 174 Motif 175 Motif 176 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 182 Motif 183 Motif 185 Motif 186 Motif 187 Motif 188 Motif 189 Motif 190 Motif 192 Motif 193 Motif 194 Motif 195 Motif 196 Motif 205 Motif 207 Motif 209 Motif 211 Motif 212 Motif 213 Motif 214 Motif 218 Motif 221 Motif 224 Motif 225 Motif 231 Motif 245 Motif 247 Motif 249 Motif 250 Motif 253 Motif 255 Motif 256 Motif 264 Motif 265 Motif 266 Motif 267 Motif 268 Motif 270 Motif 273 Motif 280 Motif 281 Motif 282 Motif 288 Motif 289 Motif 290 Motif 291 Motif 295 Motif 298 Motif 307 Motif 309 Motif 312 Motif 313 Motif 314 Motif 315 Motif 316 Motif 317 Motif 318 Motif 322 Motif 324 Motif 330 Motif 332 Motif 342 Motif 343 Motif 344 Motif 345 Motif 346 Motif 347 Motif 348 Motif 349 Motif 351 Motif 352 Motif 353 Motif 354 Motif 355 Motif 357 Motif 374 Motif 378 Motif 392 Motif 426 Motif 429 Motif 434 Motif 435 Motif 437 Motif 439 Motif 440 Motif 441 Motif 442 Motif 443 Motif 445 Motif 446 Motif 448 Motif 454 Motif 455 Motif 456 Motif 458 Motif 459 Motif 460
+
+$MAZ
+Motif 140
+
+$MBD4
+Motif 227
+
+$MBD5
+Motif 200
+
+$MBTPS2
+Motif 12  Motif 28  Motif 67  Motif 138 Motif 147 Motif 167 Motif 187 Motif 289
+
+$MCM2
+Motif 308
+
+$MCM7
+Motif 180 Motif 194
+
+$MCM8
+Motif 157 Motif 363
+
+$MCTP2
+Motif 43  Motif 44  Motif 147 Motif 288 Motif 289
+
+$MDM2
+Motif 12  Motif 49  Motif 51  Motif 52  Motif 53  Motif 59  Motif 353 Motif 362 Motif 444
+
+$MECP2
+Motif 179 Motif 182 Motif 183 Motif 194 Motif 262
+
+$MEF2B
+Motif 225 Motif 234 Motif 235 Motif 267 Motif 269 Motif 270 Motif 281 Motif 282 Motif 284 Motif 354 Motif 366
+
+$MEIS1
+Motif 160 Motif 330
+
+$MEIS2
+Motif 16  Motif 17  Motif 22  Motif 25  Motif 27  Motif 47  Motif 50  Motif 51  Motif 52  Motif 53  Motif 56  Motif 69  Motif 124 Motif 140 Motif 143 Motif 149 Motif 160 Motif 161 Motif 162 Motif 174 Motif 203 Motif 222 Motif 246 Motif 249 Motif 250 Motif 285 Motif 301 Motif 330 Motif 331 Motif 332 Motif 333 Motif 335 Motif 336 Motif 339 Motif 341 Motif 347 Motif 429
+
+$MEIS3
+Motif 2   Motif 12  Motif 36  Motif 37  Motif 40  Motif 43  Motif 44  Motif 67  Motif 72  Motif 79  Motif 82  Motif 83  Motif 84  Motif 85  Motif 86  Motif 88  Motif 98  Motif 157 Motif 160 Motif 194 Motif 250 Motif 330 Motif 336
+
+$METTL3
+Motif 32  Motif 55  Motif 67  Motif 68  Motif 72  Motif 79  Motif 81  Motif 86  Motif 90  Motif 97  Motif 116 Motif 117 Motif 119 Motif 121 Motif 126 Motif 127 Motif 132 Motif 133 Motif 134 Motif 140 Motif 144 Motif 147 Motif 151 Motif 153 Motif 155 Motif 158 Motif 159 Motif 160 Motif 164 Motif 165 Motif 166 Motif 167 Motif 171 Motif 172 Motif 173 Motif 174 Motif 175 Motif 188 Motif 194 Motif 196 Motif 204 Motif 227 Motif 228 Motif 235 Motif 240 Motif 245 Motif 247 Motif 248 Motif 267 Motif 292 Motif 294 Motif 319 Motif 320 Motif 324 Motif 346 Motif 351 Motif 353 Motif 359 Motif 366 Motif 375 Motif 378 Motif 397 Motif 409 Motif 460
+
+$MGC10334
+Motif 16  Motif 72  Motif 301
+
+$MGC10433
+Motif 1   Motif 16  Motif 72  Motif 92  Motif 128 Motif 129 Motif 133 Motif 151 Motif 157 Motif 240 Motif 248 Motif 320 Motif 374
+
+$MGC11102
+Motif 100
+
+$MGC24103
+Motif 262
+
+$MGC35308
+Motif 343 Motif 352
+
+$MID2
+Motif 233
+
+$MIER2
+Motif 192
+
+$MIF4GD
+Motif 147 Motif 153
+
+$MKNK2
+Motif 31 Motif 70
+
+$MLLT3
+Motif 154 Motif 288
+
+$MLX
+Motif 21  Motif 35  Motif 45  Motif 48  Motif 63  Motif 100 Motif 127 Motif 128 Motif 140 Motif 141 Motif 142 Motif 143 Motif 147 Motif 163 Motif 196 Motif 200 Motif 253 Motif 269 Motif 287 Motif 288 Motif 289 Motif 310 Motif 411
+
+$MNDA
+Motif 103 Motif 112 Motif 113 Motif 129 Motif 132 Motif 133 Motif 134 Motif 136 Motif 140 Motif 142 Motif 194 Motif 195 Motif 247 Motif 248 Motif 249 Motif 250 Motif 267 Motif 269 Motif 280 Motif 281 Motif 284 Motif 285 Motif 288 Motif 307 Motif 309 Motif 310 Motif 318 Motif 332 Motif 333 Motif 342 Motif 355 Motif 357 Motif 426 Motif 427 Motif 428 Motif 429 Motif 435 Motif 439 Motif 445 Motif 446 Motif 448 Motif 458 Motif 460
+
+$MORG1
+Motif 29  Motif 88  Motif 225 Motif 341 Motif 439
+
+$MORN1
+Motif 85  Motif 86  Motif 92  Motif 121 Motif 183 Motif 194 Motif 195 Motif 397
+
+$MRLC2
+Motif 285
+
+$MRPL1
+Motif 137 Motif 141 Motif 144 Motif 145 Motif 156 Motif 180 Motif 182 Motif 183 Motif 190 Motif 193 Motif 194
+
+$MRPL12
+Motif 178
+
+$MRPL2
+Motif 55  Motif 151 Motif 305 Motif 317 Motif 383 Motif 384 Motif 397
+
+$MRPL55
+Motif 1   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 11  Motif 13  Motif 15  Motif 32  Motif 39  Motif 42  Motif 43  Motif 44  Motif 55  Motif 68  Motif 69  Motif 72  Motif 76  Motif 85  Motif 89  Motif 90  Motif 92  Motif 95  Motif 99  Motif 112 Motif 129 Motif 147 Motif 151 Motif 158 Motif 173 Motif 179 Motif 196 Motif 210 Motif 214 Motif 249 Motif 267 Motif 269 Motif 275 Motif 285 Motif 291 Motif 295 Motif 299 Motif 301 Motif 302 Motif 305 Motif 306 Motif 309 Motif 312 Motif 315 Motif 317 Motif 318 Motif 320 Motif 339 Motif 393 Motif 411 Motif 426 Motif 428 Motif 429 Motif 430 Motif 434 Motif 435 Motif 446
+
+$MRPS25
+Motif 13  Motif 72  Motif 76  Motif 85  Motif 90  Motif 92  Motif 95  Motif 128 Motif 158 Motif 240 Motif 317 Motif 351 Motif 353 Motif 397 Motif 410 Motif 433 Motif 438
+
+$MRPS36
+Motif 301 Motif 303
+
+$MSI1
+Motif 3   Motif 5   Motif 320 Motif 341 Motif 343 Motif 350 Motif 371 Motif 374 Motif 398 Motif 404 Motif 436 Motif 456
+
+$MSI2
+Motif 2   Motif 147 Motif 318 Motif 324 Motif 333 Motif 335 Motif 336 Motif 339 Motif 341 Motif 371 Motif 398 Motif 404 Motif 440 Motif 446 Motif 454
+
+$MSRA
+Motif 76  Motif 301 Motif 429
+
+$MSRB3
+Motif 16  Motif 33  Motif 44  Motif 72  Motif 75  Motif 200 Motif 269 Motif 301
+
+$MTCP1
+Motif 15  Motif 16  Motif 17  Motif 18  Motif 19  Motif 20  Motif 21  Motif 22  Motif 26  Motif 27  Motif 43  Motif 45  Motif 46  Motif 47  Motif 50  Motif 51  Motif 52  Motif 53  Motif 54  Motif 55  Motif 56  Motif 59  Motif 100 Motif 131 Motif 151 Motif 155 Motif 171 Motif 174 Motif 175 Motif 179 Motif 183 Motif 191 Motif 195 Motif 199 Motif 200 Motif 207 Motif 214 Motif 215 Motif 217 Motif 221 Motif 229 Motif 230 Motif 240 Motif 246 Motif 249 Motif 250 Motif 256 Motif 285 Motif 288 Motif 290 Motif 291 Motif 292 Motif 293 Motif 294 Motif 295 Motif 296 Motif 302 Motif 305 Motif 306 Motif 307 Motif 308 Motif 309 Motif 310 Motif 317 Motif 318 Motif 320 Motif 322 Motif 325 Motif 332 Motif 335 Motif 336 Motif 341 Motif 343 Motif 344 Motif 345 Motif 411 Motif 415 Motif 421 Motif 427 Motif 429 Motif 430 Motif 431 Motif 433 Motif 435 Motif 438 Motif 443 Motif 454 Motif 456 Motif 458 Motif 460
+
+$MTERFD2
+Motif 104 Motif 105
+
+$MTHFD1
+Motif 1  Motif 3  Motif 4  Motif 6  Motif 13 Motif 16 Motif 31 Motif 32 Motif 44 Motif 68 Motif 69 Motif 72 Motif 76 Motif 77 Motif 79 Motif 81 Motif 90 Motif 92
+
+$MXD3
+Motif 192
+
+$MXD4
+Motif 16  Motif 17  Motif 76  Motif 77  Motif 301 Motif 302
+
+$MYCN
+Motif 369
+
+$MYEF2
+Motif 1   Motif 4   Motif 9   Motif 117 Motif 144 Motif 157 Motif 393 Motif 398 Motif 404 Motif 411 Motif 448 Motif 453
+
+$MYF6
+Motif 33  Motif 34  Motif 47  Motif 98  Motif 116 Motif 120 Motif 121 Motif 122 Motif 123 Motif 124 Motif 127 Motif 128 Motif 129 Motif 131 Motif 137 Motif 143 Motif 155 Motif 156 Motif 157 Motif 161 Motif 162 Motif 163 Motif 178 Motif 186 Motif 193
+
+$MYL9
+Motif 200
+
+$MYLK
+Motif 352 Motif 354 Motif 355 Motif 357 Motif 359 Motif 360 Motif 366 Motif 367 Motif 368 Motif 369 Motif 382 Motif 383 Motif 384 Motif 385 Motif 386 Motif 387 Motif 388 Motif 389
+
+$MYOD1
+Motif 131 Motif 178 Motif 190 Motif 191 Motif 196 Motif 199
+
+$N6AMT1
+Motif 43  Motif 451
+
+$NANOS1
+Motif 200 Motif 240 Motif 247 Motif 249 Motif 276 Motif 280 Motif 291 Motif 305 Motif 317 Motif 320 Motif 411 Motif 429 Motif 445
+
+$NAP1L1
+Motif 43 Motif 44 Motif 81
+
+$NARG1L
+Motif 1   Motif 3   Motif 4   Motif 5   Motif 6   Motif 9   Motif 13  Motif 15  Motif 16  Motif 32  Motif 33  Motif 44  Motif 50  Motif 55  Motif 68  Motif 72  Motif 76  Motif 85  Motif 90  Motif 92  Motif 95  Motif 103 Motif 117 Motif 150 Motif 151 Motif 152 Motif 153 Motif 155 Motif 171 Motif 174 Motif 175 Motif 177 Motif 180 Motif 188 Motif 200 Motif 234 Motif 240 Motif 269 Motif 285 Motif 301 Motif 305 Motif 309 Motif 316 Motif 320 Motif 328 Motif 342 Motif 351 Motif 383 Motif 384 Motif 398 Motif 428 Motif 429 Motif 443 Motif 446 Motif 452 Motif 456
+
+$NCALD
+Motif 55  Motif 134 Motif 195 Motif 240 Motif 247 Motif 269 Motif 315 Motif 332
+
+$NCAPH2
+Motif 269
+
+$NCBP1
+Motif 302
+
+$NCBP2
+Motif 133 Motif 150 Motif 288 Motif 411
+
+$NCL
+ Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 9   Motif 10  Motif 11  Motif 13  Motif 14  Motif 16  Motif 17  Motif 23  Motif 29  Motif 30  Motif 31  Motif 32  Motif 41  Motif 50  Motif 51  Motif 54  Motif 55  Motif 56  Motif 57  Motif 61  Motif 67  Motif 68  Motif 69  Motif 70  Motif 72  Motif 76  Motif 79  Motif 81  Motif 82  Motif 83  Motif 85  Motif 86  Motif 89  Motif 90  Motif 92  Motif 93  Motif 94  Motif 95  Motif 97  Motif 100 Motif 102 Motif 103 Motif 104 Motif 105 Motif 106 Motif 107 Motif 108 Motif 110 Motif 111 Motif 112 Motif 113 Motif 114 Motif 115 Motif 116 Motif 117 Motif 118 Motif 119 Motif 120 Motif 121 Motif 122 Motif 123 Motif 124 Motif 125 Motif 126 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 136 Motif 137 Motif 138 Motif 139 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 146 Motif 147 Motif 148 Motif 149 Motif 150 Motif 151 Motif 152 Motif 153 Motif 154 Motif 155 Motif 156 Motif 157 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 163 Motif 164 Motif 165 Motif 166 Motif 167 Motif 168 Motif 169 Motif 170 Motif 171 Motif 172 Motif 173 Motif 174 Motif 175 Motif 176 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 183 Motif 184 Motif 185 Motif 186 Motif 187 Motif 188 Motif 189 Motif 190 Motif 191 Motif 192 Motif 193 Motif 194 Motif 195 Motif 196 Motif 197 Motif 213 Motif 214 Motif 217 Motif 220 Motif 223 Motif 224 Motif 228 Motif 232 Motif 234 Motif 235 Motif 236 Motif 239 Motif 240 Motif 242 Motif 243 Motif 244 Motif 245 Motif 247 Motif 248 Motif 250 Motif 252 Motif 253 Motif 254 Motif 256 Motif 260 Motif 262 Motif 264 Motif 266 Motif 267 Motif 268 Motif 274 Motif 275 Motif 276 Motif 277 Motif 278 Motif 279 Motif 280 Motif 281 Motif 284 Motif 285 Motif 292 Motif 294 Motif 297 Motif 298 Motif 300 Motif 316 Motif 318 Motif 319 Motif 320 Motif 321 Motif 324 Motif 328 Motif 332 Motif 342 Motif 343 Motif 344 Motif 345 Motif 346 Motif 347 Motif 348 Motif 349 Motif 350 Motif 351 Motif 352 Motif 353 Motif 355 Motif 357 Motif 359 Motif 360 Motif 363 Motif 364 Motif 365 Motif 371 Motif 376 Motif 377 Motif 378 Motif 381 Motif 382 Motif 383 Motif 384 Motif 385 Motif 386 Motif 390 Motif 393 Motif 397 Motif 398 Motif 415 Motif 423 Motif 426 Motif 430 Motif 440 Motif 441 Motif 442 Motif 443 Motif 444 Motif 445 Motif 446 Motif 448 Motif 449 Motif 450 Motif 451 Motif 452 Motif 453 Motif 454 Motif 455 Motif 456 Motif 458 Motif 460
+
+$NCOA4
+Motif 320
+
+$NDUFA4
+Motif 4
+
+$NDUFB2
+Motif 257
+
+$NEIL1
+Motif 56  Motif 357
+
+$NEIL2
+Motif 1   Motif 14  Motif 29  Motif 30  Motif 32  Motif 49  Motif 50  Motif 54  Motif 59  Motif 94  Motif 100 Motif 103 Motif 112 Motif 113 Motif 117 Motif 118 Motif 122 Motif 123 Motif 124 Motif 128 Motif 129 Motif 131 Motif 132 Motif 133 Motif 134 Motif 136 Motif 137 Motif 138 Motif 140 Motif 142 Motif 143 Motif 144 Motif 155 Motif 157 Motif 162 Motif 166 Motif 168 Motif 176 Motif 178 Motif 192 Motif 194 Motif 199 Motif 205 Motif 206 Motif 247 Motif 250 Motif 267 Motif 285 Motif 288 Motif 318 Motif 426 Motif 438 Motif 445
+
+$NFATC1
+Motif 1   Motif 2   Motif 3   Motif 4   Motif 11  Motif 13  Motif 17  Motif 23  Motif 28  Motif 29  Motif 37  Motif 42  Motif 43  Motif 44  Motif 50  Motif 53  Motif 59  Motif 60  Motif 65  Motif 66  Motif 68  Motif 70  Motif 71  Motif 72  Motif 82  Motif 88  Motif 92  Motif 108 Motif 136 Motif 138 Motif 155 Motif 159 Motif 180 Motif 181 Motif 184 Motif 193 Motif 223 Motif 234 Motif 269 Motif 318 Motif 320 Motif 333 Motif 341 Motif 355 Motif 357 Motif 387 Motif 431 Motif 448 Motif 450 Motif 451
+
+$NFATC3
+Motif 2   Motif 13  Motif 17  Motif 28  Motif 29  Motif 108 Motif 136 Motif 180 Motif 193
+
+$NFATC4
+Motif 2   Motif 13  Motif 29  Motif 180 Motif 357
+
+$NFE2
+Motif 286
+
+$NFIA
+Motif 339
+
+$NFIB
+Motif 401 Motif 422 Motif 423
+
+$NFIC
+Motif 78
+
+$NFIL3
+Motif 221 Motif 225 Motif 233 Motif 285 Motif 341
+
+$NFIX
+Motif 55  Motif 320 Motif 342
+
+$NFKBIL2
+Motif 19  Motif 433
+
+$NIPBL
+Motif 285
+
+$NKX2-3
+Motif 1   Motif 39  Motif 56  Motif 103 Motif 117 Motif 137 Motif 144 Motif 145 Motif 156 Motif 179 Motif 194 Motif 316 Motif 320 Motif 347
+
+$NKX2-5
+Motif 83
+
+$NME1
+Motif 361 Motif 362 Motif 363 Motif 366 Motif 368 Motif 375 Motif 376 Motif 377 Motif 440 Motif 441 Motif 442 Motif 443 Motif 444 Motif 446 Motif 448
+
+$NME2
+Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 9   Motif 10  Motif 11  Motif 13  Motif 14  Motif 15  Motif 16  Motif 23  Motif 30  Motif 31  Motif 45  Motif 50  Motif 55  Motif 59  Motif 72  Motif 73  Motif 74  Motif 75  Motif 76  Motif 77  Motif 78  Motif 85  Motif 86  Motif 89  Motif 90  Motif 95  Motif 100 Motif 151 Motif 155 Motif 171 Motif 174 Motif 214 Motif 240 Motif 264 Motif 285 Motif 288 Motif 315 Motif 317 Motif 320 Motif 324 Motif 333 Motif 335 Motif 342 Motif 345 Motif 347 Motif 351 Motif 353 Motif 355 Motif 397 Motif 398 Motif 458 Motif 460
+
+$NMI
+Motif 129 Motif 134 Motif 317 Motif 318 Motif 329 Motif 333 Motif 334 Motif 335 Motif 342 Motif 353 Motif 357 Motif 438 Motif 439 Motif 446 Motif 454 Motif 458 Motif 460
+
+$NMRAL1
+Motif 249 Motif 301 Motif 310 Motif 429 Motif 443
+
+$NNT
+Motif 72  Motif 73  Motif 76  Motif 77  Motif 210 Motif 286 Motif 301 Motif 305 Motif 307 Motif 426 Motif 429 Motif 435
+
+$NOC2L
+Motif 55  Motif 316 Motif 318 Motif 320 Motif 321 Motif 333 Motif 342 Motif 356
+
+$NOL3
+Motif 200 Motif 299
+
+$NOL7
+Motif 320
+
+$NOLA1
+Motif 182 Motif 183 Motif 194 Motif 382
+
+$NONO
+Motif 68  Motif 92  Motif 129
+
+$NPM1
+Motif 45  Motif 47  Motif 49  Motif 52  Motif 100 Motif 104 Motif 105 Motif 263 Motif 286 Motif 287 Motif 346 Motif 347 Motif 349 Motif 352 Motif 353 Motif 354 Motif 355 Motif 357 Motif 358 Motif 359 Motif 360 Motif 361 Motif 362 Motif 363 Motif 366 Motif 367 Motif 368 Motif 369 Motif 382 Motif 383 Motif 386 Motif 388
+
+$NPM2
+Motif 1   Motif 3   Motif 9   Motif 13  Motif 16  Motif 23  Motif 50  Motif 55  Motif 72  Motif 92  Motif 103 Motif 117 Motif 119 Motif 128 Motif 129 Motif 133 Motif 140 Motif 143 Motif 144 Motif 150 Motif 151 Motif 155 Motif 157 Motif 160 Motif 163 Motif 192 Motif 267 Motif 285 Motif 299 Motif 305 Motif 306 Motif 307 Motif 310 Motif 315 Motif 316 Motif 317 Motif 320 Motif 326 Motif 332 Motif 333 Motif 342 Motif 345 Motif 347 Motif 351 Motif 355 Motif 363 Motif 383 Motif 384 Motif 390 Motif 393 Motif 397 Motif 398 Motif 411 Motif 412 Motif 426 Motif 438 Motif 439 Motif 448 Motif 456 Motif 458 Motif 460
+
+$NR1H3
+Motif 43  Motif 345
+
+$NR2E1
+Motif 433
+
+$NR2F1
+Motif 32  Motif 39  Motif 40  Motif 44  Motif 55  Motif 154 Motif 156 Motif 165 Motif 337 Motif 374 Motif 393 Motif 397 Motif 398 Motif 399 Motif 408
+
+$NR3C1
+Motif 289
+
+$NR4A1
+Motif 33  Motif 44  Motif 200 Motif 269 Motif 315
+
+$NR4A2
+Motif 44  Motif 162 Motif 169
+
+$NR6A1
+Motif 12
+
+$NRF1
+Motif 16  Motif 17  Motif 21  Motif 22  Motif 28  Motif 29  Motif 33  Motif 37  Motif 38  Motif 39  Motif 48  Motif 56  Motif 61  Motif 62  Motif 63  Motif 156 Motif 157 Motif 169 Motif 196 Motif 205 Motif 206 Motif 207 Motif 249 Motif 250 Motif 252 Motif 266 Motif 267 Motif 291 Motif 310 Motif 315 Motif 318 Motif 333 Motif 334 Motif 343 Motif 344 Motif 426 Motif 427 Motif 428 Motif 429 Motif 430 Motif 434 Motif 435 Motif 438 Motif 445 Motif 446 Motif 448 Motif 454
+
+$NRIP3
+Motif 1   Motif 3   Motif 16  Motif 33  Motif 50  Motif 68  Motif 100 Motif 112 Motif 117 Motif 118 Motif 121 Motif 124 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 133 Motif 134 Motif 137 Motif 138 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 147 Motif 151 Motif 153 Motif 155 Motif 158 Motif 160 Motif 161 Motif 162 Motif 164 Motif 166 Motif 171 Motif 173 Motif 174 Motif 175 Motif 177 Motif 178 Motif 179 Motif 181 Motif 188 Motif 190 Motif 191 Motif 194 Motif 195 Motif 240 Motif 267 Motif 285 Motif 288 Motif 307 Motif 309 Motif 310 Motif 317 Motif 320 Motif 333 Motif 335 Motif 346 Motif 347 Motif 351 Motif 353 Motif 355 Motif 357 Motif 378 Motif 383 Motif 384 Motif 411 Motif 426 Motif 428 Motif 434 Motif 435 Motif 438 Motif 448 Motif 452 Motif 456 Motif 460
+
+$NRL
+Motif 32 Motif 70 Motif 75
+
+$NSUN3
+Motif 269 Motif 439
+
+$NUCB1
+Motif 5   Motif 29  Motif 183
+
+$NUDT1
+Motif 112 Motif 113 Motif 114 Motif 115 Motif 116 Motif 124 Motif 126 Motif 130 Motif 131 Motif 134 Motif 135 Motif 136 Motif 137 Motif 138 Motif 141 Motif 143 Motif 144 Motif 145 Motif 146 Motif 147 Motif 156 Motif 159 Motif 162 Motif 177 Motif 180 Motif 181 Motif 182 Motif 183 Motif 185 Motif 188 Motif 190 Motif 191 Motif 193 Motif 194 Motif 195 Motif 196 Motif 288
+
+$NUDT21
+ Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 9   Motif 10  Motif 11  Motif 13  Motif 14  Motif 16  Motif 17  Motif 19  Motif 22  Motif 23  Motif 25  Motif 27  Motif 30  Motif 31  Motif 44  Motif 49  Motif 50  Motif 51  Motif 53  Motif 54  Motif 55  Motif 56  Motif 58  Motif 59  Motif 60  Motif 68  Motif 69  Motif 70  Motif 72  Motif 74  Motif 75  Motif 76  Motif 78  Motif 81  Motif 84  Motif 85  Motif 88  Motif 89  Motif 90  Motif 91  Motif 92  Motif 93  Motif 95  Motif 96  Motif 100 Motif 103 Motif 104 Motif 108 Motif 110 Motif 112 Motif 113 Motif 117 Motif 118 Motif 119 Motif 121 Motif 123 Motif 124 Motif 127 Motif 128 Motif 129 Motif 131 Motif 132 Motif 133 Motif 134 Motif 136 Motif 138 Motif 139 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 147 Motif 149 Motif 150 Motif 151 Motif 152 Motif 153 Motif 155 Motif 156 Motif 157 Motif 158 Motif 160 Motif 161 Motif 162 Motif 163 Motif 164 Motif 165 Motif 166 Motif 167 Motif 169 Motif 170 Motif 171 Motif 173 Motif 174 Motif 175 Motif 176 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 185 Motif 186 Motif 188 Motif 189 Motif 190 Motif 191 Motif 192 Motif 193 Motif 194 Motif 195 Motif 209 Motif 214 Motif 216 Motif 217 Motif 220 Motif 222 Motif 229 Motif 230 Motif 234 Motif 240 Motif 242 Motif 244 Motif 245 Motif 247 Motif 248 Motif 249 Motif 260 Motif 264 Motif 266 Motif 267 Motif 268 Motif 276 Motif 277 Motif 278 Motif 280 Motif 281 Motif 283 Motif 284 Motif 285 Motif 295 Motif 305 Motif 307 Motif 309 Motif 312 Motif 315 Motif 316 Motif 319 Motif 320 Motif 321 Motif 326 Motif 328 Motif 332 Motif 333 Motif 335 Motif 336 Motif 339 Motif 340 Motif 342 Motif 345 Motif 347 Motif 348 Motif 351 Motif 352 Motif 353 Motif 355 Motif 359 Motif 360 Motif 363 Motif 364 Motif 365 Motif 371 Motif 374 Motif 376 Motif 378 Motif 383 Motif 384 Motif 386 Motif 390 Motif 393 Motif 397 Motif 398 Motif 404 Motif 405 Motif 407 Motif 409 Motif 411 Motif 412 Motif 415 Motif 418 Motif 425 Motif 428 Motif 438 Motif 439 Motif 446 Motif 448 Motif 449 Motif 453 Motif 454 Motif 456 Motif 458 Motif 459 Motif 460
+
+$NUP107
+Motif 133 Motif 168 Motif 269
+
+$NUP133
+Motif 29  Motif 36  Motif 38  Motif 40  Motif 240 Motif 269
+
+$NXPH3
+Motif 14 Motif 42 Motif 43 Motif 44 Motif 70 Motif 79 Motif 85 Motif 88 Motif 89 Motif 90 Motif 92 Motif 96
+
+$OBFC1
+ Motif 1   Motif 3   Motif 4   Motif 6   Motif 7   Motif 9   Motif 10  Motif 12  Motif 14  Motif 16  Motif 20  Motif 22  Motif 27  Motif 42  Motif 43  Motif 44  Motif 45  Motif 50  Motif 55  Motif 56  Motif 58  Motif 59  Motif 64  Motif 71  Motif 76  Motif 79  Motif 84  Motif 90  Motif 91  Motif 98  Motif 100 Motif 103 Motif 104 Motif 111 Motif 113 Motif 116 Motif 117 Motif 118 Motif 121 Motif 137 Motif 143 Motif 147 Motif 151 Motif 155 Motif 157 Motif 161 Motif 163 Motif 174 Motif 177 Motif 178 Motif 180 Motif 183 Motif 187 Motif 196 Motif 200 Motif 202 Motif 221 Motif 240 Motif 244 Motif 264 Motif 301 Motif 307 Motif 309 Motif 315 Motif 318 Motif 320 Motif 321 Motif 322 Motif 324 Motif 325 Motif 327 Motif 330 Motif 331 Motif 333 Motif 334 Motif 335 Motif 336 Motif 338 Motif 339 Motif 340 Motif 341 Motif 342 Motif 345 Motif 352 Motif 355 Motif 357 Motif 363 Motif 371 Motif 378 Motif 385 Motif 391 Motif 393 Motif 397 Motif 398 Motif 399 Motif 401 Motif 404 Motif 411 Motif 412 Motif 419 Motif 426 Motif 427 Motif 428 Motif 429 Motif 438 Motif 439 Motif 440 Motif 442 Motif 444 Motif 445 Motif 448 Motif 449 Motif 453 Motif 454 Motif 458 Motif 460
+
+$OBFC2A
+Motif 158 Motif 342
+
+$ODC1
+Motif 17  Motif 44  Motif 70  Motif 72  Motif 77  Motif 200 Motif 210 Motif 269 Motif 291 Motif 301 Motif 303 Motif 305 Motif 310 Motif 317 Motif 428 Motif 429
+
+$OLIG1
+Motif 155 Motif 163 Motif 431 Motif 448
+
+$OLIG2
+Motif 6   Motif 7   Motif 8   Motif 9   Motif 16  Motif 19  Motif 20  Motif 21  Motif 26  Motif 27  Motif 28  Motif 36  Motif 45  Motif 47  Motif 48  Motif 49  Motif 50  Motif 53  Motif 54  Motif 58  Motif 59  Motif 63  Motif 65  Motif 72  Motif 73  Motif 74  Motif 76  Motif 77  Motif 79  Motif 80  Motif 81  Motif 82  Motif 83  Motif 84  Motif 86  Motif 88  Motif 89  Motif 90  Motif 91  Motif 95  Motif 98  Motif 99  Motif 110 Motif 143 Motif 155 Motif 156 Motif 158 Motif 161 Motif 162 Motif 174 Motif 179 Motif 180 Motif 214 Motif 233 Motif 264 Motif 271 Motif 440 Motif 454 Motif 455 Motif 458
+
+$OLIG3
+Motif 45  Motif 47  Motif 51  Motif 74  Motif 121 Motif 131 Motif 155 Motif 161 Motif 174 Motif 179 Motif 200 Motif 301 Motif 431
+
+$OPA3
+Motif 77
+
+$OPTN
+Motif 377
+
+$ORC4L
+Motif 1   Motif 54  Motif 92  Motif 117 Motif 118 Motif 121 Motif 123 Motif 124 Motif 127 Motif 134 Motif 143 Motif 144 Motif 151 Motif 153 Motif 155 Motif 160 Motif 162 Motif 170 Motif 174 Motif 178 Motif 194 Motif 195 Motif 200 Motif 210 Motif 240 Motif 269 Motif 316 Motif 320 Motif 324 Motif 328 Motif 333 Motif 339 Motif 345 Motif 346 Motif 347 Motif 351 Motif 352 Motif 353 Motif 355 Motif 357 Motif 378 Motif 384 Motif 456 Motif 458 Motif 460
+
+$OTEX
+Motif 3   Motif 4   Motif 28  Motif 32  Motif 64  Motif 71  Motif 72  Motif 83  Motif 84  Motif 86  Motif 89  Motif 90  Motif 98  Motif 109 Motif 110 Motif 114 Motif 115 Motif 116 Motif 121 Motif 124 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 136 Motif 137 Motif 138 Motif 140 Motif 141 Motif 143 Motif 145 Motif 147 Motif 149 Motif 153 Motif 155 Motif 156 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 165 Motif 168 Motif 169 Motif 172 Motif 174 Motif 175 Motif 176 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 182 Motif 184 Motif 185 Motif 187 Motif 188 Motif 190 Motif 193 Motif 194 Motif 195 Motif 196 Motif 217 Motif 232 Motif 261 Motif 266 Motif 315 Motif 318 Motif 398 Motif 415
+
+$OTUD4
+Motif 1  Motif 3  Motif 4  Motif 16 Motif 72
+
+$OTX2
+Motif 4   Motif 29  Motif 84  Motif 116 Motif 121 Motif 124 Motif 126 Motif 131 Motif 135 Motif 136 Motif 137 Motif 138 Motif 141 Motif 144 Motif 145 Motif 146 Motif 147 Motif 155 Motif 156 Motif 158 Motif 159 Motif 161 Motif 162 Motif 177 Motif 178 Motif 180 Motif 182 Motif 189 Motif 190 Motif 193 Motif 194 Motif 195 Motif 293
+
+$P4HB
+Motif 210 Motif 249 Motif 269 Motif 301 Motif 305 Motif 317 Motif 429
+
+$PABPC1
+Motif 13  Motif 68  Motif 72  Motif 108 Motif 111 Motif 117 Motif 127 Motif 128 Motif 129 Motif 131 Motif 132 Motif 133 Motif 134 Motif 141 Motif 143 Motif 151 Motif 155 Motif 158 Motif 160 Motif 164 Motif 166 Motif 174 Motif 178 Motif 181 Motif 188 Motif 190 Motif 194 Motif 195 Motif 240 Motif 247 Motif 320 Motif 332 Motif 342 Motif 353 Motif 377 Motif 378 Motif 397 Motif 398
+
+$PABPC1L2A
+Motif 3   Motif 13  Motif 50  Motif 72  Motif 85  Motif 92  Motif 103 Motif 105 Motif 111 Motif 125 Motif 129 Motif 144 Motif 151 Motif 152 Motif 240 Motif 245 Motif 247 Motif 248 Motif 278 Motif 299 Motif 328 Motif 342 Motif 347 Motif 353 Motif 393 Motif 397 Motif 398 Motif 423 Motif 430 Motif 446 Motif 448 Motif 456
+
+$PABPC4
+Motif 1   Motif 3   Motif 4   Motif 5   Motif 6   Motif 9   Motif 68  Motif 72  Motif 85  Motif 92  Motif 103 Motif 105 Motif 117 Motif 129 Motif 144 Motif 147 Motif 151 Motif 158 Motif 160 Motif 164 Motif 178 Motif 192 Motif 240 Motif 247 Motif 248 Motif 310 Motif 316 Motif 320 Motif 342 Motif 355 Motif 397 Motif 398 Motif 423 Motif 456
+
+$PABPC5
+Motif 50  Motif 55  Motif 56  Motif 103 Motif 108 Motif 111 Motif 117 Motif 121 Motif 125 Motif 127 Motif 128 Motif 129 Motif 131 Motif 132 Motif 133 Motif 134 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 150 Motif 151 Motif 155 Motif 158 Motif 160 Motif 164 Motif 166 Motif 170 Motif 173 Motif 174 Motif 178 Motif 181 Motif 188 Motif 195 Motif 214 Motif 240 Motif 245 Motif 247 Motif 267 Motif 278 Motif 299 Motif 316 Motif 317 Motif 318 Motif 319 Motif 320 Motif 321 Motif 322 Motif 324 Motif 326 Motif 328 Motif 332 Motif 333 Motif 341 Motif 342 Motif 344 Motif 345 Motif 348 Motif 353 Motif 355 Motif 371 Motif 377 Motif 378 Motif 381 Motif 384 Motif 393 Motif 397 Motif 398 Motif 409 Motif 411 Motif 426 Motif 435 Motif 438 Motif 439 Motif 441 Motif 445 Motif 453 Motif 454 Motif 456 Motif 458 Motif 460
+
+$PAGE4
+Motif 210
+
+$PANK1
+Motif 183
+
+$PAPD1
+Motif 343 Motif 382
+
+$PAQR8
+ Motif 1   Motif 45  Motif 50  Motif 54  Motif 55  Motif 57  Motif 59  Motif 60  Motif 67  Motif 68  Motif 69  Motif 70  Motif 72  Motif 79  Motif 82  Motif 85  Motif 90  Motif 92  Motif 97  Motif 103 Motif 105 Motif 112 Motif 116 Motif 117 Motif 119 Motif 123 Motif 125 Motif 127 Motif 128 Motif 129 Motif 132 Motif 133 Motif 134 Motif 135 Motif 137 Motif 140 Motif 141 Motif 144 Motif 147 Motif 150 Motif 152 Motif 153 Motif 155 Motif 157 Motif 158 Motif 159 Motif 160 Motif 162 Motif 163 Motif 164 Motif 165 Motif 166 Motif 167 Motif 172 Motif 173 Motif 174 Motif 175 Motif 176 Motif 177 Motif 178 Motif 180 Motif 181 Motif 183 Motif 185 Motif 188 Motif 190 Motif 192 Motif 194 Motif 214 Motif 224 Motif 228 Motif 235 Motif 236 Motif 240 Motif 245 Motif 247 Motif 248 Motif 256 Motif 260 Motif 261 Motif 262 Motif 264 Motif 266 Motif 267 Motif 268 Motif 276 Motif 277 Motif 278 Motif 279 Motif 284 Motif 285 Motif 294 Motif 298 Motif 300 Motif 306 Motif 313 Motif 315 Motif 316 Motif 317 Motif 320 Motif 322 Motif 324 Motif 332 Motif 342 Motif 348 Motif 353 Motif 378 Motif 390 Motif 393 Motif 397 Motif 398 Motif 412 Motif 415 Motif 423 Motif 426 Motif 435 Motif 436 Motif 438 Motif 439 Motif 441 Motif 443 Motif 445 Motif 446 Motif 450 Motif 453 Motif 454 Motif 456 Motif 458 Motif 460
+
+$PARP3
+ Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 9   Motif 10  Motif 11  Motif 12  Motif 13  Motif 14  Motif 16  Motif 17  Motif 18  Motif 19  Motif 20  Motif 21  Motif 22  Motif 23  Motif 24  Motif 25  Motif 26  Motif 27  Motif 28  Motif 29  Motif 30  Motif 31  Motif 32  Motif 33  Motif 34  Motif 35  Motif 36  Motif 37  Motif 38  Motif 39  Motif 40  Motif 41  Motif 42  Motif 43  Motif 44  Motif 45  Motif 46  Motif 47  Motif 48  Motif 49  Motif 50  Motif 51  Motif 52  Motif 53  Motif 54  Motif 55  Motif 58  Motif 59  Motif 60  Motif 61  Motif 62  Motif 63  Motif 64  Motif 65  Motif 66  Motif 67  Motif 68  Motif 69  Motif 70  Motif 71  Motif 72  Motif 73  Motif 74  Motif 75  Motif 76  Motif 77  Motif 78  Motif 79  Motif 80  Motif 81  Motif 82  Motif 83  Motif 84  Motif 85  Motif 86  Motif 88  Motif 89  Motif 90  Motif 91  Motif 92  Motif 93  Motif 95  Motif 96  Motif 98  Motif 99  Motif 100 Motif 101 Motif 102 Motif 103 Motif 104 Motif 105 Motif 107 Motif 108 Motif 109 Motif 110 Motif 111 Motif 112 Motif 113 Motif 115 Motif 116 Motif 117 Motif 118 Motif 119 Motif 120 Motif 121 Motif 122 Motif 123 Motif 124 Motif 125 Motif 126 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 136 Motif 137 Motif 138 Motif 139 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 146 Motif 147 Motif 148 Motif 149 Motif 150 Motif 151 Motif 152 Motif 153 Motif 154 Motif 155 Motif 156 Motif 157 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 163 Motif 164 Motif 165 Motif 166 Motif 167 Motif 168 Motif 169 Motif 170 Motif 171 Motif 172 Motif 173 Motif 174 Motif 175 Motif 176 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 182 Motif 183 Motif 184 Motif 185 Motif 186 Motif 187 Motif 188 Motif 189 Motif 190 Motif 191 Motif 193 Motif 194 Motif 195 Motif 196 Motif 198 Motif 199 Motif 200 Motif 201 Motif 202 Motif 203 Motif 204 Motif 205 Motif 206 Motif 207 Motif 208 Motif 209 Motif 210 Motif 211 Motif 212 Motif 213 Motif 214 Motif 215 Motif 216 Motif 217 Motif 218 Motif 219 Motif 220 Motif 221 Motif 222 Motif 223 Motif 224 Motif 225 Motif 226 Motif 227 Motif 228 Motif 229 Motif 230 Motif 231 Motif 232 Motif 233 Motif 234 Motif 235 Motif 236 Motif 237 Motif 238 Motif 239 Motif 240 Motif 241 Motif 242 Motif 243 Motif 244 Motif 245 Motif 246 Motif 247 Motif 248 Motif 249 Motif 250 Motif 251 Motif 252 Motif 253 Motif 254 Motif 256 Motif 257 Motif 258 Motif 259 Motif 260 Motif 261 Motif 262 Motif 263 Motif 264 Motif 265 Motif 266 Motif 267 Motif 268 Motif 269 Motif 270 Motif 271 Motif 272 Motif 273 Motif 274 Motif 275 Motif 276 Motif 277 Motif 278 Motif 279 Motif 280 Motif 281 Motif 282 Motif 283 Motif 284 Motif 285 Motif 286 Motif 287 Motif 288 Motif 289 Motif 290 Motif 291 Motif 292 Motif 293 Motif 294 Motif 295 Motif 296 Motif 297 Motif 299 Motif 301 Motif 302 Motif 303 Motif 305 Motif 306 Motif 307 Motif 308 Motif 309 Motif 310 Motif 312 Motif 313 Motif 314 Motif 315 Motif 317 Motif 318 Motif 319 Motif 321 Motif 322 Motif 323 Motif 324 Motif 325 Motif 326 Motif 327 Motif 328 Motif 329 Motif 330 Motif 331 Motif 332 Motif 333 Motif 334 Motif 335 Motif 336 Motif 337 Motif 338 Motif 339 Motif 340 Motif 341 Motif 344 Motif 345 Motif 354 Motif 355 Motif 362 Motif 363 Motif 369 Motif 370 Motif 371 Motif 372 Motif 373 Motif 375 Motif 378 Motif 379 Motif 380 Motif 381 Motif 385 Motif 390 Motif 391 Motif 392 Motif 393 Motif 394 Motif 395 Motif 396 Motif 397 Motif 398 Motif 399 Motif 400 Motif 401 Motif 402 Motif 403 Motif 404 Motif 405 Motif 406 Motif 407 Motif 408 Motif 409 Motif 410 Motif 411 Motif 412 Motif 413 Motif 414 Motif 415 Motif 416 Motif 417 Motif 418 Motif 419 Motif 420 Motif 421 Motif 422 Motif 423 Motif 424 Motif 425 Motif 426 Motif 427 Motif 428 Motif 429 Motif 430 Motif 431 Motif 432 Motif 433 Motif 434 Motif 435 Motif 437 Motif 438 Motif 439 Motif 440 Motif 441 Motif 442 Motif 443 Motif 444 Motif 445 Motif 446 Motif 448 Motif 449 Motif 450 Motif 451 Motif 452 Motif 453 Motif 454 Motif 455 Motif 458 Motif 459 Motif 460
+
+$PAX3
+Motif 16  Motif 17  Motif 21  Motif 47  Motif 50  Motif 54  Motif 60  Motif 102 Motif 103 Motif 105
+
+$PAX6
+Motif 246
+
+$PAX8
+Motif 117
+
+$PAXIP1
+Motif 349 Motif 363 Motif 364 Motif 365 Motif 367 Motif 368 Motif 369 Motif 376 Motif 377
+
+$PBX2
+Motif 4   Motif 32  Motif 41  Motif 47  Motif 50  Motif 51  Motif 98  Motif 109 Motif 135 Motif 140 Motif 155 Motif 160 Motif 196 Motif 200 Motif 203 Motif 205 Motif 206 Motif 219 Motif 225 Motif 240 Motif 245 Motif 248 Motif 266 Motif 269 Motif 275 Motif 276 Motif 279 Motif 280 Motif 291 Motif 292 Motif 296 Motif 301 Motif 315 Motif 317 Motif 318 Motif 322 Motif 324 Motif 326 Motif 330 Motif 336 Motif 341 Motif 357 Motif 429 Motif 430 Motif 435 Motif 437 Motif 438 Motif 439 Motif 441 Motif 445 Motif 446 Motif 453 Motif 454 Motif 458 Motif 459 Motif 460
+
+$PCK2
+Motif 269 Motif 296 Motif 301 Motif 305 Motif 309 Motif 317
+
+$PCNA
+Motif 371
+
+$PCNXL2
+Motif 193
+
+$PCQAP
+Motif 263
+
+$PDCD11
+Motif 55  Motif 333 Motif 426 Motif 427
+
+$PDE6H
+Motif 72  Motif 92  Motif 178 Motif 460
+
+$PDLIM5
+Motif 1  Motif 3  Motif 5  Motif 13 Motif 16 Motif 30 Motif 72 Motif 85 Motif 92
+
+$PEG10
+ Motif 3   Motif 4   Motif 7   Motif 9   Motif 10  Motif 13  Motif 23  Motif 32  Motif 47  Motif 50  Motif 51  Motif 53  Motif 54  Motif 55  Motif 57  Motif 59  Motif 67  Motif 70  Motif 76  Motif 79  Motif 82  Motif 84  Motif 85  Motif 90  Motif 103 Motif 104 Motif 107 Motif 111 Motif 113 Motif 117 Motif 121 Motif 123 Motif 124 Motif 128 Motif 129 Motif 131 Motif 136 Motif 137 Motif 138 Motif 139 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 147 Motif 148 Motif 149 Motif 150 Motif 151 Motif 155 Motif 156 Motif 157 Motif 159 Motif 160 Motif 161 Motif 162 Motif 165 Motif 166 Motif 167 Motif 169 Motif 173 Motif 174 Motif 175 Motif 178 Motif 180 Motif 181 Motif 182 Motif 187 Motif 188 Motif 189 Motif 191 Motif 192 Motif 194 Motif 195 Motif 205 Motif 214 Motif 217 Motif 223 Motif 224 Motif 229 Motif 235 Motif 236 Motif 242 Motif 243 Motif 244 Motif 245 Motif 246 Motif 247 Motif 248 Motif 251 Motif 252 Motif 253 Motif 260 Motif 262 Motif 263 Motif 264 Motif 265 Motif 266 Motif 267 Motif 268 Motif 276 Motif 277 Motif 280 Motif 281 Motif 284 Motif 285 Motif 295 Motif 297 Motif 298 Motif 299 Motif 300 Motif 302 Motif 307 Motif 313 Motif 315 Motif 316 Motif 317 Motif 320 Motif 322 Motif 324 Motif 327 Motif 340 Motif 342 Motif 347 Motif 352 Motif 353 Motif 357 Motif 359 Motif 360 Motif 363 Motif 364 Motif 365 Motif 366 Motif 371 Motif 381 Motif 384 Motif 389 Motif 390 Motif 392 Motif 393 Motif 394 Motif 397 Motif 398 Motif 399 Motif 400 Motif 404 Motif 405 Motif 411 Motif 415 Motif 420 Motif 421 Motif 423 Motif 424 Motif 425 Motif 426 Motif 430 Motif 432 Motif 435 Motif 439 Motif 441 Motif 445 Motif 448 Motif 453 Motif 454 Motif 456 Motif 460
+
+$PEX16
+Motif 264
+
+$PGAM2
+Motif 15  Motif 30  Motif 67  Motif 68  Motif 85  Motif 200 Motif 214 Motif 247 Motif 248 Motif 249 Motif 269 Motif 322 Motif 351 Motif 411
+
+$PGBD1
+Motif 269
+
+$PHACTR3
+Motif 422
+
+$PHLDA2
+Motif 245 Motif 247 Motif 248 Motif 249 Motif 267 Motif 355 Motif 374 Motif 448
+
+$PHOX2A
+Motif 121 Motif 128 Motif 129 Motif 130 Motif 142 Motif 145 Motif 148 Motif 156 Motif 158 Motif 159 Motif 161 Motif 162 Motif 169 Motif 172 Motif 178 Motif 180 Motif 199 Motif 200
+
+$PHTF1
+Motif 49 Motif 53 Motif 58
+
+$PICK1
+Motif 320 Motif 328 Motif 333 Motif 345 Motif 347
+
+$PIK3C3
+Motif 200 Motif 215 Motif 250 Motif 269 Motif 307 Motif 310 Motif 317 Motif 432 Motif 435
+
+$PIM2
+Motif 112 Motif 114 Motif 115 Motif 116 Motif 117 Motif 118 Motif 121 Motif 123 Motif 124 Motif 126 Motif 127 Motif 128 Motif 132 Motif 133 Motif 134 Motif 136 Motif 137 Motif 138 Motif 140 Motif 141 Motif 142 Motif 144 Motif 147 Motif 153 Motif 154 Motif 162 Motif 189 Motif 193 Motif 194 Motif 195 Motif 288
+
+$PIR
+Motif 43  Motif 44  Motif 61  Motif 80  Motif 81  Motif 289
+
+$PITX1
+Motif 16  Motif 23  Motif 68  Motif 92  Motif 315
+
+$PKM2
+Motif 13  Motif 54  Motif 92  Motif 344 Motif 351 Motif 448 Motif 451
+
+$PKNOX1
+Motif 43  Motif 44  Motif 47  Motif 53  Motif 69  Motif 108 Motif 124 Motif 128 Motif 129 Motif 131 Motif 135 Motif 137 Motif 140 Motif 143 Motif 149 Motif 160 Motif 161 Motif 162 Motif 200 Motif 203 Motif 222 Motif 246 Motif 247 Motif 248 Motif 249 Motif 250 Motif 256 Motif 257 Motif 267 Motif 280 Motif 281 Motif 284 Motif 309 Motif 310 Motif 330 Motif 331 Motif 332 Motif 333 Motif 335 Motif 336 Motif 339 Motif 341 Motif 347 Motif 353 Motif 426 Motif 428 Motif 429 Motif 435 Motif 438 Motif 445 Motif 448 Motif 454 Motif 458
+
+$PKNOX2
+Motif 47  Motif 160 Motif 250 Motif 330 Motif 336
+
+$PLA2G1B
+Motif 12
+
+$PLAGL1
+Motif 52  Motif 56  Motif 100 Motif 101 Motif 102 Motif 103 Motif 104 Motif 105 Motif 111
+
+$PLG
+Motif 358 Motif 366 Motif 367 Motif 385
+
+$PLRG1
+Motif 70
+
+$PNKP
+Motif 318
+
+$POGK
+Motif 200 Motif 269
+
+$POLDIP2
+Motif 112 Motif 113 Motif 114 Motif 115 Motif 116 Motif 118 Motif 120 Motif 121 Motif 122 Motif 123 Motif 124 Motif 126 Motif 127 Motif 128 Motif 129 Motif 131 Motif 134 Motif 135 Motif 136 Motif 137 Motif 138 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 153 Motif 156 Motif 158 Motif 288 Motif 345
+
+$POLE3
+Motif 214 Motif 225 Motif 250
+
+$POLI
+Motif 4  Motif 72 Motif 83
+
+$POLR1D
+Motif 446
+
+$POLR2C
+Motif 272
+
+$POLR2E
+Motif 194
+
+$POLR2J2
+Motif 133 Motif 135
+
+$POLR2K
+Motif 285 Motif 320
+
+$POLR3E
+Motif 175
+
+$POLR3K
+Motif 56  Motif 178
+
+$POLS
+Motif 92
+
+$POM121
+Motif 320
+
+$POU3F2
+Motif 84  Motif 85  Motif 117 Motif 119 Motif 121 Motif 123 Motif 127 Motif 129 Motif 131 Motif 145 Motif 155 Motif 156 Motif 157 Motif 158 Motif 162 Motif 174 Motif 264
+
+$POU4F3
+Motif 129 Motif 130 Motif 131 Motif 137 Motif 144 Motif 145 Motif 147 Motif 179 Motif 182 Motif 194
+
+$POU6F1
+ Motif 1   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 11  Motif 18  Motif 21  Motif 22  Motif 24  Motif 25  Motif 26  Motif 27  Motif 28  Motif 29  Motif 30  Motif 31  Motif 32  Motif 33  Motif 34  Motif 35  Motif 36  Motif 37  Motif 38  Motif 39  Motif 41  Motif 42  Motif 46  Motif 47  Motif 48  Motif 49  Motif 51  Motif 53  Motif 54  Motif 58  Motif 59  Motif 61  Motif 62  Motif 63  Motif 66  Motif 71  Motif 72  Motif 76  Motif 79  Motif 80  Motif 81  Motif 82  Motif 83  Motif 84  Motif 85  Motif 86  Motif 88  Motif 89  Motif 90  Motif 91  Motif 92  Motif 93  Motif 95  Motif 98  Motif 99  Motif 100 Motif 104 Motif 105 Motif 109 Motif 110 Motif 111 Motif 112 Motif 115 Motif 116 Motif 117 Motif 118 Motif 120 Motif 121 Motif 122 Motif 123 Motif 124 Motif 125 Motif 126 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 135 Motif 136 Motif 137 Motif 138 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 146 Motif 147 Motif 155 Motif 156 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 166 Motif 169 Motif 171 Motif 173 Motif 174 Motif 175 Motif 177 Motif 178 Motif 179 Motif 187 Motif 196 Motif 199 Motif 221 Motif 225 Motif 227 Motif 249 Motif 250 Motif 266 Motif 267 Motif 272 Motif 273 Motif 290 Motif 291 Motif 315 Motif 344 Motif 429 Motif 445
+
+$PPARA
+Motif 130
+
+$PPARD
+Motif 117 Motif 164
+
+$PPARG
+Motif 433
+
+$PPIE
+Motif 1   Motif 6   Motif 9   Motif 13  Motif 16  Motif 17  Motif 23  Motif 30  Motif 31  Motif 38  Motif 50  Motif 55  Motif 58  Motif 67  Motif 68  Motif 69  Motif 70  Motif 72  Motif 85  Motif 90  Motif 92  Motif 117 Motif 119 Motif 132 Motif 133 Motif 150 Motif 151 Motif 164 Motif 171 Motif 175 Motif 178 Motif 195 Motif 217 Motif 221 Motif 234 Motif 240 Motif 245 Motif 247 Motif 260 Motif 267 Motif 269 Motif 276 Motif 280 Motif 307 Motif 309 Motif 316 Motif 317 Motif 319 Motif 320 Motif 321 Motif 324 Motif 328 Motif 332 Motif 342 Motif 345 Motif 346 Motif 351 Motif 353 Motif 355 Motif 363 Motif 371 Motif 378 Motif 383 Motif 384 Motif 386 Motif 390 Motif 393 Motif 397 Motif 415 Motif 423 Motif 456
+
+$PPP1R10
+Motif 362 Motif 367 Motif 369
+
+$PPP1R8
+Motif 221 Motif 320
+
+$PPP2R3B
+Motif 320 Motif 456 Motif 460
+
+$PPP2R5D
+Motif 210
+
+$PPP5C
+Motif 200 Motif 201 Motif 221 Motif 225 Motif 249 Motif 264 Motif 267 Motif 269 Motif 429 Motif 448
+
+$PQBP1
+Motif 1   Motif 3   Motif 13  Motif 32  Motif 68  Motif 85  Motif 100 Motif 113 Motif 285 Motif 288
+
+$PRDM10
+ Motif 1   Motif 4   Motif 29  Motif 55  Motif 57  Motif 94  Motif 112 Motif 117 Motif 118 Motif 121 Motif 124 Motif 125 Motif 127 Motif 140 Motif 142 Motif 143 Motif 144 Motif 158 Motif 160 Motif 161 Motif 162 Motif 163 Motif 164 Motif 174 Motif 175 Motif 177 Motif 178 Motif 179 Motif 180 Motif 188 Motif 192 Motif 194 Motif 195 Motif 225 Motif 234 Motif 240 Motif 245 Motif 247 Motif 248 Motif 249 Motif 250 Motif 255 Motif 256 Motif 260 Motif 264 Motif 267 Motif 268 Motif 276 Motif 277 Motif 278 Motif 279 Motif 280 Motif 281 Motif 284 Motif 285 Motif 291 Motif 292 Motif 293 Motif 294 Motif 295 Motif 297 Motif 298 Motif 299 Motif 300 Motif 301 Motif 302 Motif 303 Motif 305 Motif 306 Motif 307 Motif 308 Motif 309 Motif 310 Motif 312 Motif 313 Motif 314 Motif 315 Motif 316 Motif 317 Motif 319 Motif 320 Motif 321 Motif 322 Motif 324 Motif 326 Motif 327 Motif 329 Motif 330 Motif 332 Motif 333 Motif 334 Motif 335 Motif 336 Motif 337 Motif 339 Motif 340 Motif 341 Motif 342 Motif 343 Motif 344 Motif 345 Motif 346 Motif 347 Motif 348 Motif 349 Motif 350 Motif 351 Motif 352 Motif 353 Motif 354 Motif 355 Motif 356 Motif 357 Motif 359 Motif 363 Motif 364 Motif 365 Motif 366 Motif 371 Motif 374 Motif 376 Motif 377 Motif 378 Motif 380 Motif 381 Motif 383 Motif 384 Motif 385 Motif 386 Motif 388 Motif 397 Motif 398 Motif 411 Motif 426 Motif 427 Motif 428 Motif 429 Motif 430 Motif 433 Motif 434 Motif 435 Motif 437 Motif 438 Motif 439 Motif 440 Motif 441 Motif 442 Motif 443 Motif 444 Motif 445 Motif 446 Motif 448 Motif 449 Motif 450 Motif 451 Motif 453 Motif 454 Motif 455 Motif 456 Motif 458 Motif 459 Motif 460
+
+$PRDM7
+Motif 13
+
+$PRDM9
+Motif 374
+
+$PRDX1
+Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 9   Motif 11  Motif 14  Motif 20  Motif 30  Motif 31  Motif 32  Motif 43  Motif 44  Motif 67  Motif 68  Motif 69  Motif 70  Motif 72  Motif 73  Motif 74  Motif 76  Motif 77  Motif 78  Motif 79  Motif 81  Motif 89  Motif 90  Motif 95  Motif 99  Motif 119 Motif 125 Motif 151 Motif 152 Motif 153 Motif 155 Motif 158 Motif 160 Motif 164 Motif 171 Motif 173 Motif 174 Motif 178 Motif 179 Motif 180 Motif 188 Motif 190 Motif 191 Motif 195 Motif 196 Motif 200 Motif 249 Motif 288 Motif 291 Motif 292 Motif 294 Motif 295 Motif 301 Motif 303 Motif 305 Motif 306 Motif 307 Motif 308 Motif 309 Motif 310 Motif 312 Motif 317 Motif 321 Motif 322 Motif 324 Motif 328 Motif 332 Motif 337 Motif 339 Motif 343 Motif 345 Motif 371 Motif 378 Motif 427 Motif 429 Motif 430 Motif 431 Motif 435 Motif 454 Motif 460
+
+$PRDX5
+Motif 301 Motif 305 Motif 317 Motif 429 Motif 435
+
+$PRKRIR
+Motif 4   Motif 43  Motif 44  Motif 147 Motif 288 Motif 289
+
+$PRNP
+Motif 307 Motif 308 Motif 427
+
+$PROP1
+Motif 1
+
+$ProSAPiP1
+Motif 23
+
+$PRR7
+Motif 433
+
+$PRRX1
+Motif 29  Motif 116 Motif 121 Motif 123 Motif 124 Motif 138 Motif 155 Motif 156 Motif 158 Motif 162 Motif 169 Motif 178 Motif 179 Motif 180
+
+$PRSS3
+Motif 56
+
+$PSD
+Motif 1
+
+$PSIP1
+Motif 22
+
+$PSMA1
+Motif 119
+
+$PSMA6
+Motif 3   Motif 23  Motif 31  Motif 55  Motif 56  Motif 100 Motif 119 Motif 132 Motif 240 Motif 264 Motif 267 Motif 305 Motif 320
+
+$PSMC2
+Motif 2   Motif 3   Motif 6   Motif 7   Motif 8   Motif 9   Motif 11  Motif 12  Motif 34  Motif 40  Motif 42  Motif 43  Motif 44  Motif 61  Motif 62  Motif 63  Motif 65  Motif 72  Motif 75  Motif 76  Motif 85  Motif 86  Motif 88  Motif 90  Motif 91  Motif 96  Motif 225
+
+$PSPC1
+ Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 9   Motif 11  Motif 12  Motif 13  Motif 14  Motif 16  Motif 17  Motif 19  Motif 23  Motif 29  Motif 30  Motif 31  Motif 32  Motif 37  Motif 38  Motif 42  Motif 43  Motif 44  Motif 45  Motif 49  Motif 50  Motif 53  Motif 55  Motif 56  Motif 57  Motif 58  Motif 59  Motif 60  Motif 66  Motif 67  Motif 68  Motif 69  Motif 70  Motif 71  Motif 72  Motif 75  Motif 76  Motif 77  Motif 79  Motif 81  Motif 82  Motif 84  Motif 85  Motif 86  Motif 89  Motif 90  Motif 91  Motif 92  Motif 93  Motif 95  Motif 96  Motif 98  Motif 103 Motif 104 Motif 108 Motif 110 Motif 112 Motif 116 Motif 117 Motif 118 Motif 119 Motif 121 Motif 123 Motif 125 Motif 127 Motif 131 Motif 132 Motif 133 Motif 137 Motif 142 Motif 143 Motif 144 Motif 147 Motif 150 Motif 151 Motif 152 Motif 153 Motif 155 Motif 157 Motif 158 Motif 161 Motif 162 Motif 163 Motif 164 Motif 170 Motif 171 Motif 173 Motif 174 Motif 175 Motif 177 Motif 178 Motif 180 Motif 181 Motif 188 Motif 190 Motif 195 Motif 214 Motif 217 Motif 220 Motif 228 Motif 240 Motif 245 Motif 254 Motif 260 Motif 264 Motif 267 Motif 274 Motif 276 Motif 277 Motif 278 Motif 280 Motif 285 Motif 299 Motif 300 Motif 307 Motif 309 Motif 316 Motif 317 Motif 319 Motif 320 Motif 321 Motif 324 Motif 326 Motif 328 Motif 332 Motif 333 Motif 335 Motif 336 Motif 340 Motif 341 Motif 342 Motif 345 Motif 347 Motif 351 Motif 353 Motif 355 Motif 371 Motif 378 Motif 383 Motif 384 Motif 390 Motif 393 Motif 397 Motif 398 Motif 409 Motif 411 Motif 415 Motif 421 Motif 424 Motif 425 Motif 426 Motif 430 Motif 433 Motif 438 Motif 439 Motif 440 Motif 445 Motif 446 Motif 448 Motif 450 Motif 453 Motif 454 Motif 456 Motif 458 Motif 459 Motif 460
+
+$PTBP2
+Motif 1   Motif 12  Motif 16  Motif 17  Motif 23  Motif 47  Motif 54  Motif 59  Motif 67  Motif 68  Motif 69  Motif 83  Motif 85  Motif 89  Motif 92  Motif 93  Motif 95  Motif 103 Motif 117 Motif 121 Motif 132 Motif 138 Motif 140 Motif 142 Motif 143 Motif 144 Motif 147 Motif 150 Motif 155 Motif 159 Motif 160 Motif 164 Motif 165 Motif 166 Motif 172 Motif 173 Motif 174 Motif 177 Motif 178 Motif 179 Motif 188 Motif 192 Motif 193 Motif 194 Motif 195 Motif 235 Motif 245 Motif 247 Motif 276 Motif 278 Motif 285 Motif 320 Motif 393 Motif 397 Motif 409
+
+$PTCD1
+Motif 50  Motif 240 Motif 411 Motif 438
+
+$PTGER3
+Motif 345
+
+$PTPMT1
+Motif 43 Motif 44 Motif 85 Motif 89 Motif 90 Motif 91 Motif 92 Motif 95 Motif 98
+
+$PURG
+Motif 41  Motif 59  Motif 157 Motif 244 Motif 333 Motif 352 Motif 371 Motif 411 Motif 454
+
+$PVRL2
+Motif 35  Motif 36  Motif 43  Motif 44  Motif 59  Motif 88  Motif 91  Motif 93  Motif 95  Motif 96  Motif 98  Motif 107 Motif 112 Motif 114 Motif 118 Motif 121 Motif 123 Motif 124 Motif 126 Motif 127 Motif 137 Motif 138 Motif 143 Motif 144 Motif 145 Motif 193 Motif 194 Motif 201 Motif 202 Motif 203 Motif 204 Motif 205 Motif 206 Motif 207 Motif 213 Motif 214 Motif 221 Motif 224 Motif 225 Motif 227 Motif 230 Motif 231 Motif 232 Motif 233 Motif 286 Motif 288 Motif 290 Motif 291 Motif 292 Motif 293 Motif 294 Motif 295 Motif 296 Motif 297 Motif 299 Motif 301 Motif 302 Motif 305 Motif 307 Motif 308 Motif 310 Motif 314 Motif 315 Motif 317 Motif 334 Motif 335 Motif 336 Motif 340 Motif 341 Motif 390 Motif 391 Motif 393 Motif 395 Motif 396 Motif 397 Motif 398 Motif 404 Motif 409 Motif 421 Motif 422 Motif 426 Motif 427 Motif 428 Motif 429 Motif 430 Motif 431 Motif 432 Motif 433 Motif 434 Motif 435 Motif 437 Motif 439
+
+$R3HDM2
+Motif 1   Motif 16  Motif 23  Motif 68  Motif 72  Motif 85  Motif 92  Motif 100
+
+$RAB14
+Motif 68  Motif 200 Motif 250 Motif 269 Motif 301 Motif 310 Motif 317 Motif 427 Motif 435 Motif 448 Motif 455
+
+$RAB18
+Motif 343 Motif 349 Motif 354 Motif 355 Motif 357 Motif 358 Motif 359 Motif 360 Motif 361 Motif 362 Motif 363 Motif 364 Motif 365 Motif 366 Motif 367 Motif 368 Motif 369 Motif 372 Motif 375 Motif 376 Motif 377 Motif 378 Motif 379 Motif 380 Motif 382 Motif 384 Motif 385 Motif 387
+
+$RAB2A
+Motif 305 Motif 317 Motif 429 Motif 435
+
+$RAB7A
+Motif 17  Motif 76  Motif 77  Motif 230 Motif 301 Motif 320 Motif 333 Motif 343 Motif 398
+
+$RAD1
+Motif 43
+
+$RAD51AP1
+Motif 366 Motif 375
+
+$RAD51L3
+Motif 29  Motif 200 Motif 221 Motif 222 Motif 223 Motif 224 Motif 225 Motif 229 Motif 233 Motif 235 Motif 239 Motif 240 Motif 241 Motif 264 Motif 272 Motif 275 Motif 276 Motif 277 Motif 280 Motif 281 Motif 282 Motif 284 Motif 285 Motif 315 Motif 334 Motif 335 Motif 336 Motif 339 Motif 340 Motif 341 Motif 354 Motif 363 Motif 367 Motif 368 Motif 369 Motif 375 Motif 377 Motif 426 Motif 431 Motif 432 Motif 435 Motif 437 Motif 439 Motif 458
+
+$RALY
+ Motif 1   Motif 15  Motif 41  Motif 42  Motif 55  Motif 57  Motif 103 Motif 108 Motif 117 Motif 128 Motif 129 Motif 133 Motif 134 Motif 139 Motif 140 Motif 143 Motif 144 Motif 150 Motif 151 Motif 152 Motif 153 Motif 158 Motif 160 Motif 164 Motif 170 Motif 174 Motif 177 Motif 188 Motif 192 Motif 195 Motif 234 Motif 240 Motif 245 Motif 276 Motif 277 Motif 285 Motif 298 Motif 299 Motif 305 Motif 306 Motif 307 Motif 309 Motif 310 Motif 312 Motif 315 Motif 316 Motif 317 Motif 320 Motif 321 Motif 324 Motif 328 Motif 332 Motif 333 Motif 335 Motif 337 Motif 341 Motif 342 Motif 345 Motif 346 Motif 347 Motif 348 Motif 349 Motif 350 Motif 351 Motif 352 Motif 353 Motif 355 Motif 356 Motif 363 Motif 364 Motif 365 Motif 374 Motif 377 Motif 378 Motif 381 Motif 383 Motif 384 Motif 385 Motif 386 Motif 397 Motif 398 Motif 411 Motif 412 Motif 423 Motif 426 Motif 429 Motif 432 Motif 433 Motif 434 Motif 435 Motif 438 Motif 439 Motif 441 Motif 442 Motif 445 Motif 446 Motif 447 Motif 448 Motif 453 Motif 456 Motif 458 Motif 460
+
+$RAN
+Motif 32  Motif 112 Motif 128 Motif 129 Motif 131 Motif 132 Motif 133 Motif 140 Motif 151 Motif 155 Motif 196 Motif 345
+
+$RARA
+Motif 221 Motif 291 Motif 315 Motif 429
+
+$RARB
+Motif 1  Motif 28 Motif 29
+
+$RARG
+Motif 3   Motif 49  Motif 50  Motif 53  Motif 58  Motif 60  Motif 234 Motif 240 Motif 245 Motif 260 Motif 267 Motif 276 Motif 277 Motif 285 Motif 320 Motif 390 Motif 393 Motif 397 Motif 398 Motif 422 Motif 426 Motif 438 Motif 456
+
+$RAX
+Motif 18 Motif 19 Motif 20 Motif 21 Motif 22 Motif 24 Motif 25 Motif 26 Motif 27 Motif 45 Motif 48 Motif 50 Motif 51 Motif 54 Motif 60
+
+$RBBP5
+Motif 262 Motif 269 Motif 343
+
+$RBBP9
+Motif 12  Motif 28  Motif 29  Motif 34  Motif 64  Motif 67  Motif 70  Motif 75  Motif 110 Motif 288
+
+$RBM12
+ Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 9   Motif 10  Motif 11  Motif 12  Motif 13  Motif 14  Motif 16  Motif 17  Motif 18  Motif 19  Motif 20  Motif 21  Motif 22  Motif 23  Motif 25  Motif 26  Motif 27  Motif 28  Motif 29  Motif 30  Motif 31  Motif 32  Motif 38  Motif 39  Motif 42  Motif 43  Motif 44  Motif 45  Motif 46  Motif 47  Motif 48  Motif 49  Motif 50  Motif 51  Motif 53  Motif 54  Motif 56  Motif 58  Motif 60  Motif 61  Motif 62  Motif 63  Motif 64  Motif 66  Motif 67  Motif 68  Motif 69  Motif 70  Motif 71  Motif 72  Motif 73  Motif 74  Motif 75  Motif 76  Motif 77  Motif 78  Motif 79  Motif 80  Motif 81  Motif 82  Motif 83  Motif 84  Motif 85  Motif 86  Motif 88  Motif 89  Motif 90  Motif 91  Motif 92  Motif 93  Motif 95  Motif 96  Motif 98  Motif 99  Motif 100 Motif 103 Motif 104 Motif 105 Motif 108 Motif 111 Motif 117 Motif 124 Motif 127 Motif 128 Motif 129 Motif 131 Motif 132 Motif 133 Motif 142 Motif 143 Motif 144 Motif 147 Motif 150 Motif 151 Motif 152 Motif 155 Motif 160 Motif 161 Motif 164 Motif 166 Motif 171 Motif 178 Motif 179 Motif 188 Motif 189 Motif 191 Motif 195 Motif 196 Motif 232 Motif 234 Motif 245 Motif 247 Motif 248 Motif 249 Motif 250 Motif 256 Motif 264 Motif 267 Motif 276 Motif 277 Motif 278 Motif 280 Motif 281 Motif 285 Motif 299 Motif 305 Motif 307 Motif 309 Motif 315 Motif 316 Motif 317 Motif 319 Motif 320 Motif 321 Motif 324 Motif 328 Motif 332 Motif 333 Motif 335 Motif 336 Motif 341 Motif 342 Motif 343 Motif 345 Motif 347 Motif 351 Motif 352 Motif 353 Motif 357 Motif 374 Motif 383 Motif 390 Motif 393 Motif 397 Motif 398 Motif 426 Motif 428 Motif 429 Motif 435 Motif 438 Motif 439 Motif 445 Motif 448 Motif 453 Motif 454 Motif 460
+
+$RBM13
+Motif 90  Motif 192
+
+$RBM17
+Motif 45  Motif 68  Motif 100 Motif 131 Motif 191 Motif 249 Motif 281 Motif 285 Motif 309 Motif 310 Motif 448
+
+$RBM19
+ Motif 1   Motif 3   Motif 4   Motif 5   Motif 7   Motif 8   Motif 9   Motif 13  Motif 14  Motif 16  Motif 17  Motif 19  Motif 23  Motif 30  Motif 31  Motif 39  Motif 43  Motif 45  Motif 46  Motif 47  Motif 49  Motif 50  Motif 51  Motif 54  Motif 55  Motif 56  Motif 57  Motif 58  Motif 59  Motif 60  Motif 67  Motif 68  Motif 69  Motif 70  Motif 72  Motif 75  Motif 76  Motif 81  Motif 83  Motif 84  Motif 85  Motif 89  Motif 90  Motif 92  Motif 94  Motif 95  Motif 97  Motif 102 Motif 103 Motif 104 Motif 105 Motif 106 Motif 107 Motif 108 Motif 109 Motif 110 Motif 111 Motif 112 Motif 113 Motif 114 Motif 115 Motif 116 Motif 117 Motif 118 Motif 119 Motif 120 Motif 121 Motif 122 Motif 123 Motif 124 Motif 126 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 136 Motif 137 Motif 138 Motif 139 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 147 Motif 148 Motif 149 Motif 150 Motif 151 Motif 152 Motif 153 Motif 154 Motif 155 Motif 156 Motif 157 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 163 Motif 164 Motif 165 Motif 166 Motif 167 Motif 168 Motif 169 Motif 170 Motif 171 Motif 172 Motif 173 Motif 174 Motif 175 Motif 176 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 183 Motif 185 Motif 186 Motif 187 Motif 188 Motif 189 Motif 190 Motif 191 Motif 192 Motif 193 Motif 194 Motif 195 Motif 196 Motif 197 Motif 199 Motif 214 Motif 217 Motif 224 Motif 227 Motif 228 Motif 230 Motif 234 Motif 236 Motif 239 Motif 240 Motif 241 Motif 242 Motif 243 Motif 244 Motif 245 Motif 247 Motif 248 Motif 249 Motif 250 Motif 254 Motif 256 Motif 260 Motif 262 Motif 264 Motif 266 Motif 267 Motif 268 Motif 274 Motif 276 Motif 277 Motif 278 Motif 280 Motif 281 Motif 284 Motif 285 Motif 287 Motif 288 Motif 290 Motif 291 Motif 292 Motif 293 Motif 294 Motif 295 Motif 297 Motif 298 Motif 299 Motif 300 Motif 301 Motif 303 Motif 305 Motif 306 Motif 307 Motif 308 Motif 312 Motif 313 Motif 314 Motif 315 Motif 316 Motif 317 Motif 318 Motif 319 Motif 320 Motif 321 Motif 322 Motif 323 Motif 324 Motif 326 Motif 327 Motif 328 Motif 329 Motif 330 Motif 331 Motif 332 Motif 333 Motif 334 Motif 335 Motif 336 Motif 337 Motif 339 Motif 340 Motif 341 Motif 342 Motif 343 Motif 344 Motif 345 Motif 346 Motif 347 Motif 348 Motif 349 Motif 350 Motif 351 Motif 352 Motif 353 Motif 354 Motif 355 Motif 357 Motif 358 Motif 359 Motif 360 Motif 361 Motif 362 Motif 363 Motif 364 Motif 365 Motif 366 Motif 367 Motif 369 Motif 370 Motif 371 Motif 375 Motif 376 Motif 377 Motif 378 Motif 379 Motif 380 Motif 381 Motif 383 Motif 384 Motif 385 Motif 386 Motif 387 Motif 388 Motif 390 Motif 392 Motif 393 Motif 394 Motif 397 Motif 398 Motif 399 Motif 400 Motif 404 Motif 405 Motif 408 Motif 409 Motif 411 Motif 412 Motif 415 Motif 421 Motif 423 Motif 424 Motif 425 Motif 426 Motif 427 Motif 428 Motif 429 Motif 430 Motif 431 Motif 432 Motif 433 Motif 434 Motif 435 Motif 437 Motif 438 Motif 439 Motif 440 Motif 441 Motif 442 Motif 443 Motif 444 Motif 445 Motif 446 Motif 448 Motif 449 Motif 450 Motif 451 Motif 452 Motif 453 Motif 454 Motif 455 Motif 456 Motif 458 Motif 459 Motif 460
+
+$RBM22
+Motif 23  Motif 56  Motif 69  Motif 72  Motif 110 Motif 119 Motif 125 Motif 133 Motif 151 Motif 171 Motif 175 Motif 234 Motif 240 Motif 248 Motif 332 Motif 347 Motif 351 Motif 355 Motif 384
+
+$RBM3
+Motif 1  Motif 3  Motif 4  Motif 29 Motif 72 Motif 79 Motif 86
+
+$RBM35A
+Motif 3   Motif 4   Motif 23  Motif 84  Motif 129 Motif 342 Motif 352 Motif 357 Motif 393 Motif 398 Motif 404 Motif 411
+
+$RBM35B
+Motif 3   Motif 4   Motif 50  Motif 84  Motif 129 Motif 136 Motif 244 Motif 333 Motif 334 Motif 336 Motif 393 Motif 404 Motif 411 Motif 448
+
+$RBM38
+ Motif 1   Motif 2   Motif 3   Motif 4   Motif 6   Motif 7   Motif 13  Motif 14  Motif 15  Motif 16  Motif 17  Motif 20  Motif 22  Motif 23  Motif 32  Motif 41  Motif 46  Motif 47  Motif 49  Motif 50  Motif 53  Motif 55  Motif 56  Motif 58  Motif 59  Motif 64  Motif 72  Motif 84  Motif 91  Motif 94  Motif 104 Motif 112 Motif 113 Motif 114 Motif 117 Motif 127 Motif 128 Motif 129 Motif 133 Motif 142 Motif 143 Motif 144 Motif 145 Motif 148 Motif 149 Motif 150 Motif 151 Motif 152 Motif 154 Motif 155 Motif 156 Motif 160 Motif 161 Motif 162 Motif 163 Motif 165 Motif 167 Motif 169 Motif 171 Motif 174 Motif 175 Motif 176 Motif 178 Motif 179 Motif 180 Motif 192 Motif 195 Motif 202 Motif 217 Motif 222 Motif 234 Motif 242 Motif 244 Motif 245 Motif 247 Motif 248 Motif 260 Motif 264 Motif 266 Motif 267 Motif 268 Motif 276 Motif 277 Motif 280 Motif 283 Motif 284 Motif 285 Motif 296 Motif 302 Motif 305 Motif 306 Motif 307 Motif 308 Motif 309 Motif 310 Motif 314 Motif 315 Motif 317 Motif 318 Motif 319 Motif 321 Motif 322 Motif 323 Motif 324 Motif 326 Motif 327 Motif 328 Motif 329 Motif 330 Motif 331 Motif 332 Motif 333 Motif 334 Motif 335 Motif 336 Motif 337 Motif 338 Motif 339 Motif 340 Motif 341 Motif 342 Motif 343 Motif 344 Motif 345 Motif 346 Motif 347 Motif 348 Motif 350 Motif 351 Motif 352 Motif 353 Motif 355 Motif 356 Motif 358 Motif 360 Motif 363 Motif 364 Motif 365 Motif 366 Motif 367 Motif 370 Motif 371 Motif 372 Motif 374 Motif 378 Motif 380 Motif 381 Motif 383 Motif 384 Motif 385 Motif 386 Motif 390 Motif 392 Motif 393 Motif 397 Motif 398 Motif 399 Motif 404 Motif 411 Motif 415 Motif 421 Motif 423 Motif 426 Motif 427 Motif 428 Motif 432 Motif 433 Motif 434 Motif 438 Motif 439 Motif 440 Motif 441 Motif 442 Motif 444 Motif 445 Motif 446 Motif 447 Motif 448 Motif 449 Motif 450 Motif 452 Motif 453 Motif 454 Motif 455 Motif 456 Motif 458 Motif 459 Motif 460
+
+$RBM39
+Motif 144 Motif 153 Motif 178 Motif 278 Motif 307 Motif 310 Motif 315 Motif 316 Motif 320 Motif 324 Motif 332 Motif 333 Motif 344 Motif 346 Motif 347 Motif 351 Motif 353 Motif 355 Motif 357 Motif 378 Motif 384 Motif 426 Motif 428 Motif 429 Motif 435 Motif 439 Motif 443 Motif 446 Motif 448 Motif 458
+
+$RBM41
+ Motif 1   Motif 3   Motif 5   Motif 9   Motif 10  Motif 16  Motif 28  Motif 30  Motif 31  Motif 32  Motif 48  Motif 54  Motif 55  Motif 56  Motif 63  Motif 68  Motif 69  Motif 70  Motif 72  Motif 76  Motif 85  Motif 86  Motif 89  Motif 90  Motif 92  Motif 95  Motif 108 Motif 110 Motif 117 Motif 118 Motif 119 Motif 121 Motif 126 Motif 127 Motif 128 Motif 129 Motif 131 Motif 137 Motif 138 Motif 140 Motif 142 Motif 143 Motif 145 Motif 147 Motif 148 Motif 150 Motif 151 Motif 152 Motif 153 Motif 155 Motif 157 Motif 158 Motif 160 Motif 162 Motif 164 Motif 173 Motif 174 Motif 175 Motif 176 Motif 178 Motif 185 Motif 194 Motif 195 Motif 213 Motif 214 Motif 224 Motif 240 Motif 242 Motif 245 Motif 260 Motif 262 Motif 264 Motif 267 Motif 268 Motif 292 Motif 301 Motif 306 Motif 314 Motif 315 Motif 316 Motif 319 Motif 320 Motif 321 Motif 335 Motif 341 Motif 353 Motif 397 Motif 423 Motif 425 Motif 426 Motif 435 Motif 439 Motif 441 Motif 443 Motif 448 Motif 454 Motif 455 Motif 456 Motif 458 Motif 460
+
+$RBM4B
+Motif 448
+
+$RBM7
+Motif 90  Motif 92  Motif 397
+
+$RBM8A
+Motif 398 Motif 403 Motif 404 Motif 405 Motif 407
+
+$RBM9
+Motif 3   Motif 9   Motif 50  Motif 54  Motif 56  Motif 103 Motif 104 Motif 108 Motif 109 Motif 157 Motif 161 Motif 348 Motif 352 Motif 364 Motif 365 Motif 397 Motif 398 Motif 454
+
+$RBMS1
+Motif 125 Motif 131 Motif 158 Motif 351
+
+$RBPJ
+Motif 1   Motif 5   Motif 14  Motif 41  Motif 56  Motif 98  Motif 113 Motif 132 Motif 133 Motif 134 Motif 135 Motif 136 Motif 137 Motif 138 Motif 141 Motif 144 Motif 145 Motif 147 Motif 178 Motif 193 Motif 194 Motif 195 Motif 196 Motif 205 Motif 219 Motif 232 Motif 233 Motif 240 Motif 244 Motif 247 Motif 249 Motif 250 Motif 267 Motif 270 Motif 273 Motif 274 Motif 276 Motif 278 Motif 280 Motif 281 Motif 282 Motif 284 Motif 285 Motif 341 Motif 357
+
+$RBPMS2
+ Motif 1   Motif 5   Motif 7   Motif 11  Motif 12  Motif 13  Motif 16  Motif 23  Motif 24  Motif 31  Motif 32  Motif 38  Motif 39  Motif 40  Motif 45  Motif 47  Motif 50  Motif 54  Motif 55  Motif 56  Motif 57  Motif 59  Motif 60  Motif 67  Motif 68  Motif 69  Motif 70  Motif 72  Motif 75  Motif 76  Motif 79  Motif 81  Motif 85  Motif 86  Motif 89  Motif 90  Motif 92  Motif 103 Motif 105 Motif 106 Motif 108 Motif 111 Motif 112 Motif 115 Motif 117 Motif 118 Motif 119 Motif 121 Motif 123 Motif 124 Motif 125 Motif 126 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 133 Motif 134 Motif 136 Motif 137 Motif 138 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 146 Motif 147 Motif 148 Motif 152 Motif 153 Motif 155 Motif 156 Motif 157 Motif 158 Motif 159 Motif 160 Motif 162 Motif 163 Motif 164 Motif 166 Motif 167 Motif 168 Motif 169 Motif 170 Motif 171 Motif 173 Motif 174 Motif 175 Motif 177 Motif 178 Motif 181 Motif 182 Motif 183 Motif 184 Motif 185 Motif 188 Motif 189 Motif 190 Motif 191 Motif 192 Motif 193 Motif 194 Motif 195 Motif 196 Motif 197 Motif 199 Motif 200 Motif 203 Motif 207 Motif 213 Motif 214 Motif 224 Motif 227 Motif 228 Motif 232 Motif 234 Motif 235 Motif 237 Motif 238 Motif 240 Motif 243 Motif 245 Motif 247 Motif 253 Motif 260 Motif 264 Motif 281 Motif 284 Motif 285 Motif 288 Motif 294 Motif 297 Motif 309 Motif 310 Motif 312 Motif 317 Motif 321 Motif 332 Motif 342 Motif 349 Motif 355 Motif 373 Motif 377 Motif 386 Motif 389 Motif 410 Motif 426 Motif 433 Motif 434 Motif 435 Motif 438 Motif 443 Motif 444 Motif 445 Motif 446 Motif 448 Motif 458 Motif 460
+
+$RCHY1
+Motif 45  Motif 147
+
+$RCOR1
+Motif 55
+
+$RCOR3
+Motif 1   Motif 3   Motif 16  Motif 32  Motif 39  Motif 50  Motif 54  Motif 56  Motif 85  Motif 105 Motif 112 Motif 113 Motif 121 Motif 124 Motif 127 Motif 128 Motif 129 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 137 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 147 Motif 151 Motif 152 Motif 153 Motif 155 Motif 156 Motif 158 Motif 160 Motif 161 Motif 162 Motif 164 Motif 166 Motif 170 Motif 171 Motif 173 Motif 174 Motif 175 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 188 Motif 190 Motif 194 Motif 195 Motif 240 Motif 245 Motif 247 Motif 249 Motif 276 Motif 280 Motif 281 Motif 285 Motif 288 Motif 307 Motif 309 Motif 315 Motif 317 Motif 332 Motif 341 Motif 345 Motif 346 Motif 347 Motif 351 Motif 353 Motif 355 Motif 357 Motif 374 Motif 378 Motif 384 Motif 411 Motif 429 Motif 434 Motif 435 Motif 439 Motif 441 Motif 445 Motif 446 Motif 448 Motif 458 Motif 460
+
+$RCVRN
+Motif 44  Motif 145
+
+$RECQL
+Motif 1   Motif 3   Motif 23  Motif 30  Motif 32  Motif 39  Motif 50  Motif 54  Motif 55  Motif 56  Motif 57  Motif 85  Motif 90  Motif 92  Motif 100 Motif 103 Motif 105 Motif 108 Motif 109 Motif 110 Motif 112 Motif 116 Motif 117 Motif 119 Motif 123 Motif 127 Motif 128 Motif 129 Motif 132 Motif 134 Motif 135 Motif 140 Motif 141 Motif 144 Motif 145 Motif 147 Motif 151 Motif 152 Motif 155 Motif 157 Motif 158 Motif 164 Motif 177 Motif 178 Motif 214 Motif 240 Motif 245 Motif 247 Motif 248 Motif 249 Motif 260 Motif 262 Motif 264 Motif 266 Motif 267 Motif 268 Motif 276 Motif 280 Motif 285 Motif 300 Motif 301 Motif 316 Motif 318 Motif 320 Motif 321 Motif 326 Motif 330 Motif 332 Motif 333 Motif 335 Motif 336 Motif 339 Motif 341 Motif 342 Motif 343 Motif 344 Motif 348 Motif 351 Motif 353 Motif 355 Motif 357 Motif 426 Motif 428 Motif 429 Motif 430 Motif 435 Motif 438 Motif 439 Motif 441 Motif 443 Motif 445 Motif 446 Motif 448 Motif 454 Motif 456 Motif 458 Motif 460
+
+$RFC2
+Motif 113 Motif 116 Motif 124 Motif 131 Motif 134 Motif 135 Motif 136 Motif 137 Motif 138 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 146 Motif 147 Motif 156 Motif 180 Motif 181 Motif 182 Motif 183 Motif 188 Motif 189 Motif 190 Motif 193 Motif 194 Motif 195
+
+$RFC3
+Motif 128 Motif 132 Motif 133 Motif 150 Motif 195 Motif 240 Motif 247 Motif 248 Motif 249 Motif 267 Motif 276 Motif 281 Motif 374 Motif 429
+
+$RFPL3
+Motif 372 Motif 375
+
+$RFX1
+Motif 301
+
+$RFX3
+Motif 130 Motif 219 Motif 249
+
+$RFX4
+Motif 144 Motif 183 Motif 285 Motif 307 Motif 354 Motif 355 Motif 361 Motif 366 Motif 369 Motif 372 Motif 373 Motif 378 Motif 382 Motif 389 Motif 400 Motif 401 Motif 410 Motif 415 Motif 421 Motif 423 Motif 427 Motif 428 Motif 429
+
+$RFXANK
+Motif 29  Motif 36  Motif 38  Motif 40  Motif 43  Motif 44  Motif 61  Motif 62  Motif 70  Motif 79  Motif 80  Motif 81  Motif 82  Motif 83  Motif 86  Motif 88  Motif 89  Motif 92  Motif 95  Motif 98  Motif 110
+
+$RG9MTD3
+Motif 284
+
+$RIOK2
+Motif 45  Motif 46  Motif 49  Motif 51  Motif 52  Motif 59  Motif 103
+
+$RIPK3
+Motif 1   Motif 3   Motif 16  Motif 50  Motif 54  Motif 55  Motif 85  Motif 103 Motif 112 Motif 117 Motif 121 Motif 127 Motif 128 Motif 129 Motif 132 Motif 140 Motif 143 Motif 147 Motif 150 Motif 151 Motif 152 Motif 153 Motif 155 Motif 158 Motif 163 Motif 177 Motif 178 Motif 188 Motif 190 Motif 194 Motif 195 Motif 200 Motif 233 Motif 242 Motif 247 Motif 248 Motif 267 Motif 269 Motif 307 Motif 309 Motif 310 Motif 316 Motif 317 Motif 324 Motif 333 Motif 341 Motif 342 Motif 345 Motif 348 Motif 353 Motif 363 Motif 393 Motif 397 Motif 398 Motif 411 Motif 412 Motif 445 Motif 458 Motif 460
+
+$RKHD2
+Motif 55  Motif 119 Motif 309 Motif 324 Motif 332 Motif 333 Motif 335 Motif 341 Motif 342 Motif 355 Motif 398 Motif 409 Motif 411 Motif 426 Motif 458
+
+$RNASEH2C
+Motif 147 Motif 269 Motif 289
+
+$RNF10
+Motif 1
+
+$RNF138
+Motif 221 Motif 224 Motif 225 Motif 229
+
+$RNF141
+Motif 269
+
+$RPA2
+Motif 301
+
+$RPL12
+Motif 55
+
+$RPL22
+Motif 15  Motif 345
+
+$RPL35
+Motif 11  Motif 12  Motif 28  Motif 34  Motif 37  Motif 40  Motif 42  Motif 67  Motif 73  Motif 81  Motif 86  Motif 109 Motif 183 Motif 344 Motif 345 Motif 369 Motif 371 Motif 372 Motif 373 Motif 380 Motif 384 Motif 385 Motif 401
+
+$RPL6
+Motif 185 Motif 193 Motif 194 Motif 221 Motif 282 Motif 334 Motif 341 Motif 431 Motif 439
+
+$RPL7L1
+Motif 183
+
+$RPP14
+Motif 278
+
+$RPP25
+Motif 54  Motif 118 Motif 121 Motif 124 Motif 126 Motif 127 Motif 128 Motif 134 Motif 140 Motif 143 Motif 151 Motif 153 Motif 155 Motif 160 Motif 177 Motif 195 Motif 245 Motif 247 Motif 267
+
+$RPS10
+Motif 11  Motif 12  Motif 28  Motif 40  Motif 109 Motif 369 Motif 372 Motif 373 Motif 380 Motif 381
+
+$RPS14
+Motif 299
+
+$RPS18
+Motif 20 Motif 48
+
+$RPS4X
+Motif 363 Motif 364 Motif 365 Motif 367 Motif 368 Motif 369 Motif 375 Motif 376 Motif 377 Motif 380 Motif 389
+
+$RPS6KA5
+Motif 200 Motif 210 Motif 269
+
+$RSRC2
+Motif 371
+
+$RTCD1
+Motif 210
+
+$RUFY3
+Motif 49 Motif 53 Motif 58
+
+$RUVBL1
+Motif 29  Motif 32  Motif 39  Motif 43  Motif 70  Motif 110 Motif 112 Motif 131 Motif 132 Motif 133 Motif 200 Motif 269
+
+$RXRA
+Motif 32  Motif 39  Motif 40  Motif 44  Motif 55  Motif 59  Motif 72  Motif 100 Motif 147 Motif 154 Motif 156 Motif 165 Motif 180 Motif 183 Motif 193 Motif 266 Motif 286 Motif 301 Motif 305 Motif 378 Motif 399
+
+$RXRB
+Motif 5  Motif 16
+
+$RY1
+Motif 273
+
+$RYBP
+Motif 182 Motif 183
+
+$SAE1
+Motif 345 Motif 444
+
+$SCAND2
+Motif 4   Motif 6   Motif 9   Motif 10  Motif 11  Motif 12  Motif 42  Motif 43  Motif 44  Motif 75  Motif 80  Motif 88  Motif 95  Motif 147
+
+$SCC-112
+Motif 15  Motif 55  Motif 306 Motif 315 Motif 316 Motif 317 Motif 333 Motif 335 Motif 341 Motif 342 Motif 356 Motif 397 Motif 426 Motif 439 Motif 445 Motif 446 Motif 458
+
+$SCMH1
+Motif 144 Motif 157 Motif 159 Motif 179 Motif 180 Motif 182 Motif 187 Motif 194
+
+$SEMA4A
+Motif 5   Motif 28  Motif 70  Motif 191 Motif 202 Motif 204 Motif 209 Motif 211 Motif 213 Motif 214 Motif 232 Motif 233 Motif 282 Motif 285 Motif 286 Motif 287
+
+$SERBP1
+Motif 1   Motif 3   Motif 4   Motif 8   Motif 13  Motif 16  Motif 32  Motif 43  Motif 44  Motif 67  Motif 72  Motif 85  Motif 90  Motif 95  Motif 117 Motif 127 Motif 128 Motif 133 Motif 134 Motif 140 Motif 160 Motif 347 Motif 351 Motif 353 Motif 355 Motif 357 Motif 378 Motif 381 Motif 383 Motif 411
+
+$SETD1B
+Motif 374
+
+$SETDB1
+Motif 124 Motif 126 Motif 131 Motif 135 Motif 136 Motif 137 Motif 138 Motif 141 Motif 144 Motif 145 Motif 146 Motif 156 Motif 158 Motif 159 Motif 162 Motif 177 Motif 180 Motif 181 Motif 182 Motif 183 Motif 187 Motif 188 Motif 189 Motif 190 Motif 191 Motif 193 Motif 195 Motif 196 Motif 375 Motif 376 Motif 377
+
+$SF1
+Motif 5  Motif 13 Motif 72
+
+$SF3A3
+Motif 214 Motif 240
+
+$SF3B1
+Motif 346 Motif 375 Motif 376 Motif 377 Motif 385
+
+$SFMBT1
+Motif 100 Motif 141 Motif 247 Motif 249 Motif 253 Motif 267 Motif 281 Motif 284 Motif 285 Motif 288 Motif 307 Motif 310 Motif 317 Motif 318 Motif 332 Motif 333 Motif 335 Motif 336 Motif 341 Motif 342 Motif 346 Motif 353 Motif 355 Motif 357 Motif 383 Motif 384 Motif 426 Motif 428 Motif 429 Motif 430 Motif 433 Motif 434 Motif 435 Motif 448 Motif 452 Motif 456 Motif 460
+
+$SFRS3
+Motif 55  Motif 67  Motif 68  Motif 85  Motif 90  Motif 92  Motif 103 Motif 127 Motif 128 Motif 132 Motif 133 Motif 134 Motif 137 Motif 140 Motif 144 Motif 155 Motif 158 Motif 160 Motif 164 Motif 166 Motif 173 Motif 174 Motif 178 Motif 181 Motif 194 Motif 214 Motif 224 Motif 240 Motif 245 Motif 247 Motif 278 Motif 281 Motif 316 Motif 317 Motif 332 Motif 397 Motif 398 Motif 453 Motif 460
+
+$SFRS5
+ Motif 53  Motif 54  Motif 55  Motif 56  Motif 59  Motif 60  Motif 67  Motif 82  Motif 85  Motif 97  Motif 103 Motif 105 Motif 112 Motif 117 Motif 118 Motif 121 Motif 122 Motif 123 Motif 124 Motif 126 Motif 127 Motif 128 Motif 129 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 137 Motif 140 Motif 142 Motif 143 Motif 144 Motif 147 Motif 150 Motif 151 Motif 153 Motif 155 Motif 158 Motif 160 Motif 161 Motif 162 Motif 171 Motif 174 Motif 175 Motif 177 Motif 178 Motif 179 Motif 180 Motif 183 Motif 185 Motif 188 Motif 194 Motif 228 Motif 234 Motif 240 Motif 245 Motif 247 Motif 248 Motif 260 Motif 261 Motif 264 Motif 267 Motif 276 Motif 280 Motif 281 Motif 285 Motif 292 Motif 294 Motif 295 Motif 297 Motif 301 Motif 307 Motif 314 Motif 315 Motif 316 Motif 317 Motif 318 Motif 320 Motif 321 Motif 322 Motif 323 Motif 324 Motif 326 Motif 330 Motif 332 Motif 333 Motif 341 Motif 342 Motif 355 Motif 357 Motif 371 Motif 374 Motif 390 Motif 393 Motif 397 Motif 398 Motif 409 Motif 411 Motif 423 Motif 425 Motif 426 Motif 428 Motif 429 Motif 430 Motif 435 Motif 438 Motif 439 Motif 441 Motif 442 Motif 443 Motif 445 Motif 448 Motif 452 Motif 453 Motif 455 Motif 456 Motif 458 Motif 460
+
+$SFT2D1
+Motif 56  Motif 113 Motif 117 Motif 124 Motif 127 Motif 128 Motif 133 Motif 134 Motif 135 Motif 140 Motif 142 Motif 144 Motif 151 Motif 177 Motif 179 Motif 194 Motif 195 Motif 321 Motif 346 Motif 347 Motif 355 Motif 357
+
+$SIRT1
+Motif 43
+
+$SIRT2
+Motif 29 Motif 88
+
+$SIX1
+Motif 38
+
+$SIX2
+Motif 273
+
+$SLC12A9
+Motif 344
+
+$SLC18A1
+Motif 156 Motif 158 Motif 160 Motif 161 Motif 162 Motif 169 Motif 171 Motif 176 Motif 177 Motif 178 Motif 179 Motif 181 Motif 182 Motif 187 Motif 188 Motif 189 Motif 190 Motif 191 Motif 193 Motif 194 Motif 195
+
+$SLC25A20
+Motif 88
+
+$SLC30A9
+Motif 276
+
+$SMAD2
+Motif 3   Motif 12  Motif 29  Motif 110
+
+$SMAD3
+Motif 125 Motif 205 Motif 250 Motif 281 Motif 284 Motif 435 Motif 438 Motif 448
+
+$SMAD4
+Motif 1   Motif 3   Motif 5   Motif 28  Motif 30  Motif 32  Motif 51  Motif 52  Motif 53  Motif 67  Motif 70  Motif 71  Motif 72  Motif 73  Motif 74  Motif 76  Motif 78  Motif 109 Motif 110 Motif 207 Motif 240 Motif 247 Motif 282 Motif 285 Motif 316 Motif 454 Motif 456
+
+$SMAD6
+Motif 119
+
+$SMAP1L
+Motif 4   Motif 6   Motif 7   Motif 9   Motif 42  Motif 43  Motif 44  Motif 75  Motif 79  Motif 80  Motif 81  Motif 86  Motif 289
+
+$SMARCA4
+Motif 214 Motif 320
+
+$SMARCA5
+Motif 55
+
+$SMARCAL1
+Motif 3   Motif 4   Motif 5   Motif 6   Motif 8   Motif 9   Motif 13  Motif 16  Motif 31  Motif 50  Motif 55  Motif 67  Motif 68  Motif 69  Motif 72  Motif 76  Motif 79  Motif 82  Motif 90  Motif 92  Motif 103 Motif 105 Motif 108 Motif 112 Motif 114 Motif 116 Motif 117 Motif 118 Motif 119 Motif 121 Motif 123 Motif 125 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 133 Motif 134 Motif 137 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 147 Motif 150 Motif 151 Motif 152 Motif 153 Motif 155 Motif 157 Motif 158 Motif 160 Motif 161 Motif 162 Motif 164 Motif 165 Motif 166 Motif 170 Motif 171 Motif 172 Motif 174 Motif 175 Motif 177 Motif 178 Motif 180 Motif 181 Motif 188 Motif 190 Motif 194 Motif 195 Motif 228 Motif 235 Motif 240 Motif 267 Motif 332 Motif 347 Motif 351 Motif 353 Motif 355 Motif 377 Motif 378 Motif 381 Motif 383
+
+$SMARCC1
+Motif 285
+
+$SMARCC2
+Motif 32  Motif 36  Motif 41  Motif 100 Motif 103 Motif 105 Motif 196 Motif 200 Motif 201 Motif 202 Motif 205 Motif 206 Motif 210 Motif 215 Motif 225 Motif 226 Motif 240 Motif 245 Motif 248 Motif 249 Motif 250 Motif 269 Motif 274 Motif 275 Motif 276 Motif 278 Motif 279 Motif 280 Motif 284 Motif 285 Motif 288 Motif 289 Motif 291 Motif 305 Motif 310 Motif 312 Motif 317 Motif 333 Motif 343 Motif 355 Motif 411 Motif 426 Motif 429 Motif 433 Motif 434 Motif 435 Motif 441 Motif 443 Motif 444 Motif 445 Motif 446 Motif 454
+
+$SMCR7L
+Motif 55  Motif 320 Motif 332 Motif 342
+
+$SMPX
+Motif 16  Motif 18  Motif 72  Motif 76  Motif 77  Motif 81  Motif 301 Motif 307 Motif 429
+
+$SMUG1
+Motif 428 Motif 429 Motif 448
+
+$SNAI1
+Motif 3   Motif 13  Motif 16  Motif 31  Motif 50  Motif 54  Motif 55  Motif 56  Motif 59  Motif 88  Motif 103 Motif 117 Motif 118 Motif 121 Motif 124 Motif 127 Motif 128 Motif 129 Motif 132 Motif 133 Motif 134 Motif 135 Motif 137 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 147 Motif 150 Motif 151 Motif 153 Motif 155 Motif 158 Motif 161 Motif 162 Motif 174 Motif 175 Motif 177 Motif 178 Motif 179 Motif 180 Motif 190 Motif 194 Motif 195 Motif 240 Motif 247 Motif 249 Motif 264 Motif 267 Motif 276 Motif 285 Motif 307 Motif 309 Motif 310 Motif 316 Motif 317 Motif 318 Motif 320 Motif 324 Motif 332 Motif 333 Motif 335 Motif 341 Motif 342 Motif 344 Motif 345 Motif 346 Motif 347 Motif 348 Motif 349 Motif 355 Motif 357 Motif 371 Motif 397 Motif 398 Motif 411 Motif 412 Motif 426 Motif 435 Motif 439 Motif 445 Motif 448 Motif 452 Motif 453 Motif 456 Motif 458
+
+$SNAPC4
+Motif 55  Motif 320 Motif 332 Motif 342 Motif 347 Motif 448
+
+$SNAPC5
+Motif 1   Motif 9   Motif 14  Motif 29  Motif 31  Motif 43  Motif 44  Motif 64  Motif 70  Motif 85  Motif 86  Motif 110
+
+$SND1
+Motif 31  Motif 55  Motif 59  Motif 68  Motif 92  Motif 158 Motif 240 Motif 245 Motif 247 Motif 264 Motif 267 Motif 276 Motif 309 Motif 398
+
+$SNRP70
+Motif 16  Motif 100 Motif 200 Motif 249
+
+$SNRPB
+Motif 85 Motif 92
+
+$SNRPB2
+Motif 90  Motif 137 Motif 155
+
+$SNRPE
+Motif 50  Motif 55  Motif 108 Motif 112 Motif 127 Motif 128 Motif 129 Motif 132 Motif 133 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 147 Motif 150 Motif 151 Motif 153 Motif 155 Motif 158 Motif 160 Motif 161 Motif 162 Motif 164 Motif 166 Motif 171 Motif 174 Motif 175 Motif 177 Motif 178 Motif 188 Motif 190 Motif 195 Motif 234 Motif 240 Motif 245 Motif 247 Motif 260 Motif 264 Motif 267 Motif 276 Motif 277 Motif 280 Motif 281 Motif 285 Motif 307 Motif 309 Motif 310 Motif 315 Motif 316 Motif 317 Motif 320 Motif 321 Motif 324 Motif 332 Motif 333 Motif 335 Motif 342 Motif 347 Motif 351 Motif 353 Motif 355 Motif 356 Motif 378 Motif 383 Motif 384 Motif 386 Motif 393 Motif 397 Motif 398 Motif 411 Motif 412 Motif 426 Motif 439 Motif 446 Motif 456 Motif 458 Motif 460
+
+$SNUPN
+Motif 68
+
+$SOCS4
+Motif 4   Motif 43  Motif 147
+
+$SOD1
+Motif 269 Motif 301 Motif 310
+
+$SOLH
+Motif 333
+
+$SORCS3
+Motif 112 Motif 113 Motif 114 Motif 115 Motif 116 Motif 118 Motif 120 Motif 121 Motif 122 Motif 123 Motif 124 Motif 126 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 136 Motif 137 Motif 138 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 146 Motif 153 Motif 155 Motif 156 Motif 157 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 165 Motif 166 Motif 167 Motif 168 Motif 169 Motif 171 Motif 172 Motif 173 Motif 174 Motif 176 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 182 Motif 183 Motif 184 Motif 185 Motif 186 Motif 187 Motif 188 Motif 189 Motif 190 Motif 191 Motif 193 Motif 194 Motif 195 Motif 196 Motif 199 Motif 288 Motif 289
+
+$SOX10
+Motif 122 Motif 131
+
+$SOX13
+Motif 1   Motif 4   Motif 9   Motif 16  Motif 92  Motif 117 Motif 144 Motif 156 Motif 160 Motif 183 Motif 275
+
+$SOX14
+Motif 18 Motif 19 Motif 20 Motif 21 Motif 22 Motif 24 Motif 25 Motif 26 Motif 27 Motif 45 Motif 48 Motif 50 Motif 51 Motif 54 Motif 60
+
+$SOX5
+Motif 1   Motif 3   Motif 4   Motif 5   Motif 6   Motif 8   Motif 9   Motif 16  Motif 17  Motif 23  Motif 55  Motif 56  Motif 72  Motif 92  Motif 100 Motif 103 Motif 108 Motif 118 Motif 119 Motif 121 Motif 122 Motif 127 Motif 129 Motif 132 Motif 140 Motif 143 Motif 144 Motif 145 Motif 150 Motif 151 Motif 155 Motif 157 Motif 160 Motif 163 Motif 164 Motif 165 Motif 174 Motif 175 Motif 179 Motif 180 Motif 186 Motif 195 Motif 264 Motif 315 Motif 342 Motif 347 Motif 351 Motif 353 Motif 355 Motif 398 Motif 441 Motif 456
+
+$SOX9
+Motif 4   Motif 6   Motif 8   Motif 11  Motif 29  Motif 32  Motif 43  Motif 72  Motif 82  Motif 92  Motif 108 Motif 109 Motif 110 Motif 117 Motif 118 Motif 120 Motif 121 Motif 122 Motif 123 Motif 127 Motif 128 Motif 129 Motif 131 Motif 132 Motif 134 Motif 135 Motif 140 Motif 145 Motif 147 Motif 155 Motif 156 Motif 161 Motif 162 Motif 163 Motif 166 Motif 173 Motif 183 Motif 186 Motif 194 Motif 196 Motif 200 Motif 201 Motif 205 Motif 207 Motif 211 Motif 214 Motif 219 Motif 225 Motif 248 Motif 249 Motif 261 Motif 264 Motif 266 Motif 267 Motif 269 Motif 291 Motif 292 Motif 295 Motif 305 Motif 310 Motif 314 Motif 315 Motif 317 Motif 318 Motif 334 Motif 335 Motif 340 Motif 341 Motif 344 Motif 351 Motif 353 Motif 355 Motif 404 Motif 426 Motif 429 Motif 430 Motif 435 Motif 437 Motif 438 Motif 439 Motif 440 Motif 443 Motif 444 Motif 445 Motif 446 Motif 448 Motif 451 Motif 454 Motif 455 Motif 458 Motif 460
+
+$SP100
+Motif 32
+
+$SP110
+Motif 29 Motif 32
+
+$SPAG7
+Motif 200 Motif 269 Motif 276 Motif 280 Motif 288 Motif 411
+
+$SPATS2
+Motif 1  Motif 5  Motif 23
+
+$SPDEF
+Motif 129
+
+$SPEG
+Motif 1   Motif 2   Motif 3   Motif 5   Motif 7   Motif 8   Motif 9   Motif 13  Motif 14  Motif 16  Motif 17  Motif 23  Motif 27  Motif 30  Motif 31  Motif 45  Motif 46  Motif 50  Motif 51  Motif 52  Motif 53  Motif 54  Motif 58  Motif 59  Motif 67  Motif 69  Motif 70  Motif 72  Motif 73  Motif 74  Motif 85  Motif 92  Motif 95  Motif 100 Motif 103 Motif 104 Motif 111 Motif 116 Motif 117 Motif 119 Motif 121 Motif 124 Motif 125 Motif 127 Motif 128 Motif 129 Motif 151 Motif 155 Motif 157 Motif 158 Motif 160 Motif 161 Motif 163 Motif 174 Motif 175 Motif 178 Motif 188 Motif 317 Motif 328 Motif 347 Motif 351 Motif 353 Motif 438
+
+$SPR
+Motif 3   Motif 16  Motif 17  Motif 44  Motif 68  Motif 72  Motif 75  Motif 76  Motif 77  Motif 90  Motif 92  Motif 95  Motif 301
+
+$SQSTM1
+Motif 59  Motif 428
+
+$SRBD1
+Motif 55  Motif 117 Motif 342
+
+$SRF
+Motif 29 Motif 56
+
+$SRP19
+Motif 281
+
+$SRP9
+Motif 367 Motif 368 Motif 369
+
+$SRXN1
+Motif 1   Motif 3   Motif 4   Motif 6   Motif 8   Motif 16  Motif 17  Motif 18  Motif 20  Motif 32  Motif 42  Motif 43  Motif 44  Motif 45  Motif 46  Motif 50  Motif 51  Motif 53  Motif 54  Motif 56  Motif 59  Motif 68  Motif 69  Motif 72  Motif 73  Motif 76  Motif 77  Motif 79  Motif 81  Motif 83  Motif 85  Motif 88  Motif 89  Motif 90  Motif 91  Motif 92  Motif 95  Motif 99  Motif 110 Motif 112 Motif 121 Motif 127 Motif 131 Motif 147 Motif 155 Motif 158 Motif 162 Motif 177 Motif 179 Motif 183 Motif 185 Motif 191 Motif 196 Motif 221 Motif 222 Motif 225 Motif 230 Motif 240 Motif 243 Motif 245 Motif 249 Motif 250 Motif 256 Motif 264 Motif 267 Motif 278 Motif 285 Motif 307 Motif 310 Motif 315 Motif 325 Motif 326 Motif 333 Motif 336 Motif 343 Motif 353 Motif 426 Motif 427 Motif 428 Motif 429 Motif 435 Motif 439 Motif 458
+
+$SSBP3
+Motif 44  Motif 210 Motif 240 Motif 429 Motif 443 Motif 448
+
+$SSBP4
+Motif 301
+
+$SSPN
+Motif 181
+
+$SSX2
+Motif 112 Motif 129 Motif 131 Motif 133 Motif 134 Motif 288 Motif 289
+
+$SSX3
+Motif 2   Motif 6   Motif 9   Motif 11  Motif 12  Motif 28  Motif 33  Motif 34  Motif 35  Motif 40  Motif 42  Motif 43  Motif 44  Motif 67  Motif 73  Motif 75  Motif 79  Motif 82  Motif 86  Motif 93  Motif 110 Motif 200 Motif 240 Motif 269 Motif 276 Motif 315 Motif 317 Motif 320 Motif 429
+
+$SSX4
+Motif 32  Motif 39  Motif 50  Motif 54  Motif 55  Motif 56  Motif 59  Motif 103 Motif 105 Motif 134 Motif 195 Motif 205 Motif 240 Motif 245 Motif 247 Motif 248 Motif 249 Motif 275 Motif 276 Motif 279 Motif 280 Motif 281 Motif 284 Motif 285 Motif 287 Motif 288 Motif 307 Motif 310 Motif 317 Motif 332 Motif 333 Motif 345 Motif 355 Motif 411 Motif 412 Motif 426 Motif 428 Motif 434 Motif 435 Motif 439 Motif 445 Motif 446 Motif 448
+
+$STAR
+Motif 190
+
+$STAT3
+Motif 13 Motif 64
+
+$STAU2
+Motif 2   Motif 9   Motif 11  Motif 12  Motif 13  Motif 28  Motif 34  Motif 36  Motif 37  Motif 40  Motif 42  Motif 61  Motif 62  Motif 67  Motif 73  Motif 79  Motif 98  Motif 109 Motif 346 Motif 371 Motif 372 Motif 373 Motif 378 Motif 379 Motif 380 Motif 384 Motif 385
+
+$STUB1
+Motif 44  Motif 196 Motif 205 Motif 206 Motif 247 Motif 248 Motif 249 Motif 250 Motif 279 Motif 281 Motif 284 Motif 288 Motif 301 Motif 305 Motif 309 Motif 310 Motif 312 Motif 317 Motif 435
+
+$SUCLG1
+Motif 179 Motif 182 Motif 193 Motif 194 Motif 210
+
+$SUMO1
+Motif 328
+
+$SUMO4
+Motif 455
+
+$SYNCRIP
+Motif 317
+
+$TADA2L
+Motif 15 Motif 30
+
+$TAF1A
+Motif 82  Motif 194 Motif 249 Motif 281 Motif 288 Motif 374
+
+$TAF6
+Motif 246
+
+$TAF9
+Motif 43  Motif 44  Motif 288
+
+$TAGLN2
+Motif 74  Motif 76  Motif 77  Motif 119 Motif 233 Motif 245 Motif 290 Motif 291 Motif 292 Motif 294 Motif 296 Motif 301 Motif 302 Motif 303 Motif 305 Motif 317 Motif 328 Motif 411 Motif 429 Motif 431
+
+$TBC1D2
+Motif 32
+
+$TBPL1
+Motif 156 Motif 180 Motif 183
+
+$TBX2
+Motif 284
+
+$TBX20
+Motif 1   Motif 2   Motif 3   Motif 4   Motif 9   Motif 14  Motif 16  Motif 17  Motif 22  Motif 23  Motif 24  Motif 28  Motif 29  Motif 32  Motif 33  Motif 36  Motif 45  Motif 46  Motif 47  Motif 49  Motif 50  Motif 54  Motif 56  Motif 58  Motif 59  Motif 63  Motif 64  Motif 67  Motif 69  Motif 74  Motif 79  Motif 89  Motif 90  Motif 95  Motif 96  Motif 98  Motif 103 Motif 104 Motif 105 Motif 112 Motif 116 Motif 117 Motif 118 Motif 120 Motif 121 Motif 123 Motif 124 Motif 126 Motif 127 Motif 128 Motif 129 Motif 132 Motif 134 Motif 137 Motif 140 Motif 141 Motif 145 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 167 Motif 168 Motif 170 Motif 173 Motif 174 Motif 175 Motif 176 Motif 177 Motif 178 Motif 179 Motif 180 Motif 187 Motif 205 Motif 224 Motif 225 Motif 240 Motif 247 Motif 250 Motif 266 Motif 267 Motif 268 Motif 276 Motif 280 Motif 284 Motif 426 Motif 458
+
+$TCEAL2
+Motif 116 Motif 124 Motif 137 Motif 138 Motif 141 Motif 144 Motif 145 Motif 180 Motif 182 Motif 183 Motif 190 Motif 193 Motif 194
+
+$TCEAL6
+Motif 1   Motif 3   Motif 4   Motif 8   Motif 16  Motif 17  Motif 23  Motif 48  Motif 50  Motif 67  Motif 68  Motif 69  Motif 72  Motif 80  Motif 85  Motif 92  Motif 93  Motif 95  Motif 113 Motif 196 Motif 248 Motif 249 Motif 288
+
+$TCEB2
+Motif 301
+
+$TCF3
+Motif 121 Motif 131 Motif 144 Motif 156 Motif 158 Motif 179 Motif 193 Motif 194
+
+$TCF7
+Motif 156 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 166 Motif 167 Motif 169 Motif 171 Motif 172 Motif 173 Motif 174 Motif 176 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 182 Motif 183 Motif 185 Motif 187 Motif 188 Motif 189 Motif 190 Motif 191 Motif 193 Motif 195 Motif 196 Motif 199
+
+$TEAD1
+Motif 249 Motif 267 Motif 301 Motif 309 Motif 332 Motif 333 Motif 428 Motif 429 Motif 439 Motif 446 Motif 448
+
+$TEAD2
+Motif 357
+
+$TERF1
+Motif 1   Motif 2   Motif 3   Motif 4   Motif 32  Motif 50  Motif 51  Motif 55  Motif 56  Motif 72  Motif 95  Motif 100 Motif 103 Motif 117 Motif 127 Motif 128 Motif 129 Motif 131 Motif 134 Motif 135 Motif 137 Motif 140 Motif 141 Motif 142 Motif 143 Motif 145 Motif 160 Motif 162 Motif 164 Motif 178 Motif 179 Motif 195 Motif 200 Motif 207 Motif 245 Motif 247 Motif 249 Motif 250 Motif 264 Motif 266 Motif 267 Motif 269 Motif 281 Motif 284 Motif 285 Motif 303 Motif 305 Motif 306 Motif 307 Motif 310 Motif 317 Motif 318 Motif 322 Motif 324 Motif 326 Motif 335 Motif 339 Motif 341 Motif 343 Motif 347 Motif 351 Motif 352 Motif 353 Motif 354 Motif 355 Motif 357 Motif 426 Motif 427 Motif 428 Motif 429 Motif 433 Motif 434 Motif 435 Motif 438 Motif 439 Motif 445 Motif 446 Motif 448 Motif 451 Motif 454 Motif 455 Motif 458 Motif 460
+
+$TFAM
+Motif 115 Motif 121 Motif 124 Motif 127 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 137 Motif 138 Motif 141 Motif 144 Motif 145 Motif 147 Motif 162 Motif 182 Motif 190 Motif 191 Motif 193 Motif 194 Motif 195 Motif 267 Motif 339 Motif 357 Motif 445
+
+$TFAP2A
+Motif 28  Motif 31  Motif 162
+
+$TFAP2B
+Motif 28
+
+$TFAP2C
+Motif 4   Motif 28  Motif 29  Motif 46  Motif 51  Motif 55  Motif 56  Motif 90  Motif 100 Motif 146 Motif 147 Motif 161 Motif 162 Motif 169 Motif 177 Motif 179 Motif 193 Motif 200 Motif 266 Motif 267 Motif 269 Motif 301 Motif 318 Motif 333 Motif 339 Motif 357 Motif 458
+
+$TFAP2E
+Motif 28  Motif 112 Motif 113 Motif 114 Motif 116 Motif 118 Motif 124 Motif 126 Motif 129 Motif 130 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 136 Motif 137 Motif 138 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 146 Motif 147 Motif 151 Motif 156 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 168 Motif 169 Motif 176 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 182 Motif 183 Motif 185 Motif 187 Motif 188 Motif 189 Motif 190 Motif 191 Motif 193 Motif 195 Motif 196 Motif 199 Motif 280 Motif 288
+
+$TFE3
+Motif 87  Motif 136 Motif 144 Motif 193 Motif 394 Motif 395 Motif 398 Motif 399 Motif 401 Motif 402 Motif 403 Motif 404 Motif 405 Motif 410 Motif 411 Motif 412 Motif 413 Motif 414 Motif 415 Motif 417 Motif 419 Motif 421 Motif 423
+
+$TFEB
+Motif 21  Motif 32  Motif 35  Motif 63  Motif 71  Motif 253
+
+$TFPT
+Motif 305
+
+$TGIF1
+Motif 3   Motif 6   Motif 7   Motif 8   Motif 9   Motif 34  Motif 42  Motif 61  Motif 62  Motif 75  Motif 76  Motif 221
+
+$TGIF2LX
+Motif 160 Motif 250 Motif 330
+
+$THAP3
+Motif 375 Motif 376
+
+$THAP4
+Motif 308
+
+$THAP5
+Motif 43  Motif 44  Motif 89  Motif 225
+
+$THRA
+Motif 32  Motif 156 Motif 233 Motif 247 Motif 249 Motif 269 Motif 280 Motif 281 Motif 284 Motif 288 Motif 310
+
+$THRAP6
+Motif 39  Motif 43  Motif 92  Motif 288
+
+$TIA1
+Motif 23  Motif 56  Motif 234 Motif 320 Motif 328 Motif 332 Motif 345 Motif 356 Motif 374 Motif 393
+
+$TIAL1
+Motif 320 Motif 332
+
+$TIMELESS
+Motif 200 Motif 269 Motif 429
+
+$TIMM44
+Motif 240 Motif 269 Motif 276 Motif 316 Motif 317 Motif 320 Motif 411
+
+$TIMM8A
+Motif 32  Motif 205 Motif 207 Motif 247 Motif 248 Motif 249 Motif 269 Motif 281 Motif 288 Motif 301 Motif 305 Motif 309 Motif 310 Motif 317
+
+$TMEM143
+Motif 72 Motif 92
+
+$TMEM38B
+Motif 434 Motif 435
+
+$TMEM48
+Motif 12 Motif 29
+
+$TMIGD2
+Motif 147 Motif 366
+
+$TMSL3
+Motif 15  Motif 249 Motif 281 Motif 308 Motif 310 Motif 428 Motif 429 Motif 430 Motif 435
+
+$TOB2
+Motif 140 Motif 267 Motif 315 Motif 316 Motif 357
+
+$TOMM70A
+Motif 301
+
+$TOX2
+Motif 43  Motif 286
+
+$TP53
+Motif 209
+
+$TP73
+Motif 1  Motif 5  Motif 12 Motif 28 Motif 29 Motif 36 Motif 37 Motif 38 Motif 39 Motif 40 Motif 42 Motif 43 Motif 44 Motif 62 Motif 63 Motif 66 Motif 70 Motif 79 Motif 80 Motif 81 Motif 82 Motif 85 Motif 86 Motif 88 Motif 89 Motif 92 Motif 93
+
+$TPI1
+Motif 1   Motif 15  Motif 308 Motif 310 Motif 435
+
+$TPPP
+Motif 1   Motif 41  Motif 92  Motif 95  Motif 100 Motif 117 Motif 134 Motif 151 Motif 249 Motif 281 Motif 305 Motif 428 Motif 429 Motif 445
+
+$TRFP
+Motif 301
+
+$TRIM21
+Motif 6  Motif 7  Motif 8  Motif 9  Motif 34 Motif 42 Motif 43 Motif 61 Motif 75 Motif 86 Motif 88 Motif 89 Motif 90
+
+$TRIM22
+Motif 374
+
+$TRIM25
+Motif 273
+
+$TRIM26
+Motif 269
+
+$TRIM31
+Motif 155 Motif 194
+
+$TRIM32
+Motif 112 Motif 285
+
+$TRIM34
+Motif 179
+
+$TRIM36
+Motif 458
+
+$TRIM40
+Motif 433
+
+$TRIM69
+Motif 1   Motif 4   Motif 16  Motif 28  Motif 29  Motif 36  Motif 40  Motif 41  Motif 43  Motif 44  Motif 61  Motif 79  Motif 83  Motif 301
+
+$TRIP10
+Motif 15  Motif 39  Motif 56  Motif 100 Motif 140 Motif 200 Motif 210 Motif 249 Motif 269 Motif 285 Motif 319 Motif 342 Motif 411
+
+$TRIP6
+Motif 135 Motif 136 Motif 137 Motif 138 Motif 141 Motif 144 Motif 145 Motif 156 Motif 158 Motif 159 Motif 162 Motif 165 Motif 169 Motif 172 Motif 177 Motif 180 Motif 181 Motif 182 Motif 183 Motif 185 Motif 187 Motif 188 Motif 189 Motif 190 Motif 191 Motif 193 Motif 195 Motif 196 Motif 199 Motif 366
+
+$TRMT1
+Motif 351 Motif 353 Motif 354 Motif 355 Motif 358 Motif 360 Motif 361 Motif 362 Motif 363 Motif 364 Motif 365 Motif 366 Motif 367 Motif 368 Motif 369 Motif 372 Motif 373 Motif 375 Motif 376 Motif 377 Motif 378 Motif 379 Motif 380 Motif 382 Motif 383 Motif 384 Motif 385
+
+$TROVE2
+Motif 55  Motif 194 Motif 205 Motif 247 Motif 276 Motif 281 Motif 284 Motif 285 Motif 315 Motif 320 Motif 342 Motif 374 Motif 426 Motif 435 Motif 438 Motif 446 Motif 448 Motif 456
+
+$TSC22D4
+Motif 16  Motif 77  Motif 210 Motif 315
+
+$TSN
+Motif 3   Motif 10  Motif 56  Motif 70  Motif 102 Motif 104 Motif 105 Motif 151 Motif 327 Motif 333 Motif 334 Motif 336 Motif 371 Motif 398 Motif 404 Motif 448
+
+$TSNAX
+Motif 14  Motif 35  Motif 36  Motif 40  Motif 41  Motif 43  Motif 44  Motif 79  Motif 81  Motif 82  Motif 86  Motif 88  Motif 89  Motif 98  Motif 194 Motif 240 Motif 269 Motif 411
+
+$TSPAN2
+Motif 240
+
+$TTF2
+Motif 72  Motif 249
+
+$TTRAP
+ Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 9   Motif 11  Motif 14  Motif 16  Motif 29  Motif 31  Motif 42  Motif 45  Motif 50  Motif 51  Motif 55  Motif 67  Motif 68  Motif 69  Motif 70  Motif 72  Motif 87  Motif 92  Motif 93  Motif 97  Motif 103 Motif 105 Motif 108 Motif 110 Motif 112 Motif 117 Motif 119 Motif 121 Motif 123 Motif 127 Motif 133 Motif 134 Motif 139 Motif 140 Motif 142 Motif 143 Motif 144 Motif 151 Motif 155 Motif 158 Motif 160 Motif 161 Motif 171 Motif 192 Motif 205 Motif 214 Motif 217 Motif 224 Motif 228 Motif 234 Motif 236 Motif 240 Motif 243 Motif 245 Motif 246 Motif 247 Motif 248 Motif 249 Motif 250 Motif 254 Motif 260 Motif 264 Motif 266 Motif 267 Motif 268 Motif 276 Motif 277 Motif 278 Motif 280 Motif 281 Motif 285 Motif 288 Motif 292 Motif 298 Motif 301 Motif 307 Motif 313 Motif 315 Motif 316 Motif 317 Motif 318 Motif 319 Motif 320 Motif 321 Motif 322 Motif 324 Motif 332 Motif 333 Motif 335 Motif 337 Motif 341 Motif 342 Motif 345 Motif 346 Motif 347 Motif 351 Motif 352 Motif 353 Motif 390 Motif 393 Motif 397 Motif 398 Motif 404 Motif 409 Motif 411 Motif 423 Motif 425 Motif 426 Motif 428 Motif 430 Motif 435 Motif 438 Motif 439 Motif 441 Motif 443 Motif 445 Motif 446 Motif 448 Motif 454 Motif 458 Motif 459 Motif 460
+
+$TULP1
+Motif 193 Motif 194 Motif 221 Motif 275 Motif 285 Motif 341
+
+$TWIST1
+Motif 147
+
+$TWIST2
+Motif 214 Motif 246
+
+$U2AF1
+Motif 3   Motif 55  Motif 79  Motif 85  Motif 90  Motif 103 Motif 112 Motif 123 Motif 136 Motif 137 Motif 144 Motif 150 Motif 181 Motif 228 Motif 240 Motif 245 Motif 390 Motif 397 Motif 398
+
+$UBB
+Motif 1  Motif 3  Motif 4  Motif 5  Motif 31 Motif 32 Motif 72 Motif 85 Motif 90 Motif 92 Motif 95
+
+$UBE2C
+Motif 23
+
+$UBE2I
+Motif 107
+
+$UBE2V1
+Motif 1   Motif 3   Motif 4   Motif 5   Motif 92  Motif 95  Motif 291 Motif 301
+
+$UBE2V2
+Motif 305
+
+$UBTD2
+Motif 77
+
+$UGP2
+Motif 361 Motif 362 Motif 363 Motif 368 Motif 369 Motif 389
+
+$UNG
+Motif 1   Motif 2   Motif 3   Motif 4   Motif 5   Motif 6   Motif 7   Motif 8   Motif 9   Motif 11  Motif 12  Motif 13  Motif 14  Motif 23  Motif 28  Motif 29  Motif 31  Motif 38  Motif 42  Motif 44  Motif 61  Motif 67  Motif 68  Motif 69  Motif 70  Motif 72  Motif 73  Motif 75  Motif 76  Motif 77  Motif 78  Motif 79  Motif 80  Motif 81  Motif 82  Motif 83  Motif 84  Motif 85  Motif 86  Motif 88  Motif 89  Motif 90  Motif 91  Motif 92  Motif 93  Motif 95  Motif 96  Motif 99  Motif 291 Motif 317
+
+$UNKL
+Motif 43  Motif 285
+
+$UPK3A
+Motif 1   Motif 2   Motif 3   Motif 5   Motif 8   Motif 32  Motif 47  Motif 51  Motif 100 Motif 105 Motif 109 Motif 121 Motif 123 Motif 127 Motif 128 Motif 129 Motif 132 Motif 133 Motif 134 Motif 136 Motif 140 Motif 142 Motif 267 Motif 318 Motif 344 Motif 353 Motif 357 Motif 426 Motif 446 Motif 454 Motif 455 Motif 458
+
+$UQCRB
+Motif 55  Motif 205 Motif 247 Motif 249 Motif 269 Motif 305 Motif 307 Motif 310 Motif 316 Motif 317 Motif 435 Motif 451
+
+$USF1
+Motif 21  Motif 32  Motif 35  Motif 37  Motif 165 Motif 204 Motif 253
+
+$USF2
+Motif 16  Motif 21  Motif 32  Motif 35  Motif 41  Motif 54  Motif 63  Motif 155 Motif 165 Motif 253 Motif 392
+
+$USP39
+Motif 1   Motif 100 Motif 132 Motif 133 Motif 140 Motif 144 Motif 160 Motif 162 Motif 169 Motif 194 Motif 195 Motif 245 Motif 247 Motif 267 Motif 285 Motif 336 Motif 347 Motif 351 Motif 353 Motif 355 Motif 357
+
+$UTP11L
+Motif 320
+
+$UTP18
+Motif 134 Motif 168 Motif 172 Motif 249 Motif 285 Motif 309 Motif 426 Motif 428 Motif 446
+
+$VAMP3
+Motif 31  Motif 55  Motif 200 Motif 240 Motif 247 Motif 249 Motif 267 Motif 269 Motif 281 Motif 284 Motif 305 Motif 309 Motif 320
+
+$VAMP4
+Motif 136 Motif 137
+
+$VAX2
+Motif 131 Motif 137 Motif 138 Motif 145 Motif 156 Motif 180 Motif 194
+
+$VCX3A
+Motif 459
+
+$VIL2
+Motif 2  Motif 11 Motif 12 Motif 28 Motif 34 Motif 36 Motif 38 Motif 39 Motif 42 Motif 70 Motif 92 Motif 93
+
+$VPS39
+Motif 429
+
+$VPS4B
+Motif 49  Motif 264 Motif 316
+
+$VSX1
+Motif 18 Motif 19 Motif 20 Motif 21 Motif 22 Motif 24 Motif 25 Motif 26 Motif 27 Motif 45 Motif 48 Motif 50 Motif 51 Motif 53 Motif 54 Motif 56 Motif 60
+
+$WBP11
+Motif 289
+
+$WDTC1
+Motif 42
+
+$WHSC2
+Motif 3   Motif 16  Motif 140 Motif 162 Motif 195 Motif 348
+
+$WISP2
+Motif 104 Motif 151 Motif 352 Motif 398 Motif 448
+
+$XG
+Motif 3   Motif 108 Motif 119
+
+$XPO5
+Motif 78
+
+$XRCC1
+Motif 1   Motif 92  Motif 147 Motif 155
+
+$XRCC2
+Motif 278
+
+$XRCC4
+Motif 269
+
+$XRCC6
+Motif 32  Motif 278
+
+$YBX1
+Motif 31  Motif 54  Motif 55  Motif 67  Motif 68  Motif 70  Motif 79  Motif 82  Motif 85  Motif 92  Motif 97  Motif 103 Motif 105 Motif 112 Motif 117 Motif 118 Motif 121 Motif 123 Motif 124 Motif 127 Motif 128 Motif 129 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 137 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 147 Motif 148 Motif 150 Motif 151 Motif 153 Motif 155 Motif 158 Motif 160 Motif 161 Motif 162 Motif 163 Motif 164 Motif 166 Motif 167 Motif 171 Motif 173 Motif 174 Motif 177 Motif 178 Motif 180 Motif 181 Motif 185 Motif 188 Motif 192 Motif 194 Motif 195 Motif 214 Motif 228 Motif 235 Motif 240 Motif 245 Motif 247 Motif 248 Motif 260 Motif 267 Motif 278 Motif 298 Motif 313 Motif 315 Motif 316 Motif 317 Motif 320 Motif 332 Motif 342 Motif 347 Motif 353 Motif 393 Motif 397 Motif 398 Motif 426 Motif 438 Motif 445 Motif 448 Motif 456 Motif 460
+
+$YBX2
+ Motif 3   Motif 5   Motif 16  Motif 23  Motif 32  Motif 50  Motif 54  Motif 55  Motif 57  Motif 60  Motif 67  Motif 68  Motif 70  Motif 72  Motif 79  Motif 82  Motif 85  Motif 90  Motif 92  Motif 97  Motif 103 Motif 105 Motif 112 Motif 115 Motif 116 Motif 117 Motif 118 Motif 119 Motif 121 Motif 123 Motif 124 Motif 125 Motif 127 Motif 128 Motif 129 Motif 132 Motif 133 Motif 134 Motif 135 Motif 137 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 147 Motif 148 Motif 150 Motif 151 Motif 152 Motif 153 Motif 155 Motif 157 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 163 Motif 164 Motif 165 Motif 167 Motif 171 Motif 172 Motif 173 Motif 174 Motif 175 Motif 177 Motif 178 Motif 180 Motif 181 Motif 188 Motif 192 Motif 194 Motif 195 Motif 200 Motif 214 Motif 228 Motif 234 Motif 235 Motif 240 Motif 245 Motif 247 Motif 248 Motif 260 Motif 264 Motif 266 Motif 267 Motif 278 Motif 298 Motif 300 Motif 306 Motif 310 Motif 313 Motif 315 Motif 316 Motif 317 Motif 320 Motif 332 Motif 342 Motif 348 Motif 353 Motif 390 Motif 393 Motif 397 Motif 398 Motif 423 Motif 426 Motif 428 Motif 430 Motif 435 Motif 438 Motif 439 Motif 441 Motif 443 Motif 445 Motif 446 Motif 453 Motif 454 Motif 456 Motif 458 Motif 460
+
+$YEATS4
+Motif 4   Motif 6   Motif 7   Motif 8   Motif 9   Motif 11  Motif 16  Motif 17  Motif 23  Motif 55  Motif 63  Motif 72  Motif 75  Motif 86  Motif 89  Motif 90  Motif 91  Motif 95  Motif 99  Motif 121 Motif 124 Motif 147 Motif 153 Motif 200 Motif 269
+
+$YWHAE
+Motif 225 Motif 301 Motif 429
+
+$YWHAZ
+Motif 72 Motif 76 Motif 77
+
+$YY1
+Motif 74
+
+$ZBED1
+Motif 132 Motif 133 Motif 135 Motif 140 Motif 179 Motif 195 Motif 240 Motif 247 Motif 249 Motif 267 Motif 281 Motif 284 Motif 307 Motif 310 Motif 317 Motif 332 Motif 429
+
+$ZBED2
+Motif 408
+
+$ZBED5
+Motif 215 Motif 230
+
+$ZBTB1
+Motif 221
+
+$ZBTB12
+Motif 59  Motif 357 Motif 426 Motif 448
+
+$ZBTB16
+Motif 55  Motif 342
+
+$ZBTB22
+Motif 1   Motif 4   Motif 8   Motif 14  Motif 28  Motif 34  Motif 38  Motif 63  Motif 74  Motif 76  Motif 80  Motif 82  Motif 83  Motif 84  Motif 86  Motif 89  Motif 92  Motif 93  Motif 95  Motif 99  Motif 115 Motif 116 Motif 117 Motif 118 Motif 120 Motif 121 Motif 122 Motif 123 Motif 124 Motif 126 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 134 Motif 136 Motif 137 Motif 138 Motif 140 Motif 144 Motif 145 Motif 151 Motif 155 Motif 156 Motif 157 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 169 Motif 173 Motif 174 Motif 176 Motif 177 Motif 178 Motif 179 Motif 315
+
+$ZBTB25
+Motif 16  Motif 17  Motif 18  Motif 19  Motif 20  Motif 22  Motif 24  Motif 25  Motif 26  Motif 27  Motif 47  Motif 48  Motif 100 Motif 101 Motif 102 Motif 103 Motif 104 Motif 111
+
+$ZBTB3
+Motif 70  Motif 179
+
+$ZBTB33
+Motif 422
+
+$ZBTB4
+Motif 55  Motif 195 Motif 247 Motif 267 Motif 307 Motif 309 Motif 310 Motif 315 Motif 317 Motif 324 Motif 332 Motif 333 Motif 342 Motif 345 Motif 347 Motif 353 Motif 426 Motif 439 Motif 445 Motif 448 Motif 458
+
+$ZBTB43
+Motif 343 Motif 354 Motif 366
+
+$ZBTB46
+Motif 147 Motif 179 Motif 183 Motif 363
+
+$ZBTB7A
+Motif 2   Motif 6   Motif 8   Motif 9   Motif 11  Motif 12  Motif 28  Motif 34  Motif 35  Motif 36  Motif 37  Motif 39  Motif 40  Motif 41  Motif 42  Motif 43  Motif 44  Motif 61  Motif 62  Motif 63  Motif 67  Motif 73  Motif 75  Motif 79  Motif 80  Motif 81  Motif 82  Motif 83  Motif 85  Motif 86  Motif 88  Motif 90  Motif 91  Motif 93  Motif 98  Motif 110 Motif 377
+
+$ZBTB7B
+Motif 124
+
+$ZC3H7A
+Motif 16  Motif 17  Motif 72  Motif 77  Motif 269 Motif 301
+
+$ZCCHC13
+Motif 3   Motif 41  Motif 59  Motif 104 Motif 244 Motif 264 Motif 315 Motif 318 Motif 322 Motif 324 Motif 325 Motif 327 Motif 330 Motif 333 Motif 334 Motif 336 Motif 340 Motif 343 Motif 344 Motif 347 Motif 352 Motif 354 Motif 357 Motif 360 Motif 361 Motif 363 Motif 364 Motif 365 Motif 367 Motif 370 Motif 371 Motif 390 Motif 393 Motif 398 Motif 399 Motif 400 Motif 404 Motif 411 Motif 412 Motif 415 Motif 418 Motif 426 Motif 427 Motif 428 Motif 432 Motif 439 Motif 440 Motif 444 Motif 445 Motif 448 Motif 449 Motif 451 Motif 454
+
+$ZCCHC14
+Motif 68  Motif 301 Motif 345
+
+$ZCCHC17
+Motif 309 Motif 310 Motif 330 Motif 332 Motif 333 Motif 335 Motif 337 Motif 339 Motif 341 Motif 426 Motif 429 Motif 434 Motif 435 Motif 439
+
+$ZCCHC3
+Motif 3   Motif 371
+
+$ZCCHC7
+Motif 414
+
+$ZCCHC8
+Motif 117 Motif 233
+
+$ZCCHC9
+Motif 3   Motif 39  Motif 50  Motif 55  Motif 56  Motif 59  Motif 128 Motif 129 Motif 132 Motif 133 Motif 134 Motif 141 Motif 142 Motif 143 Motif 144 Motif 189 Motif 195 Motif 240 Motif 245 Motif 247 Motif 249 Motif 267 Motif 276 Motif 280 Motif 281 Motif 283 Motif 284 Motif 285 Motif 306 Motif 307 Motif 309 Motif 310 Motif 315 Motif 316 Motif 317 Motif 318 Motif 320 Motif 321 Motif 322 Motif 324 Motif 326 Motif 327 Motif 332 Motif 333 Motif 334 Motif 335 Motif 336 Motif 338 Motif 340 Motif 341 Motif 342 Motif 347 Motif 351 Motif 352 Motif 353 Motif 355 Motif 357 Motif 371 Motif 383 Motif 384 Motif 397 Motif 398 Motif 411 Motif 412 Motif 426 Motif 427 Motif 428 Motif 429 Motif 430 Motif 432 Motif 434 Motif 435 Motif 439 Motif 441 Motif 445 Motif 446 Motif 448 Motif 449 Motif 452 Motif 453 Motif 454 Motif 456 Motif 458 Motif 460
+
+$ZCRB1
+ Motif 1   Motif 3   Motif 4   Motif 5   Motif 6   Motif 9   Motif 15  Motif 31  Motif 32  Motif 50  Motif 54  Motif 55  Motif 100 Motif 103 Motif 104 Motif 105 Motif 107 Motif 108 Motif 111 Motif 117 Motif 118 Motif 121 Motif 123 Motif 124 Motif 127 Motif 128 Motif 129 Motif 131 Motif 132 Motif 133 Motif 134 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 147 Motif 150 Motif 151 Motif 152 Motif 153 Motif 155 Motif 156 Motif 157 Motif 160 Motif 161 Motif 162 Motif 164 Motif 166 Motif 167 Motif 169 Motif 174 Motif 175 Motif 178 Motif 188 Motif 192 Motif 195 Motif 214 Motif 234 Motif 240 Motif 245 Motif 247 Motif 264 Motif 266 Motif 267 Motif 276 Motif 277 Motif 278 Motif 280 Motif 285 Motif 294 Motif 298 Motif 299 Motif 300 Motif 303 Motif 305 Motif 306 Motif 307 Motif 308 Motif 309 Motif 310 Motif 312 Motif 313 Motif 314 Motif 315 Motif 316 Motif 317 Motif 318 Motif 319 Motif 320 Motif 321 Motif 322 Motif 324 Motif 326 Motif 327 Motif 329 Motif 332 Motif 333 Motif 334 Motif 335 Motif 336 Motif 338 Motif 339 Motif 340 Motif 341 Motif 342 Motif 343 Motif 344 Motif 345 Motif 346 Motif 347 Motif 348 Motif 349 Motif 350 Motif 351 Motif 352 Motif 353 Motif 355 Motif 356 Motif 357 Motif 359 Motif 360 Motif 363 Motif 364 Motif 365 Motif 366 Motif 371 Motif 374 Motif 377 Motif 378 Motif 381 Motif 383 Motif 384 Motif 385 Motif 386 Motif 390 Motif 393 Motif 397 Motif 398 Motif 400 Motif 404 Motif 411 Motif 412 Motif 415 Motif 418 Motif 423 Motif 426 Motif 427 Motif 428 Motif 429 Motif 430 Motif 432 Motif 433 Motif 434 Motif 435 Motif 438 Motif 439 Motif 440 Motif 441 Motif 442 Motif 443 Motif 444 Motif 445 Motif 446 Motif 448 Motif 449 Motif 450 Motif 452 Motif 453 Motif 454 Motif 455 Motif 456 Motif 458 Motif 460
+
+$ZDHHC11
+Motif 15  Motif 50  Motif 55  Motif 56  Motif 100 Motif 103 Motif 105 Motif 108 Motif 112 Motif 113 Motif 132 Motif 133 Motif 140 Motif 151 Motif 185 Motif 188 Motif 205 Motif 234 Motif 240 Motif 245 Motif 247 Motif 248 Motif 264 Motif 267 Motif 280 Motif 281 Motif 288 Motif 307 Motif 316 Motif 328 Motif 342 Motif 351 Motif 355 Motif 378 Motif 383 Motif 397 Motif 398 Motif 411 Motif 438 Motif 445 Motif 446 Motif 448 Motif 460
+
+$ZDHHC15
+Motif 202 Motif 208 Motif 214 Motif 215 Motif 219 Motif 222 Motif 225 Motif 230 Motif 233 Motif 234 Motif 252 Motif 263
+
+$ZDHHC5
+Motif 5  Motif 16 Motif 23 Motif 68 Motif 92
+
+$ZER1
+Motif 151
+
+$ZFAND5
+Motif 288 Motif 289
+
+$ZFP106
+Motif 32  Motif 342
+
+$ZFP161
+Motif 63
+
+$Zfp212
+Motif 147 Motif 153
+
+$ZFP3
+Motif 124 Motif 140 Motif 189 Motif 225 Motif 315 Motif 333
+
+$Zfp617
+Motif 301
+
+$ZHX3
+Motif 1   Motif 3   Motif 16  Motif 30  Motif 67  Motif 68  Motif 69  Motif 72  Motif 73  Motif 79  Motif 85  Motif 92  Motif 117 Motif 155 Motif 158 Motif 160 Motif 198
+
+$ZKSCAN5
+Motif 55  Motif 342
+
+$ZMAT2
+Motif 3  Motif 5  Motif 68
+
+$ZMAT4
+Motif 55  Motif 144 Motif 151 Motif 157 Motif 179 Motif 183 Motif 345 Motif 378 Motif 384 Motif 398 Motif 400 Motif 401 Motif 417 Motif 422 Motif 423 Motif 434 Motif 448
+
+$ZMYM3
+Motif 1   Motif 5   Motif 16  Motif 23  Motif 50  Motif 55  Motif 56  Motif 68  Motif 72  Motif 85  Motif 92  Motif 108 Motif 112 Motif 117 Motif 128 Motif 129 Motif 132 Motif 140 Motif 163 Motif 181 Motif 185 Motif 188 Motif 194 Motif 195 Motif 200 Motif 264 Motif 269 Motif 285 Motif 320 Motif 328 Motif 353 Motif 355 Motif 378
+
+$ZNF124
+Motif 155 Motif 156 Motif 159 Motif 160 Motif 165 Motif 166 Motif 167 Motif 169 Motif 176 Motif 177 Motif 183
+
+$ZNF131
+Motif 9  Motif 14 Motif 36 Motif 43 Motif 44 Motif 75 Motif 79 Motif 80 Motif 81 Motif 83 Motif 86
+
+$ZNF134
+Motif 264
+
+$ZNF160
+Motif 55  Motif 133 Motif 158 Motif 178 Motif 188 Motif 240 Motif 247 Motif 269 Motif 317 Motif 320 Motif 398 Motif 411
+
+$ZNF182
+Motif 233
+
+$ZNF192
+Motif 320 Motif 345 Motif 355 Motif 398
+
+$ZNF193
+Motif 128 Motif 129 Motif 378
+
+$ZNF205
+Motif 128 Motif 129 Motif 131 Motif 132 Motif 140 Motif 142 Motif 240 Motif 266 Motif 267 Motif 345 Motif 426 Motif 448
+
+$ZNF207
+Motif 1  Motif 3  Motif 72 Motif 92
+
+$ZNF215
+Motif 43
+
+$ZNF238
+Motif 47  Motif 118 Motif 121 Motif 162 Motif 163 Motif 167 Motif 171 Motif 181 Motif 186 Motif 240 Motif 330 Motif 336 Motif 342 Motif 429 Motif 446
+
+$ZNF239
+Motif 17
+
+$ZNF250
+Motif 55  Motif 316 Motif 317 Motif 342 Motif 374 Motif 411
+
+$ZNF253
+Motif 107 Motif 426
+
+$ZNF26
+Motif 59  Motif 81  Motif 82  Motif 83  Motif 85  Motif 86  Motif 89  Motif 90  Motif 92  Motif 93  Motif 95  Motif 107 Motif 121 Motif 128 Motif 153 Motif 201 Motif 213 Motif 224 Motif 240 Motif 292 Motif 294 Motif 301 Motif 317 Motif 395 Motif 397 Motif 409 Motif 425
+
+$ZNF273
+Motif 70
+
+$ZNF277
+Motif 291
+
+$ZNF281
+Motif 222 Motif 274
+
+$ZNF289
+Motif 280
+
+$ZNF3
+Motif 6   Motif 7   Motif 9   Motif 61  Motif 85  Motif 100 Motif 104 Motif 136 Motif 141 Motif 144 Motif 145 Motif 201 Motif 204 Motif 206 Motif 225 Motif 267 Motif 316 Motif 318 Motif 342 Motif 426
+
+$ZNF302
+Motif 375
+
+$ZNF304
+Motif 303 Motif 304 Motif 310 Motif 427
+
+$ZNF313
+Motif 301 Motif 361 Motif 366
+
+$ZNF323
+Motif 369 Motif 377 Motif 378 Motif 384
+
+$ZNF326
+Motif 119 Motif 128 Motif 134 Motif 151 Motif 157 Motif 163 Motif 240 Motif 285 Motif 328 Motif 345 Motif 347
+
+$ZNF330
+Motif 1   Motif 5   Motif 11  Motif 12  Motif 13  Motif 14  Motif 16  Motif 17  Motif 19  Motif 23  Motif 30  Motif 31  Motif 45  Motif 47  Motif 50  Motif 54  Motif 59  Motif 67  Motif 68  Motif 69  Motif 70  Motif 72  Motif 73  Motif 75  Motif 81  Motif 83  Motif 85  Motif 86  Motif 89  Motif 90  Motif 92  Motif 93  Motif 95  Motif 99  Motif 103 Motif 117 Motif 119 Motif 121 Motif 155 Motif 157 Motif 160 Motif 164 Motif 165 Motif 172 Motif 173 Motif 174 Motif 175 Motif 177 Motif 178 Motif 179 Motif 181 Motif 193 Motif 194 Motif 195 Motif 235 Motif 240 Motif 245 Motif 248 Motif 253 Motif 256 Motif 276 Motif 278 Motif 285 Motif 316 Motif 393 Motif 397 Motif 409 Motif 456
+
+$ZNF331
+Motif 43
+
+$ZNF34
+Motif 1   Motif 3   Motif 16  Motif 31  Motif 42  Motif 50  Motif 55  Motif 88  Motif 92  Motif 103 Motif 121 Motif 127 Motif 128 Motif 129 Motif 132 Motif 133 Motif 140 Motif 142 Motif 143 Motif 150 Motif 153 Motif 155 Motif 158 Motif 160 Motif 162 Motif 171 Motif 174 Motif 177 Motif 178 Motif 192 Motif 195 Motif 240 Motif 247 Motif 264 Motif 266 Motif 267 Motif 276 Motif 277 Motif 280 Motif 307 Motif 315 Motif 316 Motif 317 Motif 320 Motif 324 Motif 342 Motif 347 Motif 351 Motif 352 Motif 353 Motif 355 Motif 378 Motif 384 Motif 393 Motif 397 Motif 398 Motif 411 Motif 412 Motif 456
+
+$ZNF342
+Motif 357
+
+$ZNF345
+Motif 155
+
+$ZNF37A
+Motif 70
+
+$ZNF385
+Motif 276 Motif 317 Motif 345 Motif 347 Motif 357
+
+$ZNF408
+Motif 433
+
+$ZNF410
+Motif 267 Motif 280
+
+$ZNF436
+Motif 210
+
+$ZNF444
+Motif 68
+
+$ZNF461
+Motif 1   Motif 133 Motif 141 Motif 144 Motif 151 Motif 157 Motif 174 Motif 175 Motif 177 Motif 179 Motif 180 Motif 182 Motif 183 Motif 190 Motif 192 Motif 194 Motif 195 Motif 304 Motif 305 Motif 316 Motif 320 Motif 332 Motif 333 Motif 342 Motif 345 Motif 355 Motif 369 Motif 374 Motif 392 Motif 394 Motif 396 Motif 397 Motif 398 Motif 399 Motif 400 Motif 401 Motif 402 Motif 404 Motif 405 Motif 406 Motif 408 Motif 410 Motif 411 Motif 412 Motif 414 Motif 415 Motif 416 Motif 417 Motif 418 Motif 419 Motif 420 Motif 421 Motif 422 Motif 423 Motif 424 Motif 425 Motif 426 Motif 427 Motif 428 Motif 429 Motif 434 Motif 435 Motif 438 Motif 445 Motif 456 Motif 460
+
+$ZNF471
+Motif 153 Motif 246
+
+$ZNF491
+Motif 450
+
+$ZNF496
+Motif 374
+
+$ZNF498
+ Motif 1   Motif 8   Motif 14  Motif 28  Motif 32  Motif 47  Motif 50  Motif 59  Motif 67  Motif 71  Motif 72  Motif 73  Motif 74  Motif 77  Motif 79  Motif 80  Motif 81  Motif 83  Motif 84  Motif 85  Motif 86  Motif 87  Motif 94  Motif 104 Motif 105 Motif 109 Motif 112 Motif 113 Motif 114 Motif 115 Motif 116 Motif 117 Motif 118 Motif 120 Motif 121 Motif 122 Motif 123 Motif 124 Motif 125 Motif 126 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 136 Motif 137 Motif 138 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 145 Motif 146 Motif 147 Motif 150 Motif 153 Motif 154 Motif 155 Motif 156 Motif 157 Motif 158 Motif 159 Motif 160 Motif 161 Motif 162 Motif 163 Motif 165 Motif 168 Motif 169 Motif 170 Motif 171 Motif 172 Motif 173 Motif 174 Motif 175 Motif 176 Motif 177 Motif 178 Motif 179 Motif 180 Motif 185 Motif 189 Motif 192 Motif 193 Motif 194 Motif 195 Motif 196 Motif 198 Motif 199 Motif 203 Motif 206 Motif 207 Motif 208 Motif 211 Motif 219 Motif 229 Motif 231 Motif 232 Motif 235 Motif 237 Motif 239 Motif 240 Motif 241 Motif 242 Motif 243 Motif 249 Motif 250 Motif 252 Motif 253 Motif 256 Motif 257 Motif 261 Motif 263 Motif 264 Motif 265 Motif 266 Motif 267 Motif 268 Motif 270 Motif 272 Motif 273 Motif 275 Motif 289 Motif 298 Motif 315 Motif 316 Motif 317 Motif 318 Motif 320 Motif 344 Motif 347 Motif 351 Motif 352 Motif 353 Motif 357 Motif 426 Motif 429 Motif 437 Motif 445 Motif 446 Motif 454 Motif 455 Motif 458 Motif 460
+
+$ZNF501
+Motif 12
+
+$ZNF503
+Motif 83 Motif 85 Motif 86 Motif 89 Motif 90 Motif 92 Motif 93
+
+$ZNF507
+Motif 430
+
+$ZNF510
+Motif 183 Motif 357 Motif 361 Motif 371
+
+$ZNF553
+Motif 1
+
+$ZNF555
+Motif 39
+
+$ZNF587
+Motif 43  Motif 288
+
+$ZNF606
+Motif 16  Motif 54  Motif 56  Motif 112 Motif 121 Motif 124 Motif 127 Motif 128 Motif 129 Motif 131 Motif 132 Motif 133 Motif 135 Motif 140 Motif 144 Motif 158 Motif 171 Motif 179 Motif 195 Motif 240 Motif 247 Motif 249 Motif 264 Motif 267 Motif 280 Motif 281 Motif 285 Motif 307 Motif 309 Motif 310 Motif 317 Motif 324 Motif 332 Motif 341 Motif 345 Motif 426 Motif 429 Motif 435 Motif 439 Motif 445 Motif 458
+
+$ZNF613
+Motif 433
+
+$ZNF641
+Motif 72 Motif 92
+
+$ZNF646
+Motif 55  Motif 342
+
+$ZNF655
+Motif 1   Motif 2   Motif 12  Motif 28  Motif 29  Motif 34  Motif 36  Motif 37  Motif 40  Motif 42  Motif 43  Motif 44  Motif 75  Motif 79  Motif 81  Motif 82  Motif 83  Motif 86  Motif 88  Motif 98  Motif 269
+
+$ZNF668
+Motif 29
+
+$ZNF671
+Motif 333 Motif 335 Motif 339
+
+$ZNF683
+Motif 23
+
+$ZNF691
+ Motif 1   Motif 3   Motif 8   Motif 32  Motif 39  Motif 55  Motif 56  Motif 68  Motif 89  Motif 92  Motif 109 Motif 112 Motif 113 Motif 114 Motif 115 Motif 116 Motif 117 Motif 118 Motif 120 Motif 121 Motif 123 Motif 124 Motif 125 Motif 127 Motif 128 Motif 129 Motif 130 Motif 131 Motif 132 Motif 133 Motif 134 Motif 135 Motif 137 Motif 140 Motif 141 Motif 142 Motif 143 Motif 144 Motif 153 Motif 155 Motif 158 Motif 160 Motif 161 Motif 162 Motif 163 Motif 164 Motif 166 Motif 168 Motif 169 Motif 171 Motif 172 Motif 173 Motif 174 Motif 175 Motif 176 Motif 177 Motif 178 Motif 179 Motif 180 Motif 181 Motif 182 Motif 183 Motif 184 Motif 185 Motif 186 Motif 187 Motif 188 Motif 189 Motif 190 Motif 191 Motif 193 Motif 194 Motif 195 Motif 200 Motif 206 Motif 207 Motif 214 Motif 217 Motif 219 Motif 230 Motif 239 Motif 240 Motif 245 Motif 247 Motif 248 Motif 252 Motif 253 Motif 254 Motif 264 Motif 265 Motif 266 Motif 267 Motif 268 Motif 275 Motif 276 Motif 277 Motif 278 Motif 280 Motif 282 Motif 283 Motif 285 Motif 287 Motif 289 Motif 316 Motif 318 Motif 319 Motif 320 Motif 321 Motif 322 Motif 323 Motif 324 Motif 332 Motif 333 Motif 343 Motif 351 Motif 352 Motif 353 Motif 355 Motif 357 Motif 377 Motif 378 Motif 390 Motif 393 Motif 396 Motif 397 Motif 398 Motif 411 Motif 441 Motif 454 Motif 455 Motif 456
+
+$ZNF695
+Motif 3   Motif 6   Motif 7   Motif 9   Motif 12  Motif 28  Motif 29  Motif 31  Motif 34  Motif 64  Motif 70  Motif 75  Motif 109 Motif 110
+
+$ZNF706
+Motif 1   Motif 174 Motif 278 Motif 285 Motif 333
+
+$ZNF71
+Motif 43 Motif 44 Motif 55
+
+$ZNF711
+Motif 140
+
+$ZNF720
+Motif 401 Motif 403 Motif 410 Motif 411 Motif 416 Motif 417 Motif 421 Motif 422 Motif 423
+
+$ZNF74
+Motif 30 Motif 32
+
+$ZNF76
+Motif 137 Motif 138 Motif 141 Motif 144 Motif 145 Motif 182 Motif 183 Motif 190 Motif 193 Motif 196
+
+$ZNF765
+Motif 1   Motif 3   Motif 4   Motif 6   Motif 7   Motif 13  Motif 15  Motif 16  Motif 17  Motif 19  Motif 23  Motif 26  Motif 32  Motif 45  Motif 50  Motif 51  Motif 54  Motif 55  Motif 56  Motif 59  Motif 68  Motif 69  Motif 72  Motif 76  Motif 77  Motif 85  Motif 90  Motif 92  Motif 95  Motif 100 Motif 111 Motif 112 Motif 158 Motif 168 Motif 172 Motif 175 Motif 179 Motif 188 Motif 195 Motif 200 Motif 240 Motif 245 Motif 247 Motif 248 Motif 249 Motif 250 Motif 256 Motif 276 Motif 285 Motif 305 Motif 307 Motif 309 Motif 310 Motif 317 Motif 318 Motif 319 Motif 320 Motif 322 Motif 324 Motif 332 Motif 333 Motif 337 Motif 339 Motif 393 Motif 397 Motif 398 Motif 411 Motif 412 Motif 426 Motif 428 Motif 430 Motif 431 Motif 434 Motif 435 Motif 439 Motif 441 Motif 445 Motif 446 Motif 448 Motif 458 Motif 460
+
+$ZNF766
+Motif 15  Motif 320 Motif 342
+
+$ZNF784
+Motif 1   Motif 16  Motif 23  Motif 50  Motif 55  Motif 56  Motif 68  Motif 100 Motif 103 Motif 117 Motif 133 Motif 140 Motif 150 Motif 152 Motif 160 Motif 164 Motif 170 Motif 171 Motif 175 Motif 188 Motif 195 Motif 240 Motif 245 Motif 276 Motif 307 Motif 309 Motif 316 Motif 317 Motif 320 Motif 332 Motif 342 Motif 397 Motif 398 Motif 411 Motif 426 Motif 438 Motif 439 Motif 456 Motif 458 Motif 459
+
+$ZRANB2
+Motif 3   Motif 4   Motif 9   Motif 12  Motif 14  Motif 44  Motif 50  Motif 59  Motif 100 Motif 116 Motif 151 Motif 178 Motif 200 Motif 207 Motif 221 Motif 241 Motif 244 Motif 247 Motif 267 Motif 269 Motif 277 Motif 285 Motif 305 Motif 306 Motif 307 Motif 309 Motif 310 Motif 324 Motif 326 Motif 327 Motif 328 Motif 330 Motif 333 Motif 334 Motif 335 Motif 336 Motif 338 Motif 340 Motif 341 Motif 345 Motif 347 Motif 352 Motif 371 Motif 392 Motif 398 Motif 399 Motif 404 Motif 411 Motif 421 Motif 426 Motif 427 Motif 428 Motif 429 Motif 439 Motif 440 Motif 444 Motif 446 Motif 448 Motif 449 Motif 451 Motif 453 Motif 454 Motif 455 Motif 458
+
+$ZRF1
+Motif 375
+
+$ZRSR2
+Motif 194 Motif 221 Motif 224 Motif 235 Motif 335 Motif 340 Motif 341
+
+$ZSCAN20
+Motif 200 Motif 269
+
+$ZSCAN21
+Motif 301
+
+$ZSWIM1
+Motif 112 Motif 127 Motif 128 Motif 129 Motif 131 Motif 136 Motif 137 Motif 140 Motif 142 Motif 143 Motif 144 Motif 145 Motif 147 Motif 155 Motif 156 Motif 160 Motif 161 Motif 183 Motif 288 Motif 289
+
+$ZXDC
+Motif 13
+
+$ZYX
+Motif 44
+

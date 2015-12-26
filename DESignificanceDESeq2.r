@@ -1,0 +1,12 @@
+DESignificanceDESeq2= function(DEresults,pvalThreshold){
+		
+	DEresultsAdjPvalOrdered=DEresults[order(DEresults$padj),]
+	DEresultsAdjPvalOrderedSignificantlyDifferentGeneIndex=which(DEresultsAdjPvalOrdered$padj<pvalThreshold)
+	DEresultsAdjPvalOrderedSignificantlyDifferentGene=DEresultsAdjPvalOrdered[DEresultsAdjPvalOrderedSignificantlyDifferentGeneIndex,]
+	#dim(DEresultsAdjPvalOrderedSignificantlyDifferentGene)
+	gbmGeneExpressionMatrixSignificant=gbmGeneExpressionMatrix[DEresultsAdjPvalOrderedSignificantlyDifferentGeneIndex,]
+
+	return(list(DEresultsAdjPvalOrderedSignificantlyDifferentGene,gbmGeneExpressionMatrixSignificant))
+
+
+}
